@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">People</h1>
+  <h1>People</h1>
 
   <ul class="post-list">
     {% for person in site.people %}
@@ -13,9 +13,7 @@ layout: default
 <!--         <span class="post-meta">{{ person.name }}</span>
  -->
          <img src="/assets/{{ person.picture }}" width="30%" align="left" style="margin:0px 20px 0px 0px">
-        <h2>
-          <a class="post-link" href="{{ person.url | prepend: site.baseurl }}">{{ person.name }}</a>
-        </h2>
+        <h2> {{ person.name }}  </h2>
 
         {{ person.content }}
       </li>
