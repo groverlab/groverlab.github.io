@@ -20,3 +20,12 @@ github_username:  groverlab
 
 # Build settings
 markdown: kramdown
+
+
+
+
+collections:
+  - people
+
+  
+  

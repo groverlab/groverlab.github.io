@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">People</h1>
+
+  <ul class="post-list">
+    {% for person in site.people %}
+      <li>
+        <span class="post-meta">{{ person.name }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ person.url | prepend: site.baseurl }}">{{ person.name }}</a>
+        </h2>
+        {{ person.content }}
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
