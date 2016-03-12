@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Shirin featured in UCR Magazine"
-date:   2016-03-11 12:48:52 -0800
+date:   2016-03-01 12:48:52 -0800
 categories: news
 ---
 ![Shirin UCR Magazine](/assets/shirin-ucr-magazine.jpg)
