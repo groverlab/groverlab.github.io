@@ -29,7 +29,6 @@ Pierce 3309 Users:
  1. Log in to the UC Learning Center.
  2. In the box on the right, click Transcript.
  3. You should see a record of completion for each of the following topics:
- 3. You should see a record of completion for each of the following topics:
     - [Hazardous Waste Management](http://ehs.ucr.edu/training/online/hwm/indexlms.html)
     - [Laboratory Safety Orientation (Fundamentals)](http://ehs.ucr.edu/training/online/lso/indexlms.html)
     - [Machine Guarding](http://www.ehs.ucr.edu/training/online/machine.html)
