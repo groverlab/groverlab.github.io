@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1>Education</h1>
+
+  <ul class="post-list">
+    {% for item in site.education %}
+      <li>
+      <br>
+           
+        <h2> {{ item.title }}  </h2>
+        {{ item.content }}
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
