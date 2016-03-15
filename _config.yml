@@ -25,9 +25,13 @@ markdown: kramdown
 
 
 collections:
-  - people
-  - research
-  - education
+  people:
+    output: true
+  research:
+    output: true
+  education:
+    output: true
+    
 
   
   

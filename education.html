@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /education/
 ---
 
 <div class="home">
@@ -11,7 +12,7 @@ layout: default
       <li>
       <br>
            
-        <h2> {{ item.title }}  </h2>
+        <h1>           <a class="post-link" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></h1>
         {{ item.content }}
       </li>
     {% endfor %}

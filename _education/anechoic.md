@@ -55,7 +55,9 @@ Mac users:
 3. Install the free version of Anaconda by following the instructions here:  http://continuum.io/downloads
 
 4. Download and unzip my sample Python analysis code from here:  https://github.com/groverlab/anechoic-python/archive/master.zip
+
 5. Run the sample Python program called “anechoic.py” which should open the sample audio file called “Anechoic_reflected_sound_file.m4a” and plot the file.
+
 6. If everything works, you can replace that sample audio file with your own audio file (emailed from the Anechoic app) and rerun the Python program “anechoic.py” to plot it.
 
 
