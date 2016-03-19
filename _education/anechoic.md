@@ -9,10 +9,10 @@ Anechoic plays a user-selected sound from your phone's speaker, then uses your p
 
 Students can use Anechoic to explore how sound waves interact with matter, answering questions like:
 
-How does the distance between the phone and the object affect the intensity of reflected sound?
-How does the frequency of the sound determine how much of the sound is absorbed or reflected by an object?
-How do an object's shape and material properties influence how sound is absorbed or reflected by the object?
-How can sound be used to detect objects or measure the distance to an object? 
+  * How does the distance between the phone and the object affect the intensity of reflected sound?
+  * How does the frequency of the sound determine how much of the sound is absorbed or reflected by an object?
+  * How do an object's shape and material properties influence how sound is absorbed or reflected by the object?
+  * How can sound be used to detect objects or measure the distance to an object? 
 
 
 Anechoic and the Next Generation Science Standards
