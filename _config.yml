@@ -7,14 +7,14 @@
 
 # Site settings
 title: Grover Lab
-email: wgrover@ucr.edu
+email: wgrover@engr.ucr.edu
 description: > # this means to ignore newlines until "baseurl:"
   Grover Lab<br>
   Department of Bioengineering<br>
   University of California, Riverside<br>
   Riverside, CA 92521
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://groverlab.org" # the base hostname & protocol for your site
 twitter_username: wgrover
 github_username:  groverlab
 
