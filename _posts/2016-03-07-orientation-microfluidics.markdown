@@ -6,5 +6,5 @@ categories: papers
 ---
 ![Orientation-based microfluidics](/assets/orientation-based-microfluidics.png)
 
-Nazila Norouzi and Heran Bhakta's paper "Orientatio-Based Control of Microfluidics" was published in *PLOS ONE*.
+Nazila Norouzi and Heran Bhakta's paper "Orientation-Based Control of Microfluidics" was published in *PLOS ONE*.
 
