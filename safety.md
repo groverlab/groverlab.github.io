@@ -17,8 +17,8 @@ MS&E 268 Users:
     - [Hazardous Waste Management](http://ehs.ucr.edu/training/online/hwm/indexlms.html)
     - [Laboratory Safety Orientation (Fundamentals)](http://ehs.ucr.edu/training/online/lso/indexlms.html)
     - [Laser Safety](http://ehs.ucr.edu/training/online/laser/indexlms.html)
-    - [Machine Guarding](http://www.ehs.ucr.edu/training/online/machine.html)
-    - [Hand and Power Tool Safety](http://ehs.ucr.edu/training/online/tool.html)
+    - [Machine Guarding](http://ehs.ucr.edu/training/online/skillsoft/machine.html)
+    - [Hand and Power Tool Safety](http://ehs.ucr.edu/training/online/skillsoft/tool.html)
     
  4. If you’re missing any of these topics, click on the links above for instructions on how to complete the training.  If you encounter any problems, turn off “block pop-ups” in your browser and try again.  Once you’ve completed all of these training topics, print out the certificates of completion for each of them and give them to Dr. Grover for the official lab records.
 
@@ -31,8 +31,8 @@ Pierce 3309 Users:
  3. You should see a record of completion for each of the following topics:
     - [Hazardous Waste Management](http://ehs.ucr.edu/training/online/hwm/indexlms.html)
     - [Laboratory Safety Orientation (Fundamentals)](http://ehs.ucr.edu/training/online/lso/indexlms.html)
-    - [Machine Guarding](http://www.ehs.ucr.edu/training/online/machine.html)
-    - [Hand and Power Tool Safety](http://ehs.ucr.edu/training/online/tool.html)
+    - [Machine Guarding](http://ehs.ucr.edu/training/online/skillsoft/machine.html)
+    - [Hand and Power Tool Safety](http://ehs.ucr.edu/training/online/skillsoft/tool.html)
     
  4. If you’re missing any of these topics, click on the links above for instructions on how to complete the training.  If you encounter any problems, turn off “block pop-ups” in your browser and try again.  Once you’ve completed all of these training topics, print out the certificates of completion for each of them and give them to Dr. Grover for the official lab records.
 
