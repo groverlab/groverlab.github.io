@@ -4,6 +4,8 @@ title:  "Rife"
 date:   2016-05-09 12:48:52 -0800
 ---
 
+<img src="/assets/elixir-sulfanilamide.jpg">
+
 For some reason, the story of the [Elixir Sulfanilamide disaster](https://en.wikipedia.org/wiki/Elixir_sulfanilamide) has always fascinated me.  If you don't already know about it, Elixir Sulfanilamide was a drug developed in 1937 by the S. E. Massengill Company of Bristol, Tennessee.  Only a month after Massengill began selling it, reports started coming in of patients who endured terribly painful deaths after taking the medicine.  Thanks to a herculean effort by the US Food and Drug Administration to collect the remaining bottles of the medicine before anyone else took it, "only" about 100 deaths were attributed to the drug.
 
 Part of my fascination with Elixir Sulfanilamide stems from the fact that I grew up right down the road from the company that created the deadly drug.  Bristol is about 25 miles from my childhood home in Johnson City, Tennessee, and I have vivid memories of seeing the Massengill Company's factory on family trips to Bristol.  I also remember the Massengill Family Monument in Johnson City, a marble memorial to the early Tennessee pioneer family whose descendants founded the pharmaceutical company.
