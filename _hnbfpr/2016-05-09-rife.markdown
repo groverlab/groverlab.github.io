@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Rife"
+date:   2016-05-09 12:48:52 -0800
+---
+
+For some reason, the story of the [Elixir Sulfanilamide disaster](https://en.wikipedia.org/wiki/Elixir_sulfanilamide) has always fascinated me.  If you don't already know about it, Elixir Sulfanilamide was a drug developed in 1937 by the S. E. Massengill Company of Bristol, Tennessee.  Only a month after Massengill began selling it, reports started coming in of patients who endured terribly painful deaths after taking the medicine.  Thanks to a herculean effort by the US Food and Drug Administration to collect the remaining bottles of the medicine before anyone else took it, "only" about 100 deaths were attributed to the drug.
+
+Part of my fascination with Elixir Sulfanilamide stems from the fact that I grew up right down the road from the company that created the deadly drug.  Bristol is about 25 miles from my childhood home in Johnson City, Tennessee, and I have vivid memories of seeing the Massengill Company's factory on family trips to Bristol.  I also remember the Massengill Family Monument in Johnson City, a marble memorial to the early Tennessee pioneer family whose descendants founded the pharmaceutical company.
+
+What I don't remember is ever hearing about the Massengill Company's deadly product Elixir Sulfanilamide, or the national outcry that followed the deaths caused by Massengill's drug.
+
+I was born 40 years after the disaster, which isn't that much time, especially in a small Southern town where even today everyone seems to know everyone else.  And at the time of the disaster, S. E. Massengill had over 200 employees in Bristol.  It's reasonable to think that many of those employees were still around when I was growing up.  Maybe some of them even remembered Harold Watkins, the chemist at Massengill who decided to use diethylene glycol in the formulation for Massengill's newest product, Elixir Sulfanilamide.  Watkins used diethylene glycol because it successfully dissolved sulfanilamide and had a sweet taste---a bonus for a drug that would be raspberry flavored and suitable for children.  What Watkins didn't know was that diethylene glycol is acutely toxic and can cause kidney damage or failure.  But the S. E. Massengill Company didn't test the safety of Watkins' concoction---they weren't required to, legally speaking.
+
+If I did grow up around people who knew the story of the Elixir Sulfanilamide disaster, those people weren't talking about it.  And maybe that's understandable.  In the months after the disaster, newspapers across the country reported on the drug's victims, often children, who died under what the FDA later described as "intense and unrelenting pain."  In a widely-read letter to President Franklin D. Roosevelt, one mother described her daughter's "little body tossing to and fro... that little voice screaming with pain and it seems as though it would drive me insane."  The disaster was apparently too much for chemist Harold Watkins:  he killed himself a few months later.  So maybe it's understandable that a company---and a community---would want to put this story behind them.  Maybe that's why I spent the first eighteen years of my life just a few miles from the company responsible for one of the deadliest poisonings in American history but I only learned about the disaster years after leaving home.
+
+But while S. E. Massengill's employees may have been reluctant to discuss the Elixir Sulfanilamide disaster, the owner of the company did have a few things to say.  In another widely-reported quote, the eponymous Samuel Evans Massengill stated that
+
+> My chemists and I deeply regret the fatal results, but there was no error in the manufacture of the product. We have been supplying a legitimate professional demand and not once could have foreseen the unlooked-for results. I do not feel that there was any responsibility on our part.
+
+I discuss the Elixir Sulfanilamide disaster in a course on medical diagnostics at the University of California, Riverside, 
+
+
