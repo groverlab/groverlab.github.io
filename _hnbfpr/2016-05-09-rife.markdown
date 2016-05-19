@@ -8,7 +8,7 @@ For some reason, the story of the [Elixir Sulfanilamide disaster](https://en.wik
 
 <img src="/assets/elixir-sulfanilamide.jpg">
 
-Part of my fascination with Elixir Sulfanilamide stems from the fact that I grew up right down the road from the company that created the deadly drug.  Bristol is about 25 miles from my childhood home in Johnson City, Tennessee, and I have vivid memories of seeing the Massengill Company's factory on family trips to Bristol.  I also remember the Massengill Family Monument in Johnson City, a marble memorial to the early Tennessee pioneer family whose descendants founded the pharmaceutical company.
+Part of my fascination with Elixir Sulfanilamide stems from the fact that I grew up right down the road from the company that created the deadly drug.  Bristol is about 25 miles from my childhood home in Johnson City, Tennessee, and I have vivid memories of seeing the Massengill Company's factory on family trips to Bristol.  I also remember the [Massengill Family Monument](http://www.wikitree.com/photo.php/9/9e/Massengill-88.jpg) in Johnson City, a marble memorial to the early Tennessee pioneer family whose descendants founded the pharmaceutical company.
 
 What I don't remember is ever hearing about the Massengill Company's deadly product Elixir Sulfanilamide, or the national outcry that followed the deaths caused by Massengill's drug.
 
@@ -28,7 +28,7 @@ Samuel Massengill's company was to a large extent responsible for the creation o
 
 <img src="/assets/massengill-book.jpg">
 
-The book is entitled "A Sketch of Medicine and Pharmacy," and my copy has a copyright date of 1942, just five years after the Elixir Sulfanilamide disaster.  My copy is inscribed to a doctor of veterinary medicine and signed by Massengill himself, but it is not as special as it sounds---a handful of similarly signed and inscribed copies are available for sale on eBay, and one suspects that Massengill sent copies to all his clients.
+The book is entitled "A Sketch of Medicine and Pharmacy," and my copy has a copyright date of 1942, just five years after the Elixir Sulfanilamide disaster.  My copy is inscribed to a doctor of veterinary medicine and signed by Massengill himself, but it is not as special as it sounds---[a handful of similarly signed and inscribed copies are available for sale on eBay](http://www.ebay.com/sch/a%20sketch%20of%20medicine%20and%20pharmacy), and one suspects that Massengill sent copies to all his clients.
 
 <img src="/assets/massengill-dedication.jpg">
 
@@ -50,7 +50,7 @@ The context of the sentence doesn't help much.  The preceding paragraph describe
 
 These "new drugs" of "lasting value" had to be tested for their safety because of the "particularly rife" new legislation.
 
-At this point, I started wondering if I misunderstood the meaning of the word "rife."  Maybe it wasn't as negative as I thought?  So I consulted a few dictionaries, and the results confirmed my preconceptions on the word.  Merriam-Webster defines "rife" as "very common and often bad or unpleasant" and offers a sample usage by W.E.B. DuBois:  "Suspicion and cruelty were rife."  Not exactly a positive word.  The Cambridge Academic Content Dictionary offers additional examples:  "Graft and corruption were rife in city government."  "The office is rife with rumors that many of us will be fired."  Again, a pretty negative take on whatever is described as "rife."  But maybe it meant something different back in the 1940s when Massengill's book was published?  Well, Webster's 1828 dictionary says that rife is "used of epidemic diseases" and offers up the example "The plague was then rife in Hungary."  Once again, not a positive term.
+At this point, I started wondering if I misunderstood the meaning of the word "rife."  Maybe it wasn't as negative as I thought?  So I consulted a few dictionaries, and the results confirmed my preconceptions on the word.  Merriam-Webster defines "rife" as ["very common and often bad or unpleasant"](http://www.merriam-webster.com/dictionary/rife) and offers a sample usage by W.E.B. DuBois:  "Suspicion and cruelty were rife."  Not exactly a positive word.  The [Cambridge Academic Content Dictionary](http://dictionary.cambridge.org/us/dictionary/english/rife) offers additional examples:  "Graft and corruption were rife in city government."  "The office is rife with rumors that many of us will be fired."  Again, a pretty negative take on whatever is described as "rife."  But maybe it meant something different back in the 1940s when Massengill's book was published?  Well, Webster's 1828 dictionary says that rife is ["used of epidemic diseases"](http://webstersdictionary1828.com/Dictionary/rife) and offers up the example "The plague was then rife in Hungary."  Once again, not a positive term.
 
 So it seems that Samuel Massengill really was describing the FD&C Act using a term usually reserved for corruption and epidemic diseases.
 
