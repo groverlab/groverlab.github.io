@@ -24,6 +24,7 @@ MS&E 268 Users:
  5. If any of these topics is expired (look for red dates on the Transcript), click on the course in the Transcript to take it again.
  6. When your transcript shows that you've taken all the above topics, click the "Export to PDF" button at the top right of the transcript, click the "File" link to download the PDF, and email the PDF to Dr. Grover.
  7. You also need to complete training in the separate Laboratory Hazard Assessment Tool (LHAT).  [Log in to LHAT here](https://ehs.ucop.edu/lhat) and complete the training that the system provides.  If you have trouble logging in, tell Dr. Grover and he'll add you to the LHAT system.
+ 8. *THANKS!  YOU'RE DONE!*
 
 
 Pierce 3309 Users:
@@ -39,6 +40,7 @@ Pierce 3309 Users:
     
  4. If you’re missing any of these topics, click on the links above for instructions on how to complete the training.  If you encounter any problems, turn off “block pop-ups” in your browser and try again.
  5. If any of these topics is expired (look for red dates on the Transcript), click on the course in the Transcript to take it again.
- 6. When your transcript shows that you've taken all the above topics, click the "Export to PDF" button at the top right of the transcript, click the "File" link to download the PDF, and email the PDF to Dr. Grover.  *THANKS!  YOU'RE DONE!*
+ 6. When your transcript shows that you've taken all the above topics, click the "Export to PDF" button at the top right of the transcript, click the "File" link to download the PDF, and email the PDF to Dr. Grover.  
  7. You also need to complete training in the separate Laboratory Hazard Assessment Tool (LHAT).  [Log in to LHAT here](https://ehs.ucop.edu/lhat) and complete the training that the system provides.  If you have trouble logging in, tell Dr. Grover and he'll add you to the LHAT system.
+ 8.  *THANKS!  YOU'RE DONE!*
 
