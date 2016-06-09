@@ -7,7 +7,8 @@ permalink: /safety/
 Everyone working in the lab must complete the following safety training:
 
 
- 1. Log in to the [UC Learning Center](http://ucrlearning.ucr.edu).  If you have any problems logging in, try the link under "Student & Affiliate Access" on the left.  If you still can't log in, tell Dr. Grover.
+ 1. Log in to the [UC Learning Center](http://ucrlearning.ucr.edu).  If you have any problems logging in, try the link under "Student & Affiliate Access" on the left.  If you still can't log in, send an email to ucrlearning@ucr.edu like this:
+  >I've been asked to request access to the UC Learning Center for laboratory safety training.  My UCR NetID is __________.  I am an (undergraduate or graduate student) in (major/program).  I am a (volunteer or graduate student researcher) in Prof. William Grover's lab in the Department of Bioengineering at UCR.
  2. In the box on the right, click Transcript.
  3. Look for a record of completion for each of the following topics (based on the room in which you work):
 
