@@ -20,8 +20,8 @@ Everyone working in the lab must complete the following safety training:
     | [E. Biosafety](http://www.ehs.ucr.edu/training/online/biosafety/indexlms.html) | | |
     | [F. Bloodborne Pathogens](http://www.ehs.ucr.edu/training/online/bbp/indexlms.html) | | |
     | [G. Laser Safety](http://ehs.ucr.edu/training/online/laser/indexlms.html) | | |
+    | | | |
 
-<br>
  4. If you’re missing any of these topics, click on the links above for instructions on how to complete the training.  If you encounter any problems, turn off “block pop-ups” in your browser and try again.
  5. If any of these topics are expired (look for red dates on the Transcript), click on the course in the Transcript to take it again.
  6. When your transcript shows that you've taken all the above topics, click the "Export to PDF" button at the top right of the transcript, click the "File" link to download the PDF, and email the PDF to Dr. Grover.
