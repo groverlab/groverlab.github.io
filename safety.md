@@ -12,6 +12,12 @@ MS&E 268 Users:
  1. Log in to the [UC Learning Center](http://ucrlearning.ucr.edu).  If you have any problems logging in, try the link under "Student & Affiliate Access" on the left.  If you still can't log in, tell Dr. Grover.
  2. In the box on the right, click Transcript.
  3. Look for a record of completion for each of the following topics:
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
     - [Biosafety](http://www.ehs.ucr.edu/training/online/biosafety/indexlms.html)
     - [Bloodborne Pathogens](http://www.ehs.ucr.edu/training/online/bbp/indexlms.html)
     - [Hazardous Waste Management](http://ehs.ucr.edu/training/online/hwm/indexlms.html)
