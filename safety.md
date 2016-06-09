@@ -13,7 +13,7 @@ Everyone working in the lab must complete the following safety training:
 
     | MS&E 268 Users:  | Pierce 3309 Users: |
     | ------------- | ------------- |
-    | [A. Laboratory Safety Orientation (Fundamentals)](http://ehs.ucr.edu/training/online/lso/indexlms.html) | [A. Laboratory Safety Orientation (Fundamentals)](http://ehs.ucr.edu/training/online/lso/indexlms.html)
+    | [A. Laboratory Safety Orientation](http://ehs.ucr.edu/training/online/lso/indexlms.html) | [A. Laboratory Safety Orientation](http://ehs.ucr.edu/training/online/lso/indexlms.html)
     | [B. Hazardous Waste Management](http://ehs.ucr.edu/training/online/hwm/indexlms.html) | [B. Hazardous Waste Management](http://ehs.ucr.edu/training/online/hwm/indexlms.html)
     | [C. Hand and Power Tool Safety](http://ehs.ucr.edu/training/online/skillsoft/tool.html) | [C. Hand and Power Tool Safety](http://ehs.ucr.edu/training/online/skillsoft/tool.html)
     | [D. Machine Guarding](http://ehs.ucr.edu/training/online/skillsoft/machine.html) |  [D. Machine Guarding](http://ehs.ucr.edu/training/online/skillsoft/machine.html)
