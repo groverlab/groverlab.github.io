@@ -13,8 +13,8 @@ Everyone working in the lab must complete the following safety training:
 
     | MS&E 268 Users  | |  Pierce 3309 Users |
     | ------------- | | ------------- |
-    | [Laboratory Safety Orientation (Fundamentals)](http://ehs.ucr.edu/training/online/lso/indexlms.html) | | [Laboratory Safety Orientation (Fundamentals)](http://ehs.ucr.edu/training/online/lso/indexlms.html)
-    | [Hazardous Waste Management](http://ehs.ucr.edu/training/online/hwm/indexlms.html) | | [Hazardous Waste Management](http://ehs.ucr.edu/training/online/hwm/indexlms.html)
+    | - [Laboratory Safety Orientation (Fundamentals)](http://ehs.ucr.edu/training/online/lso/indexlms.html) | | [Laboratory Safety Orientation (Fundamentals)](http://ehs.ucr.edu/training/online/lso/indexlms.html)
+    | - [Hazardous Waste Management](http://ehs.ucr.edu/training/online/hwm/indexlms.html) | | [Hazardous Waste Management](http://ehs.ucr.edu/training/online/hwm/indexlms.html)
     | [Hand and Power Tool Safety](http://ehs.ucr.edu/training/online/skillsoft/tool.html) | | [Hand and Power Tool Safety](http://ehs.ucr.edu/training/online/skillsoft/tool.html)
     | [Machine Guarding](http://ehs.ucr.edu/training/online/skillsoft/machine.html) |  | [Machine Guarding](http://ehs.ucr.edu/training/online/skillsoft/machine.html)
     | [Biosafety](http://www.ehs.ucr.edu/training/online/biosafety/indexlms.html) | | |
