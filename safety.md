@@ -13,15 +13,15 @@ MS&E 268 Users:
  2. In the box on the right, click Transcript.
  3. Look for a record of completion for each of the following topics:
 
-| MS&E 268 Users  | Pierce 3309 Users |
-| ------------- | ------------- |
-| [Laboratory Safety Orientation (Fundamentals)](http://ehs.ucr.edu/training/online/lso/indexlms.html) | [Laboratory Safety Orientation (Fundamentals)](http://ehs.ucr.edu/training/online/lso/indexlms.html)
-| [Hazardous Waste Management](http://ehs.ucr.edu/training/online/hwm/indexlms.html) | [Hazardous Waste Management](http://ehs.ucr.edu/training/online/hwm/indexlms.html)
-| [Hand and Power Tool Safety](http://ehs.ucr.edu/training/online/skillsoft/tool.html) | [Hand and Power Tool Safety](http://ehs.ucr.edu/training/online/skillsoft/tool.html)
-| [Machine Guarding](http://ehs.ucr.edu/training/online/skillsoft/machine.html) | [Machine Guarding](http://ehs.ucr.edu/training/online/skillsoft/machine.html)
-| [Biosafety](http://www.ehs.ucr.edu/training/online/biosafety/indexlms.html) |  |
-| [Bloodborne Pathogens](http://www.ehs.ucr.edu/training/online/bbp/indexlms.html) | |
-| [Laser Safety](http://ehs.ucr.edu/training/online/laser/indexlms.html) | |
+| MS&E 268 Users  | |  Pierce 3309 Users |
+| ------------- | | ------------- |
+| [Laboratory Safety Orientation (Fundamentals)](http://ehs.ucr.edu/training/online/lso/indexlms.html) | | [Laboratory Safety Orientation (Fundamentals)](http://ehs.ucr.edu/training/online/lso/indexlms.html)
+| [Hazardous Waste Management](http://ehs.ucr.edu/training/online/hwm/indexlms.html) | | [Hazardous Waste Management](http://ehs.ucr.edu/training/online/hwm/indexlms.html)
+| [Hand and Power Tool Safety](http://ehs.ucr.edu/training/online/skillsoft/tool.html) | | [Hand and Power Tool Safety](http://ehs.ucr.edu/training/online/skillsoft/tool.html)
+| [Machine Guarding](http://ehs.ucr.edu/training/online/skillsoft/machine.html) |  | [Machine Guarding](http://ehs.ucr.edu/training/online/skillsoft/machine.html)
+| [Biosafety](http://www.ehs.ucr.edu/training/online/biosafety/indexlms.html) | | |
+| [Bloodborne Pathogens](http://www.ehs.ucr.edu/training/online/bbp/indexlms.html) | | |
+| [Laser Safety](http://ehs.ucr.edu/training/online/laser/indexlms.html) | | |
 
  
  4. If you’re missing any of these topics, click on the links above for instructions on how to complete the training.  If you encounter any problems, turn off “block pop-ups” in your browser and try again.
