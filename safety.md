@@ -9,9 +9,9 @@ Everyone working in the lab must complete the following safety training:
 
  1. Log in to the [UC Learning Center](http://ucrlearning.ucr.edu).  If you have any problems logging in, try the link under "Student & Affiliate Access" on the left.  If you still can't log in, tell Dr. Grover.
  2. In the box on the right, click Transcript.
- 3. Look for a record of completion for each of the following topics (based on the room you work in):
+ 3. Look for a record of completion for each of the following topics (based on the room in which you work):
 
-    | MS&E 268 Users  | |  Pierce 3309 Users |
+    | MS&E 268 Users:  | |  Pierce 3309 Users: |
     | ------------- | | ------------- |
     | [A. Laboratory Safety Orientation (Fundamentals)](http://ehs.ucr.edu/training/online/lso/indexlms.html) | | [A. Laboratory Safety Orientation (Fundamentals)](http://ehs.ucr.edu/training/online/lso/indexlms.html)
     | [B. Hazardous Waste Management](http://ehs.ucr.edu/training/online/hwm/indexlms.html) | | [B. Hazardous Waste Management](http://ehs.ucr.edu/training/online/hwm/indexlms.html)
@@ -21,7 +21,7 @@ Everyone working in the lab must complete the following safety training:
     | [F. Bloodborne Pathogens](http://www.ehs.ucr.edu/training/online/bbp/indexlms.html) | | |
     | [G. Laser Safety](http://ehs.ucr.edu/training/online/laser/indexlms.html) | | |
 
-
+<br>
  4. If you’re missing any of these topics, click on the links above for instructions on how to complete the training.  If you encounter any problems, turn off “block pop-ups” in your browser and try again.
  5. If any of these topics are expired (look for red dates on the Transcript), click on the course in the Transcript to take it again.
  6. When your transcript shows that you've taken all the above topics, click the "Export to PDF" button at the top right of the transcript, click the "File" link to download the PDF, and email the PDF to Dr. Grover.
