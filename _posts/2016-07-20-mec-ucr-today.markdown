@@ -10,5 +10,5 @@ The MEC system was [featured on *UCR Today*](https://ucrtoday.ucr.edu/38752) in 
 
 They also made this cool video showing the MEC system in action:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2YOuW22XJUA" frameborder="0" allowfullscreen> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2YOuW22XJUA" frameborder="0" allowfullscreen>&nbsp;</iframe>
 
