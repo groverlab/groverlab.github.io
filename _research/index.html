@@ -1,0 +1,29 @@
+---
+layout: default
+published: false
+---
+
+<div class="home">
+
+  <h1>Research</h1>
+
+  <ul class="post-list">
+    {% for paper in site.research reversed %}
+      <li>
+      <br>
+<!--         <span class="post-meta">{{ person.name }}</span>
+ -->
+<!--           <img src="/assets/{{ paper.picture }}" width="30%" align="left" style="margin:0px 20px 0px 0px"> -->
+
+           
+        <h2>
+          <a class="post-link" href="{{ paper.url | prepend: site.baseurl }}">{{ paper.title }}</a>
+        </h2>
+        {{ paper.content }}
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
