@@ -1,30 +1,178 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>Grover Lab</title>
+    <description>Grover Lab&lt;br&gt; Department of Bioengineering&lt;br&gt; University of California, Riverside&lt;br&gt; Riverside, CA 92521
+</description>
+    <link>http://groverlab.org/</link>
+    <atom:link href="http://groverlab.org/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 22 Jul 2016 10:51:34 -0700</pubDate>
+    <lastBuildDate>Fri, 22 Jul 2016 10:51:34 -0700</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>Doug&#39;s system of &quot;building blocks&quot; for creating instruments published in &lt;i&gt;PLOS ONE&lt;/i&gt;</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/MEC_fig1.png&quot; alt=&quot;MECs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Doug Hill’s paper “MECs: ‘Building Blocks’ for Creating Biological and Chemical Instruments” was published in &lt;em&gt;PLOS ONE&lt;/em&gt;.  Thanks to our coauthors Lindsey Anderson, Casey Hill, Afshin Mostaghim, and Victor G. J. Rodgers for their help!&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 21 Jun 2016 13:48:52 -0700</pubDate>
+        <link>http://groverlab.org/news/2016/06/21/mec.html</link>
+        <guid isPermaLink="true">http://groverlab.org/news/2016/06/21/mec.html</guid>
+        
+        
+        <category>news</category>
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Dr. Grover talks about density at TEDxUCR</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/grover-tedxucr.jpg&quot; alt=&quot;Grover TEDxUCR&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dr. Grover shared his favorite physical property—density—with the audience at the &lt;a href=&quot;http://tedxucr.weebly.com/reaction-2016.html&quot;&gt;2016 TEDxUCR&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 23 Apr 2016 13:48:52 -0700</pubDate>
+        <link>http://groverlab.org/news/2016/04/23/grover-tedx.html</link>
+        <guid isPermaLink="true">http://groverlab.org/news/2016/04/23/grover-tedx.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>Congressman Mark Takano visits the lab</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/takano.jpg&quot; alt=&quot;Takano photo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks to Congressman Mark Takano for visiting the lab!&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 11 Mar 2016 12:48:52 -0800</pubDate>
+        <link>http://groverlab.org/news/2016/03/11/takano-visit.html</link>
+        <guid isPermaLink="true">http://groverlab.org/news/2016/03/11/takano-visit.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>Nazila and Heran&#39;s work on orientation-based control of microfluidics published in &lt;i&gt;PLOS ONE&lt;/i&gt;</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/orientation-based-microfluidics.png&quot; alt=&quot;Orientation-based microfluidics&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Nazila Norouzi and Heran Bhakta’s paper “Orientation-Based Control of Microfluidics” was published in &lt;em&gt;PLOS ONE&lt;/em&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 07 Mar 2016 12:48:52 -0800</pubDate>
+        <link>http://groverlab.org/papers/2016/03/07/orientation-microfluidics.html</link>
+        <guid isPermaLink="true">http://groverlab.org/papers/2016/03/07/orientation-microfluidics.html</guid>
+        
+        
+        <category>papers</category>
+        
+      </item>
+    
+      <item>
+        <title>Shirin featured in UCR Magazine</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/shirin-ucr-magazine.jpg&quot; alt=&quot;Shirin UCR Magazine&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Graduate student Shirin Mesbah Oskui was featured in the Winter 2016 issue of UCR Magazine.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 01 Mar 2016 12:48:52 -0800</pubDate>
+        <link>http://groverlab.org/news/2016/03/01/shirin-ucr-magazine.html</link>
+        <guid isPermaLink="true">http://groverlab.org/news/2016/03/01/shirin-ucr-magazine.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>Shirin&#39;s work on the toxicity of 3D-printed parts published in &lt;i&gt;Environmental Science and Technology Letters&lt;/i&gt;</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/3d-tox.png&quot; alt=&quot;Toxicity of 3D-printed parts&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Shirin Mesbah Oskui’s paper “Assessing and Reducing the Toxicity of 3D-Printed Parts” was published in &lt;em&gt;Environmental Science and Technology Letters&lt;/em&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 04 Nov 2015 12:48:52 -0800</pubDate>
+        <link>http://groverlab.org/papers/2015/11/04/3d-tox.html</link>
+        <guid isPermaLink="true">http://groverlab.org/papers/2015/11/04/3d-tox.html</guid>
+        
+        
+        <category>papers</category>
+        
+      </item>
+    
+      <item>
+        <title>Anechoic:  a smartphone app for sonic experimentation</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/anechoic.jpg&quot; alt=&quot;Anechoic&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Check out &lt;em&gt;Anechoic&lt;/em&gt;, an iPhone app we’re developing for giving K-12 students firsthand experience with the principles behind techniques like ultrasound and sonar.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Nov 2015 12:48:52 -0800</pubDate>
+        <link>http://groverlab.org/papers/2015/11/01/anechoic.html</link>
+        <guid isPermaLink="true">http://groverlab.org/papers/2015/11/01/anechoic.html</guid>
+        
+        
+        <category>papers</category>
+        
+      </item>
+    
+      <item>
+        <title>Why is undergraduate research important?</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/undergraduate-research.jpg&quot; alt=&quot;Undergraduate research&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Why is undergraduate research important? Dr. Grover shares his thoughts in a &lt;a href=&quot;http://vocationalvoyages.blogspot.com/2014/05/research-away-expertly-navigating.html&quot;&gt;UCR Career Center blog post&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 May 2014 13:48:52 -0700</pubDate>
+        <link>http://groverlab.org/papers/2014/05/01/undergraduate-research.html</link>
+        <guid isPermaLink="true">http://groverlab.org/papers/2014/05/01/undergraduate-research.html</guid>
+        
+        
+        <category>papers</category>
+        
+      </item>
+    
+      <item>
+        <title>Undergrads&#39; Diaper Detective wins third place in NIH/NIBIB DEBUT Challenge</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/diaper-detective.jpg&quot; alt=&quot;Diaper Detective&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Diaper Detective (the Senior Design Project of Bioengineering undergrads Stephanie Tehseldar, Veronica Boulos, Sara Said, Claire Tran and Melissa Cruz) won third place and a $10,000 prize in the NIH/NIBIB Design by Undergraduate Biomedical Teams (DEBUT) Challenge!&lt;/p&gt;
+
+&lt;p&gt;The Diaper Detective was also featured on:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;CBS 2 Los Angeles:  &lt;a href=&quot;http://losangeles.cbslocal.com/2014/09/09/ucr-students-invent-diaper-pad-that-detect-infection-other-medical-conditions/&quot;&gt;“UCR students invent diaper pad that detects infection, other medical conditions”&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;c-net:  &lt;a href=&quot;http://www.cnet.com/news/diaper-detective-smart-pad-senses-dehydration-infection/&quot;&gt;“Diaper Detective smart pad senses dehydration, infection”&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Engadget:  &lt;a href=&quot;http://www.engadget.com/2014/09/10/the-diaper-detective/&quot;&gt;“Super cheap diaper insert alerts parents to dehydration and more”&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Phys.org:  &lt;a href=&quot;http://phys.org/news/2014-09-diaper-pad-dehydration-bacterial-infections.html&quot;&gt;“Diaper pad to detect dehydration and bacterial infections in infants”&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Riverside Press-Enterprise:  &lt;a href=&quot;http://www.pe.com/articles/diaper-749887-urine-detective.html&quot;&gt;“UC Riverside students turn diaper into medical tool”&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;UCR homepage:  &lt;a href=&quot;http://ucrtoday.ucr.edu/23974&quot;&gt;“Team of engineering students develop inexpensive, versatile pad to detect medical problems in infants”&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 01 Jan 2014 12:48:52 -0800</pubDate>
+        <link>http://groverlab.org/papers/2014/01/01/diaper-detective.html</link>
+        <guid isPermaLink="true">http://groverlab.org/papers/2014/01/01/diaper-detective.html</guid>
+        
+        
+        <category>papers</category>
+        
+      </item>
+    
   </channel>
 </rss>

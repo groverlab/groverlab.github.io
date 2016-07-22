@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Anechoic:  a smartphone app for sonic experimentation"
-date:   2015-11-01 12:48:52 -0800
-categories: papers
----
-![Anechoic](/assets/anechoic.jpg)
-
-Check out *Anechoic*, an iPhone app we're developing for giving K-12 students firsthand experience with the principles behind techniques like ultrasound and sonar.
