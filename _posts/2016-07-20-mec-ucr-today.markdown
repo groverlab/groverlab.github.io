@@ -7,7 +7,7 @@ categories: news
 
 Our MEC "building blocks" were [featured on UCR Today](https://ucrtoday.ucr.edu/38752) in a great article by [Sarah Nightingale](https://ucrtoday.ucr.edu/author/sanight).
 
-They also made a cool video about the MEC system:
+Sarah's team also made a cool video about the MEC system:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2YOuW22XJUA" frameborder="0" allowfullscreen></iframe>
 &nbsp;
