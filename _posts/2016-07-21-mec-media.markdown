@@ -6,6 +6,6 @@ categories: news
 ---
 ![Gizmodo Lego](/assets/gizmodo-lego.jpg)
 
-The MEC system was [featured in Gizmodo](http://gizmodo.com/lego-like-blocks-let-scientists-custom-build-their-own-1783922889), who illustrated their story with the awesome LEGO scientists shown above.
+The MEC system was featured in [Gizmodo](http://gizmodo.com/lego-like-blocks-let-scientists-custom-build-their-own-1783922889)  (who illustrated their story with the awesome LEGO scientists shown above) and [Engadget](https://www.engadget.com/2016/07/21/lego-like-blocks-scientific-tools/).
 
 
