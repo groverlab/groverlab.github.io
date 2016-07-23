@@ -4,7 +4,6 @@ title:  "MEC system featured on <i>UCR Today</i>"
 date:   2016-07-20 12:48:52 -0800
 categories: news
 ---
-![MECs UCR Today](/assets/mec-ucr-today.png)
 
 Our MEC "building blocks" were [featured on UCR Today](https://ucrtoday.ucr.edu/38752) in a great article by [Sarah Nightingale](https://ucrtoday.ucr.edu/author/sanight).
 
