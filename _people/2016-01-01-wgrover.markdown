@@ -1,0 +1,7 @@
+---
+layout: post
+name:  "William H. Grover"
+picture: "wgrover.jpg"
+
+---
+Dr. Grover is an Assistant Professor in the Department of Bioengineering at the University of California, Riverside.  Prior to joining UCR, Dr. Grover received his postdoctoral training in the Biological Engineering Division at Massachusetts Institute of Technology.  In Prof. Scott Manalis’ group at MIT, Dr. Grover used the group’s microfluidic mass sensors to make the first precision measurements of the density of single living cells.  Dr. Grover obtained his Ph.D. in Chemistry at the University of California, Berkeley.  In Prof. Richard Mathies' group at UC Berkeley, Dr. Grover developed microfluidic "processors" that bridged the chemical, biological, and computational sciences.  A native of Tennessee, Dr. Grover received his B.S. in Chemistry at the University of Tennessee, Knoxville. 
