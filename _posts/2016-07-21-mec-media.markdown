@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MEC system featured on <i>UCR Today</i>"
+title:  "The MEC system in the news"
 date:   2016-07-20 12:48:52 -0800
 categories: news
 ---
