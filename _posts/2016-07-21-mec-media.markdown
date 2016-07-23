@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "MEC system featured on <i>UCR Today</i>"
+date:   2016-07-20 12:48:52 -0800
+categories: news
+---
+![Gizmodo Lego](/assets/gizmodo-lego.jpg)
+
+The MEC system was [featured in Gizmodo](http://gizmodo.com/lego-like-blocks-let-scientists-custom-build-their-own-1783922889), who illustrated their story with the awesome LEGO scientists shown above.
+
+
