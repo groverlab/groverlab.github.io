@@ -4,23 +4,23 @@ title:  "Dissecting a TransLink Compass Card"
 date:   2016-08-24 12:00:00 -0800
 ---
 
-On a recent trip to Vancouver B.C. we decided to take [TransLink](http://www.translink.ca)'s SkyTrain and buses from the airport to the Horseshoe Bay ferry terminal.  We bought our  tickets at the YVR SkyTrain station:
+On a recent trip to Vancouver B.C. we decided to take [TransLink](http://www.translink.ca)'s SkyTrain and buses from the airport to the Horseshoe Bay ferry terminal.  We bought our tickets at the YVR SkyTrain station:
 
 <img src="/assets/compass-card-outside.jpg">
 
-The tickets looked like the usual disposable paper tickets used on lots of buses and trains.  But I was surprised to reach a turnstile with no place to insert the paper ticket.  Instead there was a target for tapping a smart card.  All the smart cards I've ever seen are plastic, so it took me a second to realize that my disposable paper ticket might harbor smart insides.  But after tapping the ticket against the reader, the turnstile gates opened and we were on our way.
+The tickets looked like the usual disposable paper tickets that are used on lots of buses and trains.  But I was surprised when I reached the turnstile and found no place to insert the paper ticket.  Instead there was a target for tapping a smart card.  All the smart cards I've ever seen are plastic, so it took me a second to realize that my disposable paper ticket might harbor smart insides.  But after tapping the ticket against the reader, the turnstile gates opened and we were on our way.
 
 A ray of sunlight confirmed that our paper ticket was no dummy:
 
 <img src="/assets/compass-card-backlit.jpg">
 
-Looping around inside the card is the radio antenna the card uses to communicate with the tapping target.  Plastic smart cards with RF antennas are nothing new, but seeing these electronics sandwiched into a normal sheet of paper was impressive.  You can see something else inside the card beneath the "o" and "m" in "Compass" but it's hard to make it out.  Time to dissect...
+Looping around inside the card is the radio antenna the card uses to communicate with the tapping target.  Plastic smart cards with RF antennas are nothing new, but seeing these electronics sandwiched into a normal sheet of paper was impressive.  You can see something else inside the card below the "m" in "Compass" but it's hard to make it out.  Time to dissect...
 
 Since the card is mostly paper, peeling it apart was relatively easy:
 
 <img src="/assets/compass-card-delaminated-1.jpg">
 
-After removing the top layer of paper, a very thin plastic layer is revealed.  This layer contained the metal antenna traces.  It also contained a tiny brown blob that was located beneath the "o" and "m".  Time for the microscope:
+After removing the top layer of paper, a very thin plastic layer is revealed.  This layer contained the metal antenna traces.  It also contained a tiny brown blob that was located beneath the "m".  Time for the microscope:
 
 <img src="/assets/compass-card-chip-1.jpg">
 
@@ -34,15 +34,17 @@ With all the paper gone, the plastic sheet is transparent, so I looked at the ch
 
 <img src="/assets/compass-card-backside.jpg">
 
-The silicon chip is visible in the gap between the antenna traces, but only barely.  Time to remove the chip from the plastic sheet.  After some careful poking and prodding with the tools I had available (the tweezers and toothpick from a swiss army knife), I had removed the chip and put it back on the microscope:
+The silicon chip is visible in the gap between the antenna traces, and you can see four bulges in the antenna where the chip might make electrical contact with it.  But I still can't see the surface of the chip.
+
+Time to remove the chip from the plastic sheet.  After some careful poking and prodding with the tools I had available (the tweezers and toothpick from a swiss army knife), I had removed the chip and put it back on the microscope:
 
 <img src="/assets/compass-card-chip-2.jpg">
 
-The silicon's a bit worse for wear, but still not much to see here---this must be the side facing away from the antenna traces.  So I carefully flipped over the chip and looked again:
+The silicon's a bit worse for wear, but still not much to see here---this must be the side that was facing away from the antenna traces.  So I carefully flipped over the chip and looked again:
 
 <img src="/assets/compass-card-chip-3.jpg">
 
-Yuck, the remnants of the epoxy blob!  But also something interesting on this side---a tiny bright square on the chip---maybe the connection between the chip and the antenna?  After a little more tweezing and poking, the surface of the chip is visible:
+Yuck, the yellow remnants of the epoxy blob!  But also something interesting on this side---a tiny bright square on the chip---maybe the connection between the chip and the antenna?  After a little more tweezing and poking, the surface of the chip is finally visible:
 
 <img src="/assets/compass-card-chip-4.jpg">
 
