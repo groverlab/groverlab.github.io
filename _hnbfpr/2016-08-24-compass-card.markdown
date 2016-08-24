@@ -54,9 +54,9 @@ And there they are---the traces on the silicon chip, the brains of this paper sm
 
 <img src="/assets/compass-card-chip-6.jpg">
 
-The traces are still a little hard to see because of the remaining epoxy on the chip, and the next step would probably be using a solvent or [piranha]() to get rid of the last of the epoxy.  But that's enough card dissection for today.
+The traces are still a little hard to see because of the remaining epoxy on the chip, so the next step would probably be using a solvent or [piranha](https://en.wikipedia.org/wiki/Piranha_solution) to try to get rid of the last of the epoxy.  But that's enough card dissection for today.
 
-But first, a couple photos to show how incredibly small this silicon chip is:
+Finally, a couple photos to show how incredibly small this silicon chip is:
 
 <img src="/assets/compass-card-finger.jpg">
 
