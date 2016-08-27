@@ -5,11 +5,11 @@ permalink: /hnbfpr/
 
 <div class="home">
 
-<h1>Has not benefited from peer review</h1>
+<h1>Has Not Benefited From Peer Review</h1>
 
 <img src="/assets/typewriter.jpg"><br><br>
 
-<p><i>HNBFPR</i> is a notebook of various writings by William Grover.</p><br>
+<p><i>Has Not Benefited From Peer Review</i> is a blog of random writing by <a href="/">William Grover</a>.</p><br>
 
   <ul class="post-list">
     {% for post in site.hnbfpr reversed %}
@@ -18,8 +18,10 @@ permalink: /hnbfpr/
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        {{ post.content }}
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        {{ post.excerpt }}
+        <div align=right>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read more...</a>
+        </div>
       </li>
     {% endfor %}
   </ul>

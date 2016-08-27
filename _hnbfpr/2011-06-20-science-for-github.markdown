@@ -8,6 +8,8 @@ My friend and former labmate [Marcio von Muhlen](http://marciovm.com/) recently 
 
 I've been thinking about a backwards approach to Marcio's argument: instead of adding aspects of Github to science publishing, what would happen if we added aspects of the current science publishing system to Github? How horribly broken would Github become if we recast it in the image of Reed-Elsevier, Springer, John Wiley and Sons, and the rest of the for-profit scientific publishing companies?
 
+<!--more-->
+
 First, we would need to put some locks on the doors. Access to our new Github is only available to subscribers, and it isn't cheap. If your school or employer doesn't pay for access, you're probably out of luck. If you're an unemployed coder using Github to learn a trendy new programming language, or a hobbyist coder interested in contributing to a project on Github, you're not welcome anymore.
 
 Actually, it's a little more complicated than that. There's one subscription for Github Ruby, another subscription for Github Python, another subscription for Github Java, and so on. If you have a Github C subscription but you'd like to browse Github C++, get your credit card out.

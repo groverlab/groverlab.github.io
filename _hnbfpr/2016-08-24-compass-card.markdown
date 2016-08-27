@@ -8,6 +8,8 @@ On a recent trip to Vancouver B.C. we decided to take [TransLink](http://www.tra
 
 <img src="/assets/compass-card-outside.jpg">
 
+<!--more-->
+
 The tickets looked like the usual disposable paper tickets that are used on lots of buses and trains.  But I was surprised when I reached the turnstile and found no place to insert the paper ticket.  Instead there was a target for tapping a smart card.  All the smart cards I've ever seen are plastic, so it took me a second to realize that my disposable paper ticket might harbor smart insides.  But after tapping the ticket against the reader, the turnstile gates opened and we were on our way.
 
 A ray of sunlight confirmed that our paper ticket was no dummy:
