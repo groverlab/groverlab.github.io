@@ -8,14 +8,18 @@ permalink: /education/
   <h1>Education</h1>
 
 
+
   <ul class="post-list">
     {% for item in site.education reversed %}
       <li>
       <br>
-           
-        <h1>           <a class="post-link" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></h1>
-        {{ item.content }}
-      </li>
+
+        <h1><a class="post-link" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></h1>
+        {{ item.excerpt }}
+        <div align=right>
+          <a class="post-link" href="{{ item.url | prepend: site.baseurl }}">Read more...</a>
+        </div>
+            </li>
     {% endfor %}
   </ul>
 
