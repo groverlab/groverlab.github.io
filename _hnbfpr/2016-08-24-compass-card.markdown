@@ -4,6 +4,8 @@ title:  "Dissecting a TransLink Compass ticket"
 date:   2016-08-24 12:00:00 -0800
 ---
 
+This post was featured in the [<i>24 Hours Vancouver</i> newspaper](http://vancouver.24hrs.ca/2016/08/28/whats-inside-translinks-compass-cards) and spawned an interesting [discussion on Reddit's Vancouver subreddit](https://www.reddit.com/r/vancouver/comments/4zfgb6/dissecting_a_translink_compass_ticket/).
+
 On a recent trip to Vancouver B.C. we decided to take [TransLink](http://www.translink.ca)'s SkyTrain and buses from the airport to the Horseshoe Bay ferry terminal.  We bought our tickets at the YVR SkyTrain station:
 
 <img src="/assets/compass-card-outside.jpg">
