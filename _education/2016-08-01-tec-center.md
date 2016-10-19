@@ -5,7 +5,7 @@ title: "The TEC Center"
 
 
 
-  <img src="/assets/od-mec.jpg" width="30%" align="left" style="PADDING-RIGHT: 20px">
+  <img src="/assets/tec_center_logo.png" width="30%" align="left" style="PADDING-RIGHT: 20px">
 
 **[http://evolutionarycomponents.org](http://evolutionarycomponents.org)**
 
