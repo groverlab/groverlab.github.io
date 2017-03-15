@@ -3,7 +3,7 @@ layout: post
 title:  "Random design of microfluidics"
 ---
 
-Junchao Wang, Philip Brisk, and William H. Grover.  [*Lab on a Chip*, asdf](http://pubs.rsc.org/en/content/articlelanding/2016/lc/c6lc00758a).  [PDF](/assets/random-microfluidics.pdf)
+Junchao Wang, Philip Brisk, and William H. Grover.  [*Lab on a Chip*, 16, 4212-4219 (2016)](http://pubs.rsc.org/en/content/articlelanding/2016/lc/c6lc00758a).  [PDF](/assets/random-microfluidics.pdf)
 
 <img src="/assets/random-microfluidics.png">
 
