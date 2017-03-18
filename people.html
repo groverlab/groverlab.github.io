@@ -12,19 +12,33 @@ permalink: /people/
       {% if person.role == "Current" %}
       <li>
       <br>
-<!--         <span class="post-meta">{{ person.name }}</span>
- -->
          <img src="/assets/{{ person.picture }}" width="30%" align="left" style="margin:0px 20px 0px 0px">
         <h2>
           <a class="post-link" href="{{ person.url | prepend: site.baseurl }}">{{ person.name }}</a>
           </h2>
         {{ person.content }}
-
       </li>
       {% endif %}
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <h1>Alumni</h1>
+
+  <ul class="post-list">
+    {% for person in site.people %}
+      {% if person.role == "Alumni" %}
+      <li>
+      <br>
+         <img src="/assets/{{ person.picture }}" width="30%" align="left" style="margin:0px 20px 0px 0px">
+        <h2>
+          <a class="post-link" href="{{ person.url | prepend: site.baseurl }}">{{ person.name }}</a>
+          </h2>
+        {{ person.content }}
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 
 </div>
