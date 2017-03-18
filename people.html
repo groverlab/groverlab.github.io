@@ -9,6 +9,7 @@ permalink: /people/
 
   <ul class="post-list">
     {% for person in site.people %}
+      {% if person.role == "Current" %}
       <li>
       <br>
 <!--         <span class="post-meta">{{ person.name }}</span>
@@ -18,10 +19,9 @@ permalink: /people/
           <a class="post-link" href="{{ person.url | prepend: site.baseurl }}">{{ person.name }}</a>
           </h2>
         {{ person.content }}
-        {% if person.alumni %}
-          ALUMNI!?!
-          {% endif %}
+
       </li>
+      {% endif %}
     {% endfor %}
   </ul>
 
