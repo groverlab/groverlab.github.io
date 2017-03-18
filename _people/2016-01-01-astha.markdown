@@ -2,7 +2,7 @@
 layout: post
 name:  "Astha Arora"
 picture: "astha.jpg"
-
+alumni: True
 ---
 Astha is a MS student in the Department of Bioengineering at UCR.
 <br>

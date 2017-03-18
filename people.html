@@ -14,10 +14,13 @@ permalink: /people/
 <!--         <span class="post-meta">{{ person.name }}</span>
  -->
          <img src="/assets/{{ person.picture }}" width="30%" align="left" style="margin:0px 20px 0px 0px">
-        <h2> 
+        <h2>
           <a class="post-link" href="{{ person.url | prepend: site.baseurl }}">{{ person.name }}</a>
           </h2>
         {{ person.content }}
+        {% if person.alumni %}
+          ALUMNI!
+          {% endif %}
       </li>
     {% endfor %}
   </ul>
