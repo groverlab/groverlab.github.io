@@ -2,5 +2,6 @@
 layout: post
 name:  "Nazila Norouzi"
 picture: "nazila.jpg"
+role: "Alumni"
 ---
 Nazila is a PhD Student in the Department of Bioengineering at UCR. She obtained her B.S. in Biomedical engineering from the University of California, Irvine in 2010. During her undergraduate studies she spent two years as a research assistant in Mechanobiology Lab in Beckman Laser Institute, Irvine and one year in Microfluidic lab. In addition, her senior design project was awarded by National Collegiate Inventors and Innovators Alliance’s (NCIIA) BMEidea competition. She also obtained her M.S. in Biomedical engineering from the University of California, Irvine in 2012. During her M.S. studies, her focus was on Microfluidic and Microdevices for diagnostic applications. She has two journal publications and three conference papers. Her current research interests lie in the field of Microfluidic and Microdevices and when not in the lab, she spends her time painting and playing volleyball.
