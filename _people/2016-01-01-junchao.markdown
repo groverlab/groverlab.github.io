@@ -4,5 +4,6 @@ name:  "Junchao Wang"
 picture: "junchao.jpg"
 role: "Current"
 ---
-Junchao is a PhD student in the Department of Bioengineering at UCR. He obtained his B.E. in Bioengineering from Jiangnan University in Wuxi, China.  During his undergraduate studies, he spent 2 years in Dr. Ye Ni’s lab and focused on producing chiral pharmaceutical intermediates by biocatalysis.  In the Grover Lab Junchao is developing innovative ways to design microfluidic devices.  He enjoys soccer in his spare time.
+Junchao is a PhD student in the Department of Bioengineering at UCR. He obtained his B.E. in Bioengineering from Jiangnan University in Wuxi, China.  During his undergraduate studies, he spent 2 years in Dr. Ye Ni’s lab and focused on producing chiral pharmaceutical intermediates by biocatalysis.  In the Grover Lab Junchao is developing innovative ways to design microfluidic devices.  
 
+Contact: [Github](https://github.com/billyfish152) / [LinkedIn](https://www.linkedin.com/in/wangjunchao/)
