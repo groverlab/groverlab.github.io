@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "vibrating tube sensors featured on UCR homepage"
+title:  "Vibrating tube sensors featured on UCR homepage"
 date:   2017-04-05 02:00:00 -0800
 categories: news
 ---
