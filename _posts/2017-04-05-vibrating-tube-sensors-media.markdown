@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "MEC system featured on <i>UCR Today</i>"
-date:   2017-04-05 01:00:00 -0800
+title:  "vibrating tube sensors featured on UCR homepage"
+date:   2017-04-05 02:00:00 -0800
 categories: news
 ---
 
