@@ -155,9 +155,13 @@ The results provide a pretty interesting insight into which integers are used mo
 We can also see that from 257 onward, `sys.getrefcount()` returns only 3, meaning that Python doesn't automatically share references to integers past 257.  This doesn't mean that integers greater than 257 aren't used anywhere in Python's internals, but it means that they are used so infrequently that Python doesn't think it is worthwhile to share references to those integers.  You can actually see the number 257 specified as the constant `NSMALLPOSINTS` in [the C source code for Python](https://svn.python.org/projects/python/trunk/Objects/intobject.c).  Looking at the plot above, 257 seems like an excellent choice for this cutoff; the integers above about 200 are mostly being used in less than 10 places in Python (except for the outliers 255 and 256) so sharing references to these integers will be less effective.
 
 > EDIT: Reddit user [novel_yet_trivial](https://www.reddit.com/user/novel_yet_trivial) suggested [an edit](https://www.reddit.com/r/Python/comments/6iw5a5/fun_with_pythons_sysgetrefcount/dj9la6k/) that plots just the integers used by Python (and not `matplotlib`).  Here's the result:
+>
 > <img src="/assets/sys_getrefcount_integers_3.png">
+>
 > This shows that the extra references for 100 and 20 were entirely due to `matplotlib` (it doesn't explain why those numbers are favored so much in `matplotlib`, though).  But even better, it also shows how dominant all the powers-of-two are in core Python.  Here's a version of novel_yet_trivial's code with all the powers-of-two annotated:
+>
 > <img src="/assets/sys_getrefcount_integers_4.png">
+>
 > I love how each power-of-two is more commonly referenced than the surrounding numbers, and even within the powers-of-two the trend of "smaller integers are referenced more" holds true from 1 all the way to 256.
 
 **Our fun with `sys.getrefcount()` can extend beyond integers!**  Strings are also immutable in Python, and Python uses the same trick with strings as with integers to conserve computing resources.  Here's a tiny program that prints the number of references to the single-character strings from `"a"` to `"z"`:
