@@ -34,7 +34,7 @@ because we've now created another variable with a value of 24601.  We didn't ded
 
 ```python
 foo = 12345
-print sys.getrefcount(90210)
+print sys.getrefcount(24601)
 ```
 
 the output is back to
