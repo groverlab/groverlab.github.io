@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Junchao's microfluidics-optimized particle simulation algorithm (MOPSA) published in <i>Biomicrofluidics</i>"
+date:   2017-06-26 01:00:00 -0800
+categories: news
+---
+![mopsa](/assets/mopsa.png)
+
+Junchao Wang's paper "MOPSA: A microfluidics-optimized particle simulation algorithm" was [published in *Biomicrofluidics*](http://aip.scitation.org/doi/10.1063/1.4989860).  Thanks to our coauthors Victor G.J. Rodgers and Philip Brisk for their help!
