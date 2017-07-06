@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Density spectrum
+title: The Density Spectrum
 permalink: /density/
 ---
+
+Ordinary matter (ruling out things like neutron stars) has densities in the range from nearly zero (for gases) to almost 23 g/mL (for osmium and iridium, the densest elements).  This range of densities can be visualized like a number line---every substance in the world lives somewhere on that line, including water (1 g/mL), diamonds (3.51 g/mL), silver (10.49 g/mL), and gold (19.32 g/mL).  Back in 2011 I had the idea to actually build this density number line and label all the elements and some common substances.  But I quickly realized that you'd need an enormous line to be able to see tiny (but measurable!) differences in density (like the difference between isopropanol at 0.786 g/mL and ethanol at 0.789 g/mL).  So I decided to build a number line that operates on multiple scales at once, 
 
 <script src="../assets/processing.js"></script>
 
