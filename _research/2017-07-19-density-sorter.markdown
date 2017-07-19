@@ -3,7 +3,7 @@ layout: post
 title:  "Sorting cells by their density"
 ---
 
-Nazila Norouzi, Heran C. Bhakta, and William H. Grover.  [*PLOS ONE*   (2017)](https://doi.org/10.1371/journal.pone.0180520).  [PDF](/assets/density_sorter.pdf)
+Nazila Norouzi, Heran C. Bhakta, and William H. Grover.  [*PLOS ONE*   (2017)](https://doi.org/10.1371/journal.pone.0180520).
 
 <img src="/assets/density_sorter.png">
 
