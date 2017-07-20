@@ -7,5 +7,3 @@ categories: news
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/-nfEZiUAack" frameborder="0" allowfullscreen></iframe>
 &nbsp;
-
-

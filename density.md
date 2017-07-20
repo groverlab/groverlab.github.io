@@ -4,7 +4,31 @@ title: The Density Spectrum
 permalink: /density/
 ---
 
-Ordinary matter (ruling out things like neutron stars) has densities in the range from nearly zero (for gases) to almost 23 g/mL (for osmium and iridium, the densest elements).  This range of densities can be visualized like a number line---every substance in the world lives somewhere on that line, including water (1 g/mL), diamonds (3.51 g/mL), silver (10.49 g/mL), and gold (19.32 g/mL).  Back in 2011 I had the idea to actually build this density number line and label all the elements and some common substances.  But I quickly realized that you'd need an enormous line to be able to see tiny (but measurable!) differences in density (like the difference between isopropanol at 0.786 g/mL and ethanol at 0.789 g/mL).  So I decided to build a number line that operates on multiple scales at once, 
+Ordinary matter (ruling out things like neutron stars) has densities in the range from nearly zero (for gases) to almost 23 g/mL (for osmium and iridium, the densest elements).  And if you draw a number line from zero to 23 g/mL, like this:
+
+<img src="/assets/density-number-line/density-number-line-1.png">
+
+you can visualize the range of all possible densities---the "density spectrum," if you will.  Every *thing* in the world lives somewhere on the density spectrum.  For example, water lives at 1 g/mL:
+
+<img src="/assets/density-number-line/density-number-line-2.png">
+
+diamonds can be found at 3.51 g/mL:
+
+<img src="/assets/density-number-line/density-number-line-3.png">
+
+and silver and gold live at 10.49 g/mL and 19.32 g/mL, respectively:
+
+<img src="/assets/density-number-line/density-number-line-4.png">
+
+Back in 2011 I had the idea to create a density spectrum that includes the densities of all the elements, along with some common chemical compounds and [even some living cells](/research/2011-01-01-cell-density.html).   But I quickly realized that you'd need an enormous number line to be able to see tiny (but measurable!) differences in density.  For example, you can't see the difference between isopropanol (0.786 g/mL) and ethanol (0.789 g/mL) on this line:
+
+<img src="/assets/density-number-line/density-number-line-5.png">
+
+but you can easily measure this 0.003 g/mL difference.  If you zoom in on the spectrum, you can see the difference between ethanol and isopropanol, but you can no longer appreciate the (now relatively enormous) full range over which these small density differences matter.
+
+So I decided to create a density spectrum that operates on multiple scales at once.  On the bottom is the full density spectrum, from zero to 23 g/mL.  A sliding window on the spectrum allows you to zoom in by a factor of 10 on that spectrum; the closeup is shown on the next row up.  Another sliding window on *that* spectrum zooms in another factor of 10 (or a factor of *100* from the full spectrum).  And yet another sliding window zooms in another factor of 10 (or a factor of *1000* from the full spectrum), allowing you to finally see tiny but measurable differences in the density of substances, cells, and other objects.
+
+I wrote this density spectrum viewer in 2011 using [Processing](http://processing.org) and ported it to this website in 2017 using [Processing.js](http://processingjs.org).  On a desktop computer, you can click and drag the shaded regions and select which region of the density spectrum you'd like to examine:
 
 <script src="../assets/processing.js"></script>
 
@@ -37,9 +61,12 @@ float line0y = topmargin + 0 * spacing;
 float topboxheight = 180;
 float botboxheight = 35;
 float boxlength = linelength / 10 / 2; // half box length
-float box3center = 109;
-float box2center = 567;
-float box1center = 296;
+
+// these are the initial locations of the zoom-in windows:
+float box3center = 80;
+float box2center = 315;
+float box1center = 574;
+
 float box3left;
 float box2left;
 float box1left;
@@ -817,17 +844,17 @@ void draw() {
   fill(0);
   textFont(fbig, 30);
   if (box1) {
-    text("1000x", xmax*.96, line0y - 120);
+    text("1000x", xmax*.94, line0y - 120);
   }
   if (box2) {
-    text("100x", xmax*.96, line1y - 120);
+    text("100x", xmax*.94, line1y - 120);
   }
   fill(0);
   if (box3) {
-    text("10x", xmax*.96, line2y - 120);
+    text("10x", xmax*.94, line2y - 120);
   }
   if (box4) {
-    text("1x", xmax*.96, line3y - 120);
+    text("1x", xmax*.94, line3y - 120);
   }
 
   fill(0);
@@ -894,10 +921,16 @@ void draw() {
   strokeWeight(3.0);
   stroke(255, 0, 0);
   if (box1) {
-    line(166, 150, 213, 150);
+
+    // line(166, 150, 213, 150);
+    // line(166, 150, 166, 160);
+    // line(213, 150, 213, 160);
+    // line((166+213)/2, 150, (166+213)/2, 140);
+
+    line(166, 150, 190, 150);
     line(166, 150, 166, 160);
-    line(        213, 150, 213, 160);
-    line((166+213)/2, 150, (166+213)/2, 140);
+    line(190, 150, 190, 160);
+    line((166+190)/2, 150, (166+190)/2, 140);
   }
   fill(255, 0, 0);
   textFont(fmedium, 18);
@@ -934,3 +967,5 @@ void mouseDragged() {
 
 </script>
 <canvas id="processing-canvas"> </canvas>
+
+P.S.:  If you liked playing with the density spectrum, you might enjoy my [2014 TEDx talk about density](/news/2017/03/06/grover-tedxucr.html).
