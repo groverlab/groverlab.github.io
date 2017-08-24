@@ -3,7 +3,7 @@ layout: post
 title:  "The Case for Semi-Automated Design of Microfluidic Very Large Scale Integration (mVLSI) Chips"
 ---
 
-Jeffrey McDaniel, William H. Grover, and Philip Brisk.  [*Design, Automation and Test in Europe (DATE)*   (2017)](https://doi.org/10.1371/journal.pone.0180520).  [PDF](/assets/semi-automated-design.pdf)
+Jeffrey McDaniel, William H. Grover, and Philip Brisk.  [*Design, Automation and Test in Europe (DATE)*   (2017)](http://ieeexplore.ieee.org/document/7927283/).  [PDF](/assets/semi-automated-design.pdf)
 
 <img src="/assets/semi-automated-design.png">
 
