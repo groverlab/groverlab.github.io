@@ -3,7 +3,7 @@ layout: post
 title:  "Measuring single-cell density"
 ---
 
-William H. Grover, Andrea K. Bryan, Monica Diez-Silva, Subra Suresh, John M. Higgins, and Scott R. Manalis, *Proceedings of the National Academy of Sciences of the United States of America* 108 (27), 10992-10996 (2011).  [PDF](/assets/cell-density.pdf)
+William H. Grover, Andrea K. Bryan, Monica Diez-Silva, Subra Suresh, John M. Higgins, and Scott R. Manalis, [*Proceedings of the National Academy of Sciences of the United States of America* 108 (27), 10992-10996 (2011)](http://www.pnas.org/content/108/27/10992).  [PDF](/assets/cell-density.pdf)
 
 <img src="/assets/cell-density.png">
 

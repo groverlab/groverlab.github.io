@@ -3,7 +3,7 @@ layout: post
 title:  "MECs: \"Building Blocks\" for Creating Biological and Chemical Instruments"
 ---
 
-Douglas A. Hill, Lindsey E. Anderson, Casey J. Hill, Afshin Mostaghim, Victor G. J. Rodgers, and William H. Grover.  PLoS ONE 11(7): e0158706.  [PDF](/assets/mec.pdf)
+Douglas A. Hill, Lindsey E. Anderson, Casey J. Hill, Afshin Mostaghim, Victor G. J. Rodgers, and William H. Grover.  [*PLOS ONE* 11 (7): e0158706](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0158706).  [PDF](/assets/mec.pdf)
 
 <img src="/assets/MEC_fig1.png">
 

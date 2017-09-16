@@ -3,7 +3,7 @@ layout: post
 title:  "Teflon films for chemically-inert microfluidic valves and pumps"
 ---
 
-William H. Grover, Marcio G. von Muhlen, and Scott R. Manalis, Lab on a Chip 8 (6), 913-918 (2008).  [PDF](/assets/teflon-valves.pdf)
+William H. Grover, Marcio G. von Muhlen, and Scott R. Manalis, [*Lab on a Chip* 8 (6), 913-918 (2008)](http://pubs.rsc.org/en/Content/ArticleLanding/2008/LC/b800600h).  [PDF](/assets/teflon-valves.pdf)
 
 <img src="/assets/teflon-valves.png">
 

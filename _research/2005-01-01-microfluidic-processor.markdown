@@ -3,7 +3,7 @@ layout: post
 title:  "An integrated microfluidic processor for single nucleotide polymorphism-based DNA computing"
 ---
 
-William H. Grover and Richard A. Mathies, Lab on a Chip 5 (10), 1033-1040 (2005).  [PDF](/assets/microfluidic-processor.pdf)
+William H. Grover and Richard A. Mathies, [*Lab on a Chip* 5 (10), 1033-1040 (2005)](http://pubs.rsc.org/en/content/articlelanding/2005/lc/b505840f/unauth).  [PDF](/assets/microfluidic-processor.pdf)
 
 <img src="/assets/microfluidic-processor.png">
 

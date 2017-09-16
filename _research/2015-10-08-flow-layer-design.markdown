@@ -3,7 +3,7 @@ layout: post
 title:  "Flow-layer physical design for microchips based on monolithic membrane valves"
 ---
 
-Jeffrey McDaniel, Brian Crites, Philip Brisk, and William H. Grover.  *IEEE Design and Test* 32 (6), 51-59 (2015).  [PDF](/assets/flow-layer-design.pdf)
+Jeffrey McDaniel, Brian Crites, Philip Brisk, and William H. Grover.  [*IEEE Design and Test* 32 (6), 51-59 (2015)](http://ieeexplore.ieee.org/document/7294668/).  [PDF](/assets/flow-layer-design.pdf)
 
 <img src="/assets/flow-layer-design.png">
 

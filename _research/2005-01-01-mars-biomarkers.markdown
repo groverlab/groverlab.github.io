@@ -3,7 +3,7 @@ layout: post
 title:  "Development and evaluation of a microdevice for amino acid biomarker detection and analysis on Mars"
 ---
 
-Alison M. Skelley, James R. Scherer, Andrew D. Aubrey, William H. Grover, Robin H.C. Ivester, Pascale Ehrenfreund, Frank J. Grunthaner, Jeffrey L. Bada, Richard A. Mathies, Proceedings of the National Academy of Sciences of the United States of America 102 (4), 1041-1046 (2005).   [PDF](/assets/mars-biomarkers.pdf)
+Alison M. Skelley, James R. Scherer, Andrew D. Aubrey, William H. Grover, Robin H.C. Ivester, Pascale Ehrenfreund, Frank J. Grunthaner, Jeffrey L. Bada, Richard A. Mathies, [*Proceedings of the National Academy of Sciences of the United States of America* 102 (4), 1041-1046 (2005)](http://www.pnas.org/content/102/4/1041.abstract).   [PDF](/assets/mars-biomarkers.pdf)
 
 <img src="/assets/mars-biomarkers.png">
 

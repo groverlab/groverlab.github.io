@@ -3,7 +3,7 @@ layout: post
 title:  "Orientation-based control of microfluidics"
 ---
 
-Nazila Norouzi, Heran C. Bhakta, and William H. Grover.  PLoS ONE 11(3): e0149259  [PDF](/assets/orientation-based-microfluidics.pdf)
+Nazila Norouzi, Heran C. Bhakta, and William H. Grover.  [PLOS ONE 11 (3): e0149259](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149259).  [PDF](/assets/orientation-based-microfluidics.pdf)
 
 <img src="/assets/orientation-based-microfluidics.png">
 

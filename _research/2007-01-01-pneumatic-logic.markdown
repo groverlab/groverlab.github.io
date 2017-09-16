@@ -3,7 +3,7 @@ layout: post
 title:  "Micropneumatic digital logic structures for integrated microdevice computation and control"
 ---
 
-Erik C. Jensen, William H. Grover, and Richard A. Mathies, Journal of Microelectromechanical Systems 16 (6), 1378-1385 (2007).  [PDF](/assets/pneumatic-logic.pdf)
+Erik C. Jensen, William H. Grover, and Richard A. Mathies, [*Journal of Microelectromechanical Systems* 16 (6), 1378-1385 (2007)](http://ieeexplore.ieee.org/document/4380307/).  [PDF](/assets/pneumatic-logic.pdf)
 
 <img src="/assets/pneumatic-logic.png">
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Development and multiplexed control of latching pneumatic valves using microfluidic logical structures"
 ---
 
-William H. Grover, Robin H.C. Ivester, Erik C. Jensen, and Richard A. Mathies, Lab on a Chip 6 (5), 623-631 (2006). [PDF](/assets/latching-valves.pdf)
+William H. Grover, Robin H.C. Ivester, Erik C. Jensen, and Richard A. Mathies, [*Lab on a Chip* 6 (5), 623-631 (2006)](http://pubs.rsc.org/en/content/articlehtml/2006/LC/B518362F). [PDF](/assets/latching-valves.pdf)
 
 <img src="/assets/latching-valves.png">
 

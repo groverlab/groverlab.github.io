@@ -3,7 +3,7 @@ layout: post
 title:  "Microfluidic serial dilution circuit"
 ---
 
-Brian M. Paegel, William H. Grover, Alison M. Skelley, Richard A. Mathies, Gerald F. Joyce, Analytical Chemistry 78 (21), 7522-7527 (2006).  [PDF](/assets/serial-dilution.pdf)
+Brian M. Paegel, William H. Grover, Alison M. Skelley, Richard A. Mathies, Gerald F. Joyce, [*Analytical Chemistry* 78 (21), 7522-7527 (2006)](http://pubs.acs.org/doi/abs/10.1021/ac0608265).  [PDF](/assets/serial-dilution.pdf)
 
 <img src="/assets/serial-dilution.png">
 

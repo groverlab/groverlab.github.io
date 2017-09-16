@@ -4,7 +4,7 @@ title:  "Using buoyant mass to measure the growth of single cells"
 picture: "cell-growth.png"
 ---
 
-Michel Godin, Francisco Feijo Delgado, Sungmin Son, William H. Grover, Andrea K. Bryan, Amit Tzur, Paul Jorgensen, Kris Payer, Alan D. Grossman, Marc W. Kirschner, and Scott R. Manalis, *Nature Methods* 7, 387-390 (2010).  [PDF](/assets/cell-growth.pdf)
+Michel Godin, Francisco Feijo Delgado, Sungmin Son, William H. Grover, Andrea K. Bryan, Amit Tzur, Paul Jorgensen, Kris Payer, Alan D. Grossman, Marc W. Kirschner, and Scott R. Manalis, [*Nature Methods* 7, 387-390 (2010)](http://www.nature.com/nmeth/journal/v7/n5/full/nmeth.1452.html).  [PDF](/assets/cell-growth.pdf)
 
 <img src="/assets/cell-growth.png">
 
