@@ -1,0 +1,7 @@
+---
+layout: post
+name:  "Raymond Yeung"
+picture: "raymond.png"
+role: "Current"
+---
+Raymond is a PhD student in the Department of Bioengineering at UCR. He obtained his B.S. in Chemical Biology at the University of California, Berkeley in 2014. During his undergraduate and post-baccalaureate studies, he spent two years in Prof. Angelica Stacy's lab at UCB where he characterized the process for production of flexible porous aluminum oxide and worked concurrently in Prof. Shuvo Roy's group at UCSF where he investigated the immunoprotection of pancreatic islets using silicon nanopore membranes. He received his M.S. in Bioengineering at UCR in 2017. For his thesis work in Prof. Victor G. J. Rodger's group, Raymond studied the separation of proteins using electrically conductive ultrafiltration membranes. His current research interests revolve around tailoring transport characteristics to develop tools for therapeutic and industrial applications.

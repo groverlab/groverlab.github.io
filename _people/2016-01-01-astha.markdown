@@ -2,9 +2,9 @@
 layout: post
 name:  "Astha Arora"
 picture: "astha.jpg"
-role: "Alumni"
+role: "Current"
 ---
-Astha is a MS student in the Department of Bioengineering at UCR.
+Astha is an Assistant Specialist in the Grover Lab at UCR.
 <br>
 
 <br>
