@@ -1,0 +1,7 @@
+---
+layout: post
+name:  "Jessica Robles"
+picture: "jessica.jpg"
+role: "Current"
+---
+Jessica is a senior undergraduate student majoring in Bioengineering at the University of California, Riverside. She is planning on pursuing her graduate degree in bioengineering. Her current research interests are in creating microfluidic devices that are both cost-effective and easy to implement. In her free time she enjoys swimming and traveling.
