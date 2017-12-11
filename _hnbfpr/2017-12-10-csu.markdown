@@ -1,0 +1,166 @@
+---
+layout: post
+title:  '"The University of Alberta, Southern California"'
+date:   2017-12-10 01:00:00 -0800
+---
+
+I get about a dozen emails a day from [predatory journals](https://en.wikipedia.org/wiki/Predatory_open_access_publishing) looking for editorial board members.  I assume they're predatory; any journal that thinks I'm an expert in sports medicine or supply chain management  clearly has some problems. I generally ignore them.
+
+<figure>
+<img class="center" src="/assets/predatory-emails.png">
+<figcaption>My poor inbox</figcaption>
+</figure>
+
+But on a lark, I recently looked up one of these journals, the *Journal of Systems Biology Research*, and found their [website](https://sciforschenonline.org/journals/systems-biology-research/index.php).  They currently have just [one "article in press"]() (Volume 1, Issue 1, page 1) and no other published articles.  There's a link for submitting new articles (which the journal charges $749 to publish).  And despite having published just one article, the *Journal of Systems Biology Research* has a ten-member [editorial board](https://sciforschenonline.org/journals/systems-biology-research/editorial-board.php).  This list seems to include some reputable researchers (and I've reached out to a couple of them to confirm that they actually agreed to serve on the editorial board). But it was the biography for one editorial board member, Alireza Heidari, that caught my eye:
+
+<img class="center" src="/assets/heidari.png">
+
+Dr. Heidari is said to be a professor at **California South University (CSU)** in Irvine, California.  I did a double-take when I read "California South University"---I'd never heard of it, despite apparently living just a few miles down the road from it.  The name "California South University" sounds like what you'd get if you put the names of every Southern California university into a blender and pressed "liquefy."  It's a little bit of [University of Southern California](https://www.usc.edu), a little bit of [California State University](https://www2.calstate.edu), and two or three others, all rolled into one.
+
+<!--more-->
+
+After some more Googling, I discovered the absolutely extraordinary [website of California South University.](http://calsu.us)
+
+<figure>
+<img src="/assets/csu-website.png">
+<figcaption>"The California South University website (http://calsu.us) in December 2017"</figcaption>
+</figure>
+
+Never mind the "Lorem Ipsum" placeholder text under ["Your Career Starts Here."](http://calsu.us/index.php/2017/06/03/video-post/)  I started by reading the ["Spark of Genius"](http://calsu.us/index.php/2017/06/03/gallery-post/) article:
+
+> "ALBERT EINSTEIN never learned to drive. He thought it too complicated and in any case he preferred walking. What he did not know—indeed, what no one knew until now—is that most cars would not work without the intervention of one of his most famous discoveries, the special theory of relativity.  Special relativity deals with physical extremes. It governs the behaviour of subatomic particles zipping around powerful accelerators at close to the speed of light and its equations foresaw the conversion of mass into energy in nuclear bombs. A paper in Physical Review Letters, however, reports a more prosaic application. **According to the calculations of Pekka Pyykko of the California South University and his colleagues,** the familiar lead-acid battery that sits under a car’s bonnet and provides the oomph to get the engine turning owes its ability to do so to special relativity."
+
+That's some interesting research by California South's Professor Pekka Pyykko!  Too bad that the article text is copied from [this 2011 article in *The Economist*](http://www.economist.com/node/17899724) about the research of the *real* [Pekka Pyykko](http://www.chem.helsinki.fi/~pyykko/), who actually works at the **University of Helsinki**.  That's right, the only change that California South University made to the *Economist* article was changing "University of Helsinki" to "California South University."
+
+Under ["About Us"](http://calsu.us/index.php/about-us/) on the California South website, we learn that
+
+> "The university comprises four campuses in Irvine... The original campus consists of **150 buildings covering 50 city blocks** on the south rim of the Garden Grove in northern Orange County, California, United States. 39,000 students from United States and 150 other countries participate in 400 programs in 19 faculties.
+The California South University is a major economic driver in California. The university’s impact on the California economy is an estimated $12.3 billion annually, or **five per cent of the province’s gross domestic product**. With more than 15,000 employees, the university is **California’s fourth-largest employer**.  The university has been recognized by the Academic Ranking of World Universities, the QS World University Rankings and the Times Higher Education World University Rankings as **one of the top fifty universities in the United States and one of the top 100 universities worldwide**."
+
+Wow, this massive university is California's fourth-largest employer and one of the top fifty universities in the United States!  How have I never heard of it before?  Though it is rather odd they refer to California as a "province" instead of a "state"...
+
+I then read the California South University ["History"](http://calsu.us/index.php/history/) page, which provides many paragraphs about the growth of California South University over the years, complete with details about the famous architects who designed campus buildings, and the "War Memorial Pipe Organ" built "in memory of 80 California South University comrades who gave up their lives during the Great War."
+
+But when I read this sentence, my jaw dropped:
+
+> "Another new building, the distinctive Universiade Pavilion (nicknamed the "Butterdome"), was completed as part of the university’s preparations to host the World University Games in 1983.""
+
+What caught my eye was the "Butterdome."  I've actually been to the "Butterdome."  But it's not in Irvine; **it's in Edmonton, Alberta, in Canada, at the University of Alberta, nearly 2000 miles from Irvine:**
+
+<figure>
+<img src="/assets/butterdome.jpg">
+<figcaption>The aptly-nicknamed "Butterdome" at the University of Alberta in Edmonton, Alberta, Canada.</figcaption>
+</figure>
+
+So why is California South University claiming that the University of Alberta's "Butterdome" is on their campus in Southern California?
+
+Turns out that the Butterdome isn't the only thing from Alberta that California South University claims is theirs.
+
+**I found that most of [California South University's "History" site]() is copied verbatim from the [University of Alberta's "History" site](https://www.ualberta.ca/about/history).**  California South University made a few edits, replacing "Alberta" with "California" and "Edmonton" with "Irvine" or "Garden Grove," but they forgot to replace "province" with "state."   California South's supposed president, Indira Samarasekera, was actually the [University of Alberta's president](https://en.wikipedia.org/wiki/Indira_Samarasekera).  And even though California South's website says that the school's first classes were taught "on the top floor of the Queen Alexandra Elementary School in Irvine," the real [Queen Alexandra Elementary School](http://queenalexandra.epsb.ca) is, in fact, in Edmonton, Alberta.
+
+**The California South University website is like a peek into an alternate universe where a major Canadian university has been transplanted to Southern California.**  For example, witness [this page](http://calsu.us/index.php/member/prof-dr-arthur-miller/), which says that
+
+>"The current, and 23rd, President of California South University (CSU), Irvine, California, USA is the Liberal Party’s Justin Trudeau."
+
+I'm surprised that the Prime Minister of Canada has the time to also run a university in California!
+
+Or how about [this page](http://calsu.us/index.php/member/prof-dr-christopher-brown/), which claims that California South's Prof. Christopher Brown was the first chemist to synthesize sucrose in the lab.  This must come as a surprise to the first chemist to *really* synthesize sucrose in the lab, [Raymond Lemieux](https://en.wikipedia.org/wiki/Raymond_Lemieux), who worked at---you guessed it!---the University of Alberta in Edmonton, Canada.
+
+Or my favorite, [this page](http://calsu.us/index.php/member/prof-dr-arthur-adams/) about California South's Prof. Arthur Adams.  Prof. Adams was apparently a referee in the NHL before joining the faculty at CSU; he
+
+> "made a controversial call in 1999 when refereeing a game involving the **Los Angeles Maple Leafs** when defenceman Red Horner was struck with a stick and Prof. Dr. Arthur Adams doled out only a minor penalty, even though Horner was bleeding."
+
+"Los Angeles Maple Leafs"!?  I'm no hockey expert, but I suspect that some folks in Toronto might take issue with those words.
+
+<center>&#x2737;&nbsp;&nbsp;&#x2737;&nbsp;&nbsp;&#x2737;</center><br>
+
+**Why would someone create a fake Southern California version of a real Canadian university?**
+
+Perhaps the most obvious answer would be that California South University is a ["diploma mill,"](https://en.wikipedia.org/wiki/Diploma_mill) a fake university that exists to sell academic degrees.  And there's evidence to suggest that California South University may have at least started as a diploma mill.  The current California South University website (calsu.us) has a footer on every page, stating
+
+> "Note:  It should be noted that our previous official website was www.casu.us."
+
+That older URL now belongs to someone in China, but by using the [Internet Archive's Wayback Machine](http://web.archive.org/web/*/casu.us), we can see the old California South University site as it looked from 2013 to 2016.
+
+[This capture of casu.us from January 2016](http://web.archive.org/web/20160121092447/http://www.casu.us/) is typical of the University's website during this period; it offers online Associate's, Bachelor's, Master's, and Ph.D. degrees.  The site flaunts questionable accreditation seals and promises that students will "SAVE up to 35%" if they enroll before December 31st. 
+
+<img class="center" src="/assets/csu-save.png">
+
+ There are also links on every page to "Request info" and "Enroll now."  And [this capture of an even earlier California South University website (calsuni.com) from 2011](http://web.archive.org/web/20110225204013/http://www.calsuni.com:80/faqs.php) is even more explicit:
+
+> "CSU provides accredited degrees based on work or life experience and by taking the online equivalency test...  There is no need to attend classes or to take admissions. The degree and certificates are sent to you at your specified address within 15 days from the day you place your order."
+
+Degrees "start as low as $249" and they offer a "flexible payment plan."  And if your desired major isn't currently offered,
+
+> "simply enter it while filling out our simple on-line order form. We will introduce your requested major and send your degree package within 15 days."
+
+So it's pretty clear that **from at least 2010 to 2016, California South University was a conventional diploma mill**.  Their websites show some CSU logos photoshopped onto stock photos of buildings, but there are no claims of a vast Orange County campus containing 150 buildings and 39,000 students, no hundred-year-long history, no profiles of distinguished faculty.
+
+**But today, the California South University website tells a very different story**. Instead of offering degrees and enticing customers to "enroll now," today's California South University doesn't seem to be selling *anything*. It offers up the reputation of a major research university (stolen mostly from the University of Alberta) but doesn't encourage you to apply.  The closest thing to a solicitation on the current California South University site is the ["Visiting our campus" page](http://calsu.us/index.php/2017/06/03/blog-post-3/), which encourages the reader to
+
+> "...schedule a visit. Your visit will include a session with our Admissions staff, who can answer your questions regarding our programs, admission requirements, auditions, and financial aid. During the fall and spring semesters, we can introduce you to our faculty and arrange for you to meet with a specific faculty member, sit in on classes and rehearsals, attend a recital or ensemble performance, and meet current students."
+
+That's certainly inviting (never mind that it was copied nearly verbatim from [a Michigan State University website](http://music.msu.edu/admissions/visiting-the-college)), but there's no link to schedule the visit, and no campus map other than [a generic Google map showing the entire city of Irvine](http://calsu.us/index.php/contact-us/).  
+
+Maybe California South University is still selling diplomas, but if they are, they sure are being a lot more discreet about it.
+
+<center>&#x2737;&nbsp;&nbsp;&#x2737;&nbsp;&nbsp;&#x2737;</center><br>
+
+Unable to figure out *why* California South University exists, I turned back to the reason why I discovered them in the first place:  their esteemed Professor Alireza Heidari, member of the editorial board for the predatory *Journal of Systems Biology Research*.  I say "esteemed" because Dr. Heidari is one of eight ["Notable People"](http://calsu.us/index.php/member/prof-dr-alireza-heidari/) listed on the California South website:
+
+<img src="/assets/csu-notable.png" class="center">
+
+[His bio on the California South website](http://calsu.us/index.php/member/prof-dr-alireza-heidari/) says that he's a Full Professor and he received his Ph.D., D.Sc., and "double postdocs" from California South University, so he's an alumnus, too.  
+
+A little more Googling revealed [Dr. Heidari's Google Scholar page](https://scholar.google.com/citations?user=2yKnXwYAAAAJ&hl=en), which lists 115 journal articles written by him, all published in 2015 or later.   Nearly all of these are single-author papers.  For the handful of papers with multiple authors, Heidari's co-authors are Christopher Brown, Carol Thomson, and Arthur Miller.  Why do those names sound familar?  Oh yes, it's because they're also on the list of eight "Notable People" on California South's website.  Clearly everyone who's anyone at California South University collaborates with Dr. Heidari.
+
+I picked one of these publications at random and read the paper entitled ["Modern Approaches in Designing Ferritin, Ferritin Light Chain, Transferrin, Beta–2 Transferrin and Bacterioferritin–Based Anti–Cancer Nano Drugs Encapsulating Nanosphere as DNA–Binding Proteins from Starved Cells (DPS)"](http://crimsonpublishers.com/madd/pdf/MADD.000504.pdf) from the journal *Modern Approaches in Drug Designing*.  It's ostensibly an editorial, containing one page of text and **three pages of references, all of which (90 of them!) are works by... Alireza Heidari.**  Here's just one of the references pages:
+
+<img class="center" src="/assets/heidari-refs.png">
+
+I suppose that's one way to boost your h-index!  
+
+If you look through Dr. Heidari's [list of publications](https://scholar.google.com/citations?user=2yKnXwYAAAAJ&hl=en), you quickly realize that all of them are in predatory journals.  The publisher of the paper mentioned above, [Crimson Publishers](http://crimsonpublishers.com), promises that manuscripts are ["published within 7-9 days from the date of submission"](http://crimsonpublishers.com/faqs.php) and charges [between $320 and $1480](http://crimsonpublishers.com/processing-fee.php) to publish a manuscript.
+
+If Alireza Heidari paid hundreds of dollars to publish each of his 116 journal articles, he would have paid *tens of thousands of dollars* to build his publication record.  But why?  We've already established that California South University does not exist outside of a website.  Dr. Heidari himself virtually admits this when, in the article mentioned above, he cites his mailing address at California South University as "14731 Comet St. Irvine, CA 92604."  So what's at 14731 Comet Street in Irvine?
+
+<img src="/assets/comet-street.png" class="center">
+
+**This is California South University.**  This is our first glimpse at a campus of 150 buildings and 39,000 students.
+
+I wonder how they fit the Butterdome in the backyard...
+
+Predatory journals exist because researchers, desperate to "publish or perish," may resort to paying money to get their work published in something that at least resembles a journal.   But *by his own admission*, **Alireza Heidari works in a six bedroom, four bathroom house in Irvine.**  He has no tenure decision looming, no advancement committee to impress.  So why is he publishing tens of thousands of dollars worth of papers in predatory journals?
+
+<center>&#x2737;&nbsp;&nbsp;&#x2737;&nbsp;&nbsp;&#x2737;</center><br>
+
+[Katarzyna Pisanski](http://www.kasiapisanski.com), a researcher at the University of Sussex in the UK and the University of Wrocław in Poland, was, like me, dismayed at the number of requests she received to join the editorial boards of predatory journals from outside her field.  In 2015, [she performed a sting operation against these journals](https://www.nature.com/news/predatory-journals-recruit-fake-editor-1.21662) by submitting fake applications to the editorial boards of 360 journals.
+
+The journals' responses show that **the publishers of predatory journals sometimes recruit new editors by offering them a cut of the journals' profits.**  For example, one publisher told Pisanski that
+
+> "If you want to start a new journal...**you will get 30% of the revenue** earned thru you."
+
+In other words, if I started a new journal with this publisher and served as its editor, I'd receive 30% of the hundred- or thousand-dollar fee that authors pay the publisher to have their work published in the journal.  The same journal also offered **20% of the revenue** for serving as an editor on an existing journal.
+
+Another journal offered a **"60% us 40% you"** profit split between the publisher and the prospective editorial board member.  And two journals offered to **waive publication fees** for papers written by the prospective editorial board member.
+
+At this point I had a hunch that I knew at least *one name* on the editorial board of the *Journal of Systems Biology Research*, the predatory journal that published the article by Alireza Heidari mentioned above.  [Yup, he's on the editorial board](http://crimsonpublishers.com/madd/editorial-board.php), meaning that **he probably didn't pay any money to have that article published, and he may even earn money when authors who aren't on the editorial board pay to have their work published in the journal.**
+
+And **this is just one of many, many predatory journals whose editorial boards include Alireza Heidari.**  For example, [this site](https://www.omicsonline.org/universities/California_South_University/) lists the "scholars from California South University who contributed and/or serves as editors for one or more OMICS International Journals and Conferences":
+
+<img class="center" src="/assets/omics-editors.png">
+
+Out of 18 names, 17 of them are Alireza Heidari.  And this is just one publisher's journals.
+
+Heidari is an editor at the [Journal of Forensic Medicine](https://www.omicsonline.org/editor-profile/Alireza_Heidari/), the [International Journal of Biomedical Data Mining](https://www.omicsonline.org/editor-profile/Dr_Alireza_Heidari/), the [Journal of Engineering and Technology](http://www.rroij.com/editor-profile/Dr_Alireza_Heidari/), the [Open Journal of Analytical and Bioanalytical Chemistry](Open Journal of Analytical and Bioanalytical Chemistry), the [Global Summit on Biopharma and Biotherapeutics](http://biopharma-biotherapeutics.alliedacademies.com/ocm/2018/alireza-heidari-california-south-university-usa), the [Journal of Biomaterials and Nanobiotechnology](https://www.scirp.org/journal/DetailedInforOfEditorialBoard.aspx?personID=10706), and many, many more.
+
+And on every one of those journals' websites, Dr. Heidari is associated with California South University, the fictitious university whose [web address is registered to someone at 17431 Comet Street, Irvine, California](https://who.is/whois/calsu.us), the same six bedroom, four bathroom house that Dr. Heidari says is the campus of California South University.
+
+<center>&#x2737;&nbsp;&nbsp;&#x2737;&nbsp;&nbsp;&#x2737;</center><br>
+
+At this point I stopped my research into "Alireza Heidari" and his fictitious university.  I can't tell exactly what's going on here---I hope other researchers can pick up where I left off---but **it seems like someone figured out a way to make a buck by transforming a former diploma mill into a fake research university that exists to add credibility to members of editorial boards of predatory journals**.  It's like a symbiotic relationship between a fake university and fake journals---the fake university credentials make the editor look real, and in turn a cut of the journal's profits may flow back to the fake university via the editor.  And I keep thinking about how easy it would be to fall into their trap, to mistake "California South University" as a real university.  Their name sounds legit.  Their lies about their massive campus in Irvine only seem outrageous to me because I live in California and I'm familiar with Irvine.  And---in an odd coincidence---their theft of the University of Alberta's history only stuck out to me because my wife is an alumna of the University of Alberta and I've visited her alma mater in Edmonton.  **If it weren't for that random connection I have to the University of Alberta, I wouldn't have recognized that their history had been stolen by California South University.**
+
+Honest researchers around the world who are desperate for publications may not know the difference between Irvine and Edmonton.  They only see a real-looking journal with an editorial board consisting of real-looking people from real-sounding universities, so they submit their papers and pay hundreds or thousands of dollars, money that may flow back to the fraudulent editors and their fake universities.  This suggests the need for a change in how we view and combat predatory journals.  If they really are are metastasizing into entire fake universities, those of us in real universities need to get involved, to defend our institutions' reputations from theft, and to keep unwitting researchers from being scammed.
+
+<div align="right"><a href="http://groverlab.org">William H. Grover</a></div>
+
