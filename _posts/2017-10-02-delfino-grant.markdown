@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A bee-utiful new project (sorry...)"
-date:   2018-10-02 01:00:00 -0800
+date:   2017-10-02 01:00:00 -0800
 categories: news
 ---
 
