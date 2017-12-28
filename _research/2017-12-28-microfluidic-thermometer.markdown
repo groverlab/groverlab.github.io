@@ -3,7 +3,7 @@ layout: post
 title:  "A microfluidic thermometer: Precise temperature measurements in microliter- and nanoliter-scale volumes"
 ---
 
-Brittney A. McKenzie and William H. Grover.  [*PLOS ONE*  12 (12): FIXME (2017)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189430).
+Brittney A. McKenzie and William H. Grover.  [*PLOS ONE*  12 (12): e0189430 (2017)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189430).
 
 <img src="/assets/microfluidic-thermometer.png">
 
