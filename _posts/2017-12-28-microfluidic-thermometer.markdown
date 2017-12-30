@@ -7,6 +7,6 @@ categories: news
 
 ![microfluidic-thermometer](/assets/microfluidic-thermometer.png)
 
-Brittney McKenzie's paper "A microfluidic thermometer: Precise temperature measurements in microliter- and nanoliter-scale volumes" was [published in *PLOS ONE*](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189430).
+We just added a new fundamental physical property---freezing/melting point---to our array of low-cost precision measurement techniques. Check out Brittney McKenzie's "Microfluidic Thermometer," [published today in *PLOS ONE*](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189430).
  
 
