@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Adding a new physical property:  freezing/melting point"
+title:  "Adding a new physical property to our array of low-cost measurement techniques:  freezing/melting point"
 date:   2017-12-28 01:00:00 -0800
 categories: news
 ---
