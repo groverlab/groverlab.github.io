@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Brittney's \"microfluidic thermometer\" published in <i>PLOS ONE</i>"
+title:  "Adding a new physical property:  freezing/melting point"
 date:   2017-12-28 01:00:00 -0800
 categories: news
 ---
