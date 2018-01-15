@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  '"On the occasion of John Portman's death"'
+title:  "On the occasion of John Portman's death"
 date:   2018-01-14 01:00:00 -0800
 ---
 
-<img src="bonaventure.jpg">
+<img src="/assets/bonaventure.jpg">
 
 The design of the Bonaventure Hotel has inspired a fair bit of criticism over the last 40 years, much of it deserved.
 
@@ -12,4 +12,4 @@ But it’s also worth remembering that without John Portman’s vision, the Bona
 
 Portman took one of the most mundane human activities—--sleeping when you’re away from home--—and turned it into sheer theater.  And like good theater, the Bonaventure can be thrilling, inspiring, disorienting, even exasperating.  But no one has ever called it boring.
 
-[A version of this post appeared in the (Los Angeles Times](http://www.latimes.com/entertainment/la-ca-0114-feedback-20180114-story.html)*
+[A version of this post appeared in the *Los Angeles Times*](http://www.latimes.com/entertainment/la-ca-0114-feedback-20180114-story.html)
