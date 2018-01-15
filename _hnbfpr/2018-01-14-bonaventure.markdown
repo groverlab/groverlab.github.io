@@ -12,4 +12,4 @@ But it’s also worth remembering that without John Portman’s vision, the Bona
 
 Portman took one of the most mundane human activities—--sleeping when you’re away from home--—and turned it into sheer theater.  And like good theater, the Bonaventure can be thrilling, inspiring, disorienting, even exasperating.  But no one has ever called it boring.
 
-*(A version of this post appeared in the (Los Angeles Times)[http://www.latimes.com/entertainment/la-ca-0114-feedback-20180114-story.html])*
+[A version of this post appeared in the (Los Angeles Times](http://www.latimes.com/entertainment/la-ca-0114-feedback-20180114-story.html)*
