@@ -19,7 +19,7 @@ Dr. Heidari is said to be a professor at **California South University (CSU)** i
 
 <!--more-->
 
-After some more Googling, I discovered the absolutely extraordinary [website of California South University.](http://calsu.us)
+After some more Googling, I discovered the absolutely extraordinary [website of California South University.](http://calsu.us) *(NOTE:  The website for California South University has been taken down since the publication of this post.  See Updates at the bottom of this post for details.)*
 
 <figure>
 <img src="/assets/csu-website.png">
@@ -82,7 +82,7 @@ Perhaps the most obvious answer would be that California South University is a [
 
 That older URL now belongs to someone in China, but by using the [Internet Archive's Wayback Machine](http://web.archive.org/web/*/casu.us), we can see the old California South University site as it looked from 2013 to 2016.
 
-[This capture of casu.us from January 2016](http://web.archive.org/web/20160121092447/http://www.casu.us/) is typical of the University's website during this period; it offers online Associate's, Bachelor's, Master's, and Ph.D. degrees.  The site flaunts questionable accreditation seals and promises that students will "SAVE up to 35%" if they enroll before December 31st. 
+[This capture of casu.us from January 2016](http://web.archive.org/web/20160121092447/http://www.casu.us/) is typical of the University's website during this period; it offers online Associate's, Bachelor's, Master's, and Ph.D. degrees.  The site flaunts questionable accreditation seals and promises that students will "SAVE up to 35%" if they enroll before December 31st.
 
 <img class="center" src="/assets/csu-save.png">
 
@@ -166,7 +166,12 @@ Honest researchers around the world who are desperate for publications may not k
 
 <br><br>
 
-**December 22, 2017 update:**  For a fascinating investigation into California South University's previous incarnation as a diploma mill, check out [Matthew Kauffman's article "Degree of Deception" in the *Hartford Courant*](http://projects.courant.com/degree-of-deception/).
+**Update: December 22, 2017**  For a fascinating investigation into California South University's previous incarnation as a diploma mill, check out [Matthew Kauffman's article "Degree of Deception" in the *Hartford Courant*](http://projects.courant.com/degree-of-deception/).
 
+**Update: February 7, 2018**  My research on California South University was featured in [Tom Spears' article "Oh-oh Canada: Baffling fake university mangles our culture" in the *Ottowa Citizen*](http://ottawacitizen.com/news/local-news/oh-oh-canada-wacky-fake-university).
 
+**Update: February 21, 2018**  Derek Lowe covered my work on California South University in an [excellent post on the *Nature Translational Medicine* blog *In the Pipeline*](http://blogs.sciencemag.org/pipeline/archives/2018/02/21/down-the-rabbit-hole-with-alireza-heidari).
 
+**Update:  February 21, 2018**  Nathan Fung wrote about California South University in the University of Alberta student newspaper, [*The Gateway*](https://www.thegatewayonline.ca/2018/02/calfornia-uni-copies-u-of-a/).
+
+**Update:  February 27, 2018**  The website of "California South University" has been taken down, thanks to [repeated requests by the University of Alberta](https://blog.ualberta.ca/no-thats-not-our-website-36f3309ee6ff).  You can still read the old California South University website on [the Internet Archive's *Wayback Machine*](http://web.archive.org/web/20180222115332/http://calsu.us/).  Thanks to Derek Lowe, Nathan Fung, Tom Spears, and everyone else who helped spread the word.
