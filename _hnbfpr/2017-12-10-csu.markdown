@@ -19,11 +19,11 @@ Dr. Heidari is said to be a professor at **California South University (CSU)** i
 
 <!--more-->
 
-After some more Googling, I discovered the absolutely extraordinary [website of California South University.](http://calsu.us) **(NOTE:  The website for California South University has been taken down since the publication of this post.  See Updates at the bottom of this post for details.)**
+After some more Googling, I discovered the absolutely extraordinary [website of California South University.](http://calsu.us)
 
 <figure>
 <img src="/assets/csu-website.png">
-<figcaption>"The California South University website (http://calsu.us) in December 2017"</figcaption>
+<figcaption>The California South University website (http://calsu.us) in December 2017</figcaption>
 </figure>
 
 Never mind the "Lorem Ipsum" placeholder text under ["Your Career Starts Here."](http://calsu.us/index.php/2017/06/03/video-post/)  I started by reading the ["Spark of Genius"](http://calsu.us/index.php/2017/06/03/gallery-post/) article:
@@ -174,4 +174,6 @@ Honest researchers around the world who are desperate for publications may not k
 
 **Update:  February 21, 2018:**  Nathan Fung wrote about California South University in the University of Alberta student newspaper, [*The Gateway*](https://www.thegatewayonline.ca/2018/02/calfornia-uni-copies-u-of-a/).
 
-**Update:  February 27, 2018:**  The website of "California South University" has been taken down, two months after I began my little investigation and wrote this blog post.  The takedown of the website is in response to [repeated requests by the University of Alberta](https://blog.ualberta.ca/no-thats-not-our-website-36f3309ee6ff).  You can still read the old California South University website on [the Internet Archive's *Wayback Machine*](http://web.archive.org/web/20180222115332/http://calsu.us/).  Thanks to Derek Lowe, Nathan Fung, Tom Spears, and everyone else who helped spread the word.
+**Update:  February 27, 2018:**  The website of "California South University" has been taken down, two months after I began my little investigation and wrote this blog post.  The takedown of the website is in response to [repeated requests by the University of Alberta](https://blog.ualberta.ca/no-thats-not-our-website-36f3309ee6ff).  You can still read the old California South University website on [the Internet Archive's *Wayback Machine*](http://web.archive.org/web/20180222115332/http://calsu.us/).
+
+**Update:  March 2, 2018:**  Aaaand the website's back.  Looks like this ain't over yet.  Stay tuned...
