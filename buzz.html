@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+  <title>Tone Generator</title>
+
+<script>
+var context = null; var usingWebAudio = true;
+if (typeof AudioContext !== 'undefined') { context = new AudioContext(); }
+else if (typeof webkitAudioContext !== 'undefined') { context = new webkitAudioContext(); }
+else { usingWebAudio = false; }
+
+
+function experiment() {
+  startSound()
+  setTimeout(stopSound, document.getElementById("durationText").value)
+}
+
+function startSound(newFreq) {
+  osc = context.createOscillator();
+  gain = context.createGain();
+  osc.connect(gain);
+  gain.connect(context.destination)
+  osc.frequency.value = document.getElementById("freqText").value;
+  gain.gain.value = document.getElementById("amplitudeText").value;
+  osc.start(0);
+}
+
+function stopSound() {
+  osc.stop(0);
+}
+
+window.onload = function() {
+  if (!usingWebAudio) {
+    document.getElementById("audioControls").innerHTML = "<p>Web audio required.</p>"
+  }
+}
+
+</script>
+</head>
+
+
+
+
+
+
+
+
+
+<body>
+  <div id="audioControls">
+    Frequency: <input id="freqText" type="text" value="440" onchange="updateFreq(this.value)"/> <br>
+    Amplitude:  <input id="amplitudeText" type="text" value="0.5"/> <br>   
+    Duration:  <input id="durationText" type="text" value="1000"/> <br>
+
+
+
+    <input id="start" type="button" value="Run" onclick="experiment()"/>
+  </div>
+</body>
+</html>
+
