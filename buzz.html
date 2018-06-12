@@ -34,7 +34,7 @@ function startSound(newFreq) {
   osc.connect(gain);
   gain.connect(context.destination)
   osc.frequency.value = document.getElementById("freqText").value;
-  gain.gain.value = document.getElementById("amplitudeText").value;
+  gain.gain.value = document.getElementById("amplitudeText").value / 10.0;
   osc.start(0);
 }
 
@@ -82,9 +82,9 @@ window.onload = function() {
 	  <div class="input-group-prepend">
 	    <span class="input-group-text" id="inputGroup-sizing-lg">Amplitude:</span>
 	  </div>
-	  <input type="number" pattern="[0-9]*" class="form-control" id="amplitudeText" value="0.5">
+	  <input type="number" pattern="[0-9]*" class="form-control" id="amplitudeText" value="5">
 	  <div class="input-group-append">
-	    <span class="input-group-text">(0-1.0)</span>
+	    <span class="input-group-text">(0-10)</span>
 	  </div>
   </div>
   <br>
