@@ -2,7 +2,8 @@
 <html>
 <head>
   <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-  <title>Tone Generator</title>
+  <title>Buzz pollenator tool</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
 
 <script>
 var context = null; var usingWebAudio = true;
@@ -48,14 +49,53 @@ window.onload = function() {
 
 
 <body>
-  <div id="audioControls">
-    Frequency: <input id="freqText" type="text" value="440" onchange="updateFreq(this.value)"/> <br>
-    Amplitude:  <input id="amplitudeText" type="text" value="0.5"/> <br>   
-    Duration:  <input id="durationText" type="text" value="1000"/> <br>
 
+<br>
+  <div class="container" id="audioControls">
 
+      <h3 class="text-center">Buzz pollenator tool</h3>
+    <br>
 
-    <input id="start" type="button" value="Run" onclick="experiment()"/>
+  <div class="input-group input-group-lg">
+	  <div class="input-group-prepend">
+	    <span class="input-group-text" id="inputGroup-sizing-lg">Frequency:</span>
+	  </div>
+	  <input type="text" class="form-control" id="freqText" value="440">
+	  <div class="input-group-append">
+	    <span class="input-group-text">Hz</span>
+	  </div>
+  </div>
+  <br>
+
+  <div class="input-group input-group-lg">
+	  <div class="input-group-prepend">
+	    <span class="input-group-text" id="inputGroup-sizing-lg">Amplitude:</span>
+	  </div>
+	  <input type="text" class="form-control" id="amplitudeText" value="0.5">
+	  <div class="input-group-append">
+	    <span class="input-group-text">(0-1.0)</span>
+	  </div>
+  </div>
+  <br>
+
+  <div class="input-group input-group-lg">
+    <div class="input-group-prepend">
+      <span class="input-group-text" id="inputGroup-sizing-lg">Amplitude:</span>
+    </div>
+    <input type="text" class="form-control" id="durationText" value="1000">
+    <div class="input-group-append">
+      <span class="input-group-text">ms</span>
+    </div>
+  </div>
+  <br>
+
+  <div class="input-group input-group-lg">
+  <button type="button" class="btn btn-primary btn-lg btn-block" id="start" value="Run" onclick="experiment()">Run</button>
+  </div>
+  <br>
+
+  <p>A project of the <a href="http://groverlab.org">Grover Lab</a> and <a href="http://woodardlab.com">Woodard Lab</a>, University of California, Riverside</p>
+
   </div>
 </body>
 </html>
