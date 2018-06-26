@@ -2,9 +2,9 @@
 layout: post
 name:  "Astha Arora"
 picture: "astha.jpg"
-role: "Current"
+role: "Alumni"
 ---
-Astha is an Assistant Specialist in the Grover Lab at UCR.
+Astha obtained her Master's degree in the Grover Lab.  She was most recently an Assistant Specialist in the Grover Lab.
 <br>
 
 <br>

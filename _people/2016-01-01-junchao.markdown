@@ -4,5 +4,4 @@ name:  "Junchao Wang"
 picture: "junchao.jpg"
 role: "Alumni"
 ---
-Junchao is a PhD student in the Department of Bioengineering at UCR. He obtained his B.E. in Bioengineering from Jiangnan University in Wuxi, China.  During his undergraduate studies, he spent 2 years in Dr. Ye Ni’s lab and focused on producing chiral pharmaceutical intermediates by biocatalysis.  In the Grover Lab Junchao is developing innovative ways to design microfluidic devices.  He enjoys soccer in his spare time.
-
+Junchao Wang is currently a lecturer at Hangzhou Dianzi University in Hangzhou City, Zhejiang, China.  Previously, Junchao was a PhD student in the Grover Lab in the Department of Bioengineering at UCR. He obtained his B.E. in Bioengineering from Jiangnan University in Wuxi, China.  During his undergraduate studies, he spent 2 years in Dr. Ye Ni’s lab and focused on producing chiral pharmaceutical intermediates by biocatalysis.  In the Grover Lab Junchao developed innovative ways to design microfluidic devices.

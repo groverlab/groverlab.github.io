@@ -2,7 +2,6 @@
 layout: post
 name:  "Vamsi Choday"
 picture: "vamsi.jpg"
-role: "Current"
+role: "Alumni"
 ---
-Vamsi is a senior undergraduate student majoring in Bioengineering at UCR. He will be graduating in June 2018, and will be pursuing a graduate degree in Biomechanics. His senior design project, The Mantis System, leveraged various sensors, a webcam for gaze detection, an Arduino microcontroller, and two Raspberry Pi computers to detect and prevent the events of distracted driving, drowsy driving, and aggressive driving. His current research interests are in utilizing off-the-shelf hardware and electronics to develop cost-effective and easily-accessible instrumentation. He enjoys playing basketball, collecting sneakers, and working on small DIY projects during his free time. 
-
+Vamsi was an undergraduate student majoring in Bioengineering and conducting research in the Grover Lab at UCR.  His senior design project, The Mantis System, leveraged various sensors, a webcam for gaze detection, an Arduino microcontroller, and two Raspberry Pi computers to detect and prevent the events of distracted driving, drowsy driving, and aggressive driving. His current research interests are in utilizing off-the-shelf hardware and electronics to develop cost-effective and easily-accessible instrumentation. He enjoys playing basketball, collecting sneakers, and working on small DIY projects during his free time.

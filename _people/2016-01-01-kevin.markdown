@@ -5,7 +5,7 @@ picture: "kevin.jpg"
 role: "Alumni"
 
 ---
-Kevin is a MS student in the Department of Bioengineering at UCR.
+Kevin was a MS student in the Department of Bioengineering at UCR.
 <br>
 
 <br>
