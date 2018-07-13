@@ -6,4 +6,14 @@ role: "Current"
 ---
 Dr. Grover is an Assistant Professor in the [Department of Bioengineering](http://www.bioeng.ucr.edu) and a Junior Faculty Distinguished Teaching Professor at the [University of California, Riverside](http://ucr.edu).  Prior to joining UCR, Dr. Grover received his postdoctoral training in the Biological Engineering Division at Massachusetts Institute of Technology.  In Prof. Scott Manalis’ group at MIT, Dr. Grover used the group’s microfluidic mass sensors to make the first precision measurements of the density of single living cells.  Dr. Grover obtained his Ph.D. in Chemistry at the University of California, Berkeley.  In Prof. Richard Mathies' group at UC Berkeley, Dr. Grover developed microfluidic "processors" that bridged the chemical, biological, and computational sciences.  A native of Tennessee, Dr. Grover received his B.S. in Chemistry at the University of Tennessee, Knoxville.
 
+Dr. Grover's awards and recognitions include:
+
+* **2017 Engineers' Council Future Technology Leader Award**, for "creating hardware and software tools that accelerate the progress of biological and medical research, and developing technologies that support engineering experiences for students in K-12 science classes."
+
+* **2017 Marlan and Rosemary Bourns College of Engineering Excellence in Teaching Award**, in recognition of "dedication and contribution to advancing the teaching profession through creative engagement and innovation."
+
+* **2018 Engineers' Council Outstanding Engineering Achievement Merit Award**.
+
+* **2018 UC Riverside Junior Faculty Excellence in Teaching Award**, recognizing "the commitment and determination of an outstanding teacher while pursuing research excellence."  The award commended Dr. Grover for not only his excellence in the classroom but also his role in creating the TEC Center (an on-campus "makerspace" for undergraduate research) and his commitment to helping regional K-12 teachers include engineering content in their classrooms.
+
 [Dr. Grover's ORCID ID](http://orcid.org/0000-0001-6854-8951)
