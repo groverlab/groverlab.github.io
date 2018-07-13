@@ -13,6 +13,21 @@ permalink: /people/
 
   <ul class="post-list">
     {% for person in site.people %}
+      {% if person.name == "William H. Grover" %}
+      <li>
+      <br>
+         <img src="/assets/{{ person.picture }}" width="30%" align="left" style="margin:0px 20px 0px 0px">
+        <h2>
+          <a class="post-link" href="{{ person.url | prepend: site.baseurl }}">{{ person.name }}</a>
+          </h2>
+        {{ person.content }}
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  <ul class="post-list">
+    {% for person in site.people %}
       {% if person.role == "Current" %}
       <li>
       <br>
