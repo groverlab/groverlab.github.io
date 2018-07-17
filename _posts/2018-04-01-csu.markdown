@@ -1,0 +1,32 @@
+---
+layout: post
+title:  'Dr. Grover's investigation into the fictitious "California South University" featured in the media'
+date:   2018-04-01 01:00:00 -0800
+categories: news
+---
+
+![csu-website](/assets/csu-website.png)
+
+Dr. Grover's [investigation into the ficitious "California South University"](http://groverlab.org/hnbfpr/2017-12-10-csu.html) has been featured in a number of stories in the media, including:
+
+* ["Oh-oh Canada: Baffling fake university mangles our culture" by Tom Spears in the *Ottawa Citizen*](http://ottawacitizen.com/news/local-news/oh-oh-canada-wacky-fake-university).
+
+* ["Down the Rabbit Hole With Alireza Heidari" by Derek Lowe in the *Nature Translational Medicine* blog *In the Pipeline*](http://blogs.sciencemag.org/pipeline/archives/2018/02/21/down-the-rabbit-hole-with-alireza-heidari).
+
+* ["Fake California university copies U of A’s history" by Nathan Fung in the University of Alberta's student newspaper, *The Gateway*](https://www.thegatewayonline.ca/2018/02/calfornia-uni-copies-u-of-a/).
+
+* ["No, that's not our website", a blog post on the University of Alberta homepage](https://blog.ualberta.ca/no-thats-not-our-website-36f3309ee6ff).
+
+* ["A fictitious online university has stolen the identity of the University of Alberta" by Marty Klinkenberg in the *Globe and Mail* newspaper](https://www.theglobeandmail.com/canada/education/article-university-of-albertas-online-identity-co-opted-by-fictitious-us/).
+
+*  ["University of Alberta's identity stolen by fake California institution" by Anna McMillan for CBC News](http://www.cbc.ca/news/canada/edmonton/university-of-alberta-identity-theft-california-south-1.4578833?cmp=rss).
+
+* ["Fake California university borrows University of Alberta history, campus" by Janet French in the *Edmonton Journal* newspaper](http://edmontonjournal.com/news/local-news/fake-california-university-borrows-university-of-alberta-history-campus).
+
+* [Dr. Grover was interviewed about his investigation on CBC Radio Edmonton](http://www.cbc.ca/player/play/1187659843877).
+
+* [Dr. Grover was also interviewed about his investigation on CBC Radio Calgary](http://www.cbc.ca/player/play/1187733059852).
+
+* ["Fake School California South University Is The University Of Alberta's Evil Twin" by Sima Shakeri in the Huffington Post](https://www.huffingtonpost.ca/2018/03/17/fake-school-california-south-university-is-the-university-of-albertas-evil-twin_a_23388464/).
+
+* ["Fake University Pretended to Be University of Alberta" by Grade Bird in Inside Higher Ed](https://www.insidehighered.com/quicktakes/2018/03/19/fake-university-pretended-be-university-alberta).
