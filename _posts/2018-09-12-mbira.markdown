@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Heran and Vamsi's work on using musical instruments as sensors published in <i>ACS Omega</i>"
+date:   2018-09-12 01:00:00 -0800
+categories: news
+---
+
+![mbira](/assets/mbira.png)
+
+Heran Bhakta and Vamsi Choday's paper "Musical instruments as sensors" was [published in *ACS Omega*](https://pubs.acs.org/doi/10.1021/acsomega.8b01673).  Heran and Vamsi showed that the mbira, a 3000-year-old African musical instrument, can be modified to function as a precision sensor for measuring the density of any fluid sample.  They then used their "mbira sensors" to identify counterfeit medications and toxic substances.
+
+This was such a fun project, and we're not done yet... Congratulations Heran and Vamsi!
