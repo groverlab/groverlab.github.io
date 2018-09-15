@@ -10,3 +10,5 @@ categories: news
 Thanks to the American Chemical Society for [covering our work on musical instruments as sensors](https://www.acs.org/content/acs/en/pressroom/presspacs/2018/acs-presspac-september-12-2018/sensors-that-are-literally-music-to-ones-ears-video.html)!
 
 Also, check out this [Holly Ober's excellent story about mbira sensors on the UC Riverside homepage](https://news.ucr.edu/articles/2018/09/12/musical-sensor-shows-bad-medicine-plays-false-note).  Thanks Holly!
+
+Our mbira sensors were also covered in [an article in *Popular Mechanics* by David Grossman](https://www.popularmechanics.com/science/health/a23118771/mbira-counterfeit-medicine-detector/) and [a story in *New Atlas* by Ben Coxworth](https://newatlas.com/mbira-sensor/56303/).
