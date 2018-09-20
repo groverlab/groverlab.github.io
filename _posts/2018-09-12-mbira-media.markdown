@@ -7,8 +7,20 @@ categories: news
 
 ![mbira](/assets/mbira2.jpg)
 
-Thanks to the American Chemical Society for [covering our work on musical instruments as sensors](https://www.acs.org/content/acs/en/pressroom/presspacs/2018/acs-presspac-september-12-2018/sensors-that-are-literally-music-to-ones-ears-video.html)!
+Thanks to a number of news and professional organizations that featured [our mbira sensors](), including:
 
-Also, check out this [Holly Ober's excellent story about mbira sensors on the UC Riverside homepage](https://news.ucr.edu/articles/2018/09/12/musical-sensor-shows-bad-medicine-plays-false-note).  Thanks Holly!
+* [An episode of the *BBC World Service* program "Science in Action," in which host Roland Pease interviewed us about our mbira sensors]()
 
-Our mbira sensors were also covered in [an article in *Popular Mechanics* by David Grossman](https://www.popularmechanics.com/science/health/a23118771/mbira-counterfeit-medicine-detector/), [a story in *New Atlas* by Ben Coxworth](https://newatlas.com/mbira-sensor/56303/), [a news item in the Royal Society of Chemistry's *Chemistry World* by Emma Stoye](https://www.chemistryworld.com/news/musical-instrument-turned-into-liquid-density-sensor/3009506.article), and [a great writeup on *Ars Technica* by Chris Lee](https://arstechnica.com/science/2018/09/musical-instrument-goes-flat-in-presence-of-adulterated-medicine/).
+* ["A sensor inspired by an African thumb piano could root out bogus medicines," a story by Maria Temming in *Science News*](https://www.sciencenews.org/article/sensor-inspired-african-thumb-piano-could-root-out-bogus-medicines).
+
+* ["This simple musical instrument can detect poison," an article by David Grossman in *Popular Mechanics*](https://www.popularmechanics.com/science/health/a23118771/mbira-counterfeit-medicine-detector/).
+
+* ["Musical instrument goes flat in presence of adulterated medicine," a writeup by Chris Lee on *Ars Technica*](https://arstechnica.com/science/2018/09/musical-instrument-goes-flat-in-presence-of-adulterated-medicine/).
+
+* ["Musical instrument turned into liquid density sensor," a news item by Emma Stoye in the Royal Society of Chemistry's *Chemistry World*](https://www.chemistryworld.com/news/musical-instrument-turned-into-liquid-density-sensor/3009506.article).
+
+* ["Modern version of ancient musical instrument detects poisons," a story by Ben Coxworth in *New Atlas*](https://newatlas.com/mbira-sensor/56303/).
+
+* ["Sensors that are literally 'music to one's ears,'" a press release and video by the American Chemical Society](https://www.acs.org/content/acs/en/pressroom/presspacs/2018/acs-presspac-september-12-2018/sensors-that-are-literally-music-to-ones-ears-video.html).
+
+* ["Musical sensor shows bad medicine plays false note," an excellent story by Holly Ober on the UC Riverside homepage](https://news.ucr.edu/articles/2018/09/12/musical-sensor-shows-bad-medicine-plays-false-note).
