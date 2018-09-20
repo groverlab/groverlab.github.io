@@ -9,7 +9,9 @@ categories: news
 
 Thanks to a number of news and professional organizations that featured [our mbira sensors](), including:
 
-* [An episode of the *BBC World Service* program "Science in Action," in which host Roland Pease interviewed us about our mbira sensors]()
+* [An episode of the *BBC World Service* program "Science in Action," in which host Roland Pease interviewed us about our mbira sensors]().
+
+* [The National Science Foundation featured our mbira sensors in their "4 Awesome Discoveries You Probably Didn't Hear About This Week" program](https://www.youtube.com/watch?v=-gsn6OdszCs).
 
 * ["A sensor inspired by an African thumb piano could root out bogus medicines," a story by Maria Temming in *Science News*](https://www.sciencenews.org/article/sensor-inspired-african-thumb-piano-could-root-out-bogus-medicines).
 
