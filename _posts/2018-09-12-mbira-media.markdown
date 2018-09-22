@@ -9,7 +9,7 @@ categories: news
 
 Thanks to a number of news and professional organizations that featured [our mbira sensors](), including:
 
-* [An episode of the *BBC World Service* program "Science in Action," in which host Roland Pease interviewed us about our mbira sensors]().
+* [An episode of the *BBC World Service* program "Science in Action," in which host Roland Pease interviewed us about our mbira sensors](/research/2018-09-12-mbira.html).
 
 * [The National Science Foundation featured our mbira sensors in their "4 Awesome Discoveries You Probably Didn't Hear About This Week" program](https://www.youtube.com/watch?v=-gsn6OdszCs).
 
