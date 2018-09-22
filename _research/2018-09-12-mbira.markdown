@@ -3,9 +3,7 @@ layout: post
 title:  "Musical instruments as sensors"
 ---
 
-Heran C. Bhakta, Vamsi K. Choday, and William H. Grover.  [*ACS Omega* 3 (9), 11026-11032 (2018)](https://pubs.acs.org/doi/10.1021/acsomega.8b01673).
-
-<div data-badge-popover="right" data-badge-type="2" data-doi="10.1021/acsomega.8b01673" class="altmetric-embed"></div>
+Heran C. Bhakta, Vamsi K. Choday, and William H. Grover.  [*ACS Omega* 3 (9), 11026-11032 (2018)](https://pubs.acs.org/doi/10.1021/acsomega.8b01673).  <div data-badge-popover="right" data-badge-type="2" data-doi="10.1021/acsomega.8b01673" class="altmetric-embed"></div>
 
 <img src="/assets/mbira.png">
 
