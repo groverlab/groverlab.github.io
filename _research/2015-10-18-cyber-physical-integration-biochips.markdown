@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Cyber-physical integration in programmable microfluidic biochips"
+doi:  "10.1109/ICCD.2015.7357107"
 ---
 
 Tsung-Yi Ho, William H. Grover, Shiyan Hu, and Krishnendu Chakrabarty.  [*33rd IEEE International Conference on Computer Design (ICCD)*, 224-227 (2015)](http://ieeexplore.ieee.org/document/7357107/).  [PDF](/assets/cyber-physical-integration-biochips.pdf)
