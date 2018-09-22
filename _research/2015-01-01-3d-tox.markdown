@@ -9,6 +9,4 @@ Shirin Mesbah Oskui, Graciel Diamante, Chunyang Liao, Wei Shi, Jay Gan, Daniel S
 
 3D printing is gaining popularity by providing a tool for fast, cost-effective, and highly customizable fabrication. However, little is known about the toxicity of 3D-printed objects. In this work, we assess the toxicity of printed parts from two main classes of commercial 3D printers, fused deposition modeling and stereolithography. We assessed the toxicity of these 3D-printed parts using zebrafish (*Danio rerio*), a widely used model organism in aquatic toxicology. Zebrafish embryos were exposed to 3D-printed parts and monitored for rates of survival, hatching, and developmental abnormalities. We found that parts from both types of printers were measurably toxic to zebrafish embryos, with STL-printed parts significantly more toxic than FDM-printed parts. We also developed a simple post-printing treatment (exposure to ultraviolet light) that largely mitigates the toxicity of the STL-printed parts. Our results call attention to the need for strategies for the safe disposal of 3D-printed parts and printer waste materials.
 
-
-
-
+<div data-badge-popover="right" data-badge-type="2" data-doi="10.1021/acs.estlett.5b00249" class="altmetric-embed"></div>
