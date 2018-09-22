@@ -16,19 +16,20 @@ permalink: /research/
     {% for paper in site.research reversed %}
       <li>
       <br>
-<!--         <span class="post-meta">{{ person.name }}</span>
- -->
-<!--           <img src="/assets/{{ paper.picture }}" width="30%" align="left" style="margin:0px 20px 0px 0px"> -->
 
-           
         <h2>
           <a class="post-link" href="{{ paper.url | prepend: site.baseurl }}">{{ paper.title }}</a>
         </h2>
         {{ paper.content }}
+
+
+        <div data-badge-popover="right" data-badge-type="2" data-doi="{{ paper.doi }}" class="altmetric-embed"></div>
+
+         <span class="__dimensions_badge_embed__" data-doi="{{ paper.doi }}" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
       </li>
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
