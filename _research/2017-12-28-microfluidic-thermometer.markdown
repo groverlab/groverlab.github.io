@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "A microfluidic thermometer: Precise temperature measurements in microliter- and nanoliter-scale volumes"
+doi:  "10.1371/journal.pone.0189430"
 ---
 
 Brittney A. McKenzie and William H. Grover.  [*PLOS ONE*  12 (12): e0189430 (2017)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0189430).
@@ -8,5 +9,3 @@ Brittney A. McKenzie and William H. Grover.  [*PLOS ONE*  12 (12): e0189430 (201
 <img src="/assets/microfluidic-thermometer.png">
 
 Measuring the temperature of a sample is a fundamental need in many biological and chemical processes.  When the volume of the sample is on the microliter or nanoliter scale (e.g., cells, microorganisms, precious samples, or samples in microfluidic devices), accurate measurement of the sample temperature becomes challenging.  In this work, we demonstrate a technique for accurately determining the temperature of microliter volumes using a simple 3D-printed microfluidic chip.  We accomplish this by first filling "microfluidic thermometer" channels on the chip with substances with precisely known freezing/melting points.  We then use a thermoelectric cooler to create a stable and linear temperature gradient along these channels within a measurement region on the chip.  A custom software tool (available as online Supporting Information) is then used to find the locations of solid-liquid interfaces in the thermometer channels; these locations have known temperatures equal to the freezing/melting points of the substances in the channels.  The software then uses the locations of these interfaces to calculate the temperature at any desired point within the measurement region.  Using this approach, the temperature of any microliter-scale on-chip sample can be measured with an uncertainty of about a quarter of a degree Celsius. As a proof-of-concept, we use this technique to measure the unknown freezing point of a 50 microliter volume of solution and demonstrate its feasibility on a 400 nanoliter sample.  Additionally, this technique can be used to measure the temperature of any on-chip sample, not just near-zero-Celsius freezing points.  We demonstrate this by using an oil that solidifies near room temperature (coconut oil) in a microfluidic thermometer to measure on-chip temperatures well above zero Celsius.  By providing a low-cost and simple way to accurately measure temperatures in small volumes, this technique should find applications in both research and educational laboratories.
-
-<div data-badge-popover="right" data-badge-type="2" data-doi="10.1371/journal.pone.0189430" class="altmetric-embed"></div>

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "MOPSA: A microfluidics-optimized particle simulation algorithm"
+doi:  "10.1063/1.4989860"
 ---
 
 Junchao Wang, Victor G.J. Rodgers, Philip Brisk, and William H. Grover.  [*Biomicrofluidics* 11 (3): 034121 (2017)](http://aip.scitation.org/doi/10.1063/1.4989860).  [PDF](/assets/mopsa.pdf)
@@ -8,5 +9,3 @@ Junchao Wang, Victor G.J. Rodgers, Philip Brisk, and William H. Grover.  [*Biomi
 <img src="/assets/mopsa.png">
 
 Computer simulation plays a growing role in the design of microfluidic chips. However, the particle tracers in some existing commercial computational fluid dynamics software are not well suited for accurately simulating the trajectories of particles such as cells, microbeads, and droplets in microfluidic systems. To address this issue, we present a microfluidics-optimized particle simulation algorithm (MOPSA) that simulates the trajectories of cells, droplets, and other particles in microfluidic chips with more lifelike results than particle tracers in existing commercial software. When calculating the velocity of a particle, MOPSA treats the particle as a two-dimensional rigid circular object instead of a single point. MOPSA also checks for unrealistic interactions between particles and channel walls and applies an empirical correcting function to eliminate these errors. To validate the performance of MOPSA, we used it to simulate a variety of important features of microfluidic devices like channel intersections and deterministic lateral displacement (DLD) particle sorter chips. MOPSA successfully predicted that different particle sizes will have different trajectories in six published DLD experiments from three research groups; these DLD chips were used to sort a variety of different cells, particles, and droplets. While some of these particles are not actually rigid or spherical, MOPSA's approximation of these particles as rigid spheres nonetheless resulted in lifelike simulations of the behaviors of these particles (at least for the particle sizes and types shown here). In contrast, existing commercial software failed to replicate these experiments. Finally, to demonstrate that MOPSA can be extended to simulate other properties of particles, we added support for simulating particle density to MOPSA and then used MOPSA to simulate the operation of a microfluidic chip capable of sorting cells by their density. By enabling researchers to accurately simulate the behavior of some types of particles in microfluidic chips before fabricating the chips, MOPSA should accelerate the development of new microfluidic devices for important applications.
-
-<div data-badge-popover="right" data-badge-type="2" data-doi="10.1063/1.4989860" class="altmetric-embed"></div>
