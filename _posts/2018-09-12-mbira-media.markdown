@@ -7,9 +7,9 @@ categories: news
 
 ![mbira](/assets/mbira2.jpg)
 
-Thanks to a number of news and professional organizations that featured [our mbira sensors](), including:
+Thanks to a number of news and professional organizations that featured [our mbira sensors](/research/2018-09-12-mbira.html), including:
 
-* [An episode of the *BBC World Service* program "Science in Action," in which host Roland Pease interviewed us about our mbira sensors](/research/2018-09-12-mbira.html).
+* [An episode of the *BBC World Service* program "Science in Action," in which host Roland Pease interviewed us about our mbira sensors](https://www.bbc.co.uk/programmes/w3cswmpy).
 
 * [An episode of the *Scientific American* podcast "60-Second Science" by Christopher Intagliata](https://www.scientificamerican.com/podcast/episode/scale-can-measure-medicine-mdash-and-play-a-scale-too/).
 
