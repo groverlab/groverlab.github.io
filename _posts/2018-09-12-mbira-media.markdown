@@ -11,6 +11,8 @@ Thanks to a number of news and professional organizations that featured [our mbi
 
 * [An episode of the *BBC World Service* program "Science in Action," in which host Roland Pease interviewed us about our mbira sensors](/research/2018-09-12-mbira.html).
 
+* [An episode of the *Scientific American* podcast "60-Second Science" by Christopher Intagliata](https://www.scientificamerican.com/podcast/episode/scale-can-measure-medicine-mdash-and-play-a-scale-too/).
+
 * [The National Science Foundation featured our mbira sensors in their "4 Awesome Discoveries You Probably Didn't Hear About This Week" program](https://www.youtube.com/watch?v=-gsn6OdszCs).
 
 * ["A sensor inspired by an African thumb piano could root out bogus medicines," a story by Maria Temming in *Science News*](https://www.sciencenews.org/article/sensor-inspired-african-thumb-piano-could-root-out-bogus-medicines).
