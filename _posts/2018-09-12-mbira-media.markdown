@@ -21,6 +21,8 @@ Thanks to a number of news and professional organizations that featured [our mbi
 
 * ["Musical instrument goes flat in presence of adulterated medicine," a writeup by Chris Lee on *Ars Technica*](https://arstechnica.com/science/2018/09/musical-instrument-goes-flat-in-presence-of-adulterated-medicine/).
 
+* ["Sounding a sour note can save people from a sour stomach (or worse)," a post by Roger Cheng on Hackaday](https://hackaday.com/2018/09/28/sounding-a-sour-note-can-save-people-from-a-sour-stomach-or-worse/)
+
 * ["Musical instrument turned into liquid density sensor," a news item by Emma Stoye in the Royal Society of Chemistry's *Chemistry World*](https://www.chemistryworld.com/news/musical-instrument-turned-into-liquid-density-sensor/3009506.article).
 
 * ["Modern version of ancient musical instrument detects poisons," a story by Ben Coxworth in *New Atlas*](https://newatlas.com/mbira-sensor/56303/).
