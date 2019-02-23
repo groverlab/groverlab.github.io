@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Acoustic side-channel attacks on DNA synthesizers"
-date:   2018-09-12 01:00:00 -0800
+date:   2019-02-22 01:00:00 -0800
 categories: news
 ---
 
