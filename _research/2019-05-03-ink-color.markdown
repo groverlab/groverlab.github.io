@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Using printer ink color to control the behavior of paper microfluidics"
+doi:  "10.1039/C9LC00083F"
+---
+
+Joshua Potter, Philip Brisk, and William H. Grover, [*Lab on a Chip*, in press](https://pubs.rsc.org/en/content/articlelanding/2019/lc/c9lc00083f).
+
+<img src="/assets/ink-color.png">
+
+Paper microfluidic devices (including lateral flow assays) offer an excellent combination of utility and low cost. Many paper microfluidic devices are fabricated using the Xerox ColorQube line of commercial wax-based color printers; the wax ink serves as a hydrophobic barrier to fluid flow. These printers are capable of depositing four different colors of ink, cyan (C), magenta (M), yellow (Y), and black (K), plus 11 combinations of these colors (CM, CY, CK, MY, MK, YK, CMY, CMK, CYK, MYK, and CMYK), although most researchers use only black ink to print paper microfluidic devices. Recently, as part of a project to develop a computer-aided design framework for use with paper microfluidics devices, we unexpectedly observed that different colors of wax ink behave differently in paper microfluidics. We found that among the single colors of ink, black ink actually had the most barrier failures, and magenta ink had the fewest barrier failures. In addition, some combinations of colors performed even better than magenta: the combinations CY, MK, YK, CMY, CYK and MYK had no barrier failures in our study. We also found that the printer delivers significantly different amounts of ink to the paper for the different color combinations, and in general, the color combinations that formed the strongest barriers to fluid flow were the ones that had the most ink delivered to the paper. This suggests that by simply weighing paper samples printed with all 15 combinations of colors, one can easily find the color combinations most likely to form a strong barrier for a given printer. Finally, to show that deliberate choices of ink colors can actually be used to create new functions in paper microfluidics, we designed and tested a new color-based “antifuse” structure that protects paper microfluidic devices from a typical operator error (addition of too much fluid to the device). Our results provide a set of color choice guidelines that designers can use to control the behavior of their paper microfluidics.
