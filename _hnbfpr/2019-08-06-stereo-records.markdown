@@ -14,6 +14,8 @@ Luckily, I have a special record:
 
 <img src="/assets/record.jpeg">
 
+<!--more-->
+
 This is a "test record" used to evaluate stereo equipment.  It contains a collection of standardized tones and clicks and other noises.  And while it probably never made the Billboard Top 100, it helps us understand how records work.
 
 Here's a closeup of 
@@ -29,11 +31,15 @@ So now we can begin to understand how phonograph records work.  The groove is a 
 
 Let's finish with a brain teaser:  how do *stereo* records work?  Remember that stereo recordings have two channels, a Left channel and a Right channel, and they can contain different sounds; that's how you might hear a song with a singer's voice in your left ear and the band in your right ear.  In fact, a stereo record actually contains *two totally separate recordings*, but there's only one groove on the record, and one needle!  How does that work?!?
 
-Luckily, my fancy test record has a couple tracks that are perfect for solving this question.  Here's a track that plays an 800 Hz tone in the Left channel, and 3000 Hz in the Right channel:
+Happily, my fancy test record has a couple tracks that are perfect for answering this question.  Here's a track that plays a 3000 Hz tone in the Left channel, and an 800 Hz tone in the Right channel:
 
-<img src="/assets/track_09.png">
+<img src="/assets/track_10.png">
+
+Do you see the two waveforms?  If not, check out this version where I've highlighted the edges of one groove:
+
+<img src="/assets/track_10_highlighted.png">
 
 3000 Hz in the Left channel and 800 Hz in the Right channel
 
-<img src="/assets/track_10.png">
+<img src="/assets/track_09.png">
 
