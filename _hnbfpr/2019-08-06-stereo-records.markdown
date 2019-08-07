@@ -24,7 +24,7 @@ Here's a closeup of a particularly riveting track that consists of nothing but a
 
 Using this simple tone, we can see how the sound is encoded in the record.  The groove for this simple tone is just a sine wave; when the needle is being dragged through it, this groove wobbles the needle back and forth 600 times per second.  A sensor on the needle detects this wobble and converts it to an electrical signal which oscillates 600 times per second.  This signal is then amplified and sent to a speaker.  The result:  we hear a 600 Hz tone.
 
-*The record groove is a physical manefestation of the waveform of the recorded sound.*  If you looked at that 600 Hz sound on an oscilloscope, you'd see a sinusoidal waveform that's identical to the record groove shown above.
+*The record groove is a physical manifestation of the waveform of the recorded sound.*  If you looked at that 600 Hz sound on an oscilloscope, you'd see a sinusoidal waveform that's identical to the record groove shown above.
 
 I like how the grooves wobble in sync in the photo above.  It means that the circumference of the record at this groove must be an exact multiple of the wavelength of the sine wave.  Here's a nearby track with a slightly different frequency:
 
@@ -36,11 +36,11 @@ This track plays A-440, the A above Middle C on the piano.  This 440 Hz note is 
 
 <img src="/assets/track_08.png">
 
-These waveforms are simple because the sounds they encode are simple:  pure tones with a single frequency.  But for complex sounds like those in Verdi's *Aida*, a lot of sine waves are combined together, and the resulting record groove looks a lot more complicated.  Here's Verdi again:
+These waveforms are simple because the sounds they encode are simple:  pure tones with a single frequencies.  But for complex sounds like those in Verdi's *Aida*, a lot of sine waves are combined together, and the resulting record groove looks a lot more complicated.  Here's Verdi again: 
 
 <img src="/assets/side2.png">
 
-But it's still just a physical representation of the recorded sound wave, the pattern of pressure waves that traveled from the musicians' instruments, through the air, and to the microphone that recorded this record.  And by dragging a needle over that groove, we can recreate that pattern of pressure waves, send them through the air again, and into our ears, where the music lives again.
+But the groove is still just a physical representation of the recorded sound wave, the pattern of pressure waves that traveled from the musicians' instruments, through the air, and to the microphone that recorded this record.  And by dragging a needle over that groove, we can recreate that pattern of pressure waves, send them through the air again, and into our ears, where the music lives again.
 
 Let's finish with a brain teaser:  how do *stereo* records work?  Remember that stereo recordings have two channels, a Left channel and a Right channel, and they can contain different sounds; that's how you might hear a song with the vocalist in your left ear and the rest of the band in your right ear.  In fact, a stereo record actually contains *two totally separate recordings*, but there's still only one groove on the record, and one needle!  How does that work?!?
 
@@ -54,7 +54,7 @@ Do you see the two waveforms?  If not, check out this version where I've highlig
 
 The waveform of the higher-frequency 3000 Hz tone is on the *left edge of the groove*, and the waveform for the lower-frequency 800 Hz tone is on the *right edge of the groove!*
 
-In stereo records, the two edges of the groove are different.  As the needle is dragged through the groove, it contacts both edges at the same time.  In the 3000 and 800 Hz recording above, the small bumps on the left edge bounce the needle rapidly in the upper-right direction, and the bigger bumps on the right edge bounce the needle slowly in the upper-left direction.  Now, if we just put *two* sensors on the needle, one to measure its motion in the upper-right direction, and one to measure its motion in the upper-left direction, and connect the first sensor to the Right speaker and the second sensor to the Left speaker, we have stereo sound!
+In stereo records, the two edges of the groove are different.  As the needle is dragged through the groove, it contacts both edges at the same time.  In the 3000 and 800 Hz recording above, the small bumps on the left edge bounce the needle rapidly in the upper-right direction, and the bigger bumps on the right edge bounce the needle slowly in the upper-left direction.  Now, if we just put *two* sensors on the needle, one to measure its motion in the upper-right direction, and one to measure its motion in the upper-left direction, and connect the first sensor to the Right speaker and the second sensor to the Left speaker, we have stereo sound!  One groove, two recordings!
 
 For completeness, here's another track with the Left and Right channels swapped (800 Hz in the Left and 3000 Hz in the Right):
 
