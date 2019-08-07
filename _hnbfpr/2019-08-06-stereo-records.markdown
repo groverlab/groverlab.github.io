@@ -4,13 +4,13 @@ title:  "How stereo phonograph records work"
 date:   2019-08-06 01:00:00 -0800
 ---
 
-Phonograph records produce sound by dragging a needle along the bumpy groove in the record.  Here's a photo I took of a record under a microscope in my lab:
+Here's a photo I took of a phonograph record using a microscope in my lab:
 
 <img src="/assets/side2.png">
 
-You can see the jagged little paths that the needle follows. But it's a little hard for me to imagine exactly how that jagged path can capture all of Verdi's opera.
+You can see the grooves, the little paths that the needle follows.  If you [search Google for record grooves under a microscope](https://www.google.com/search?q=record+groove+microscope), you'll find a lot of similar images of record grooves with seemingly random jagged edges.  How do those jagged lines capture all of Verdi's opera?
 
-Luckily, I have a special record:
+Luckily, I have a special record that can help answer this question:
 
 <img src="/assets/record.jpeg">
 
@@ -22,7 +22,7 @@ Here's a closeup of a particularly riveting track that consists of nothing but a
 
 <img src="/assets/track_05.png">
 
-Using this simple tone, we can see how the sound is encoded in the record.  The groove for this simple tone is just a sine wave; it wobbles the needle back and forth 600 times per second.  A sensor on the needle detects this wobble and converts it to an electrical signal which is amplified and sent to a speaker.  The result:  we hear a 600 Hz tone.
+Using this simple tone, we can see how the sound is encoded in the record.  The groove for this simple tone is just a sine wave; it wobbles the needle back and forth 600 times per second.  A sensor on the needle detects this wobble and converts it to an electrical signal which oscillates 600 times per second.  This signal is then amplified and sent to a speaker.  The result:  we hear a 600 Hz tone.
 
 *The record groove is a physical manefestation of the waveform of the recorded sound.*  If you looked at that 600 Hz sound on an oscilloscope, you'd see a sinusoidal waveform that's identical to the record groove shown above.
 
