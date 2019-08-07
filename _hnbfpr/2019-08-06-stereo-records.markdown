@@ -32,7 +32,7 @@ I like how the grooves wobble in sync in the photo above.  It means that the cir
 
 The grooves no longer wobble in sync; the waves are out of phase with each other.
 
-This track plays A-440, the A above Middle C on the piano.  This 440 Hz note is commonly used by musicians to tune their instruments:
+The track below plays A-440, the A above Middle C on the piano.  This 440 Hz note is commonly used by musicians to tune their instruments:
 
 <img src="/assets/track_08.png">
 
