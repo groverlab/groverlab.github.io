@@ -35,11 +35,20 @@ Happily, my fancy test record has a couple tracks that are perfect for answering
 
 <img src="/assets/track_10.png">
 
-Do you see the two waveforms?  If not, check out this version where I've highlighted the edges of one groove:
+Do you see the two waveforms?  If not, check out this version where I've highlighted the edges of one groove in red:
 
 <img src="/assets/track_10_highlighted.png">
 
-3000 Hz in the Left channel and 800 Hz in the Right channel
+The waveform of the higher-frequency 3000 Hz tone is on the *left edge of the groove*, and the waveform for the lower-frequency 800 Hz tone is on the *right edge of the groove!*
+
+In stereo records, the two edges of the groove are different.  As the needle is dragged through the groove, it contacts both edges at the same time.  In the 3000 and 800 Hz recording above, the small bumps on the left edge bounce the needle rapidly in the upper-right direction, and the bigger bumps on the right edge bounce the needle slowly in the upper-left direction.  Now, if we just put *two* sensors on the needle, one to measure its motion in the upper-right direction, and one to measure its motion in the upper-left direction, and connect the first sensor to the Right speaker and the second sensor to the Left speaker, we have stereo sound!
+
+For completeness, here's another track with the Left and Right channels swapped (800 Hz in the Left and 3000 Hz in the Right).
 
 <img src="/assets/track_09.png">
+
+In a stereo record, the needle isn't just bouncing back and forth; it's actually moving in two dimensions, sketching out a path that's basically a plot of the Left channel waveform vs. the Right channel waveform.  And if you consider the needle's motion along the groove travel in a third dimension, then our song is just the dance of a needle in space and time, a slow dance for the low notes, a fast dance for the high notes, a subdued dance for the quiet notes, a frenetic dance for the loud notes, a shimmy one way for our left ears, and a shake the other way for our right.
+
+
+
 
