@@ -16,18 +16,31 @@ Luckily, I have a special record:
 
 <!--more-->
 
-This is a "test record" used to evaluate stereo equipment.  It contains a collection of standardized tones and clicks and other noises.  And while it probably never made the Billboard Top 100, it helps us understand how records work.
+This is a "test record" used to evaluate stereo equipment.  It contains a collection of standardized tones and clicks and other noises.  And while it probably never made the *Billboard Top 100*, it can help us understand how records work.
 
-Here's a closeup of 
+Here's a closeup of a particularly riveting track that consists of nothing but a constant 600 Hz tone:
 
 <img src="/assets/track_05.png">
+
+Using this simple tone, we can see how the sound is encoded in the record.  The groove for this simple tone is just a sine wave; it wobbles the needle back and forth 600 times per second.  A sensor on the needle detects this wobble and converts it to an electrical signal which is amplified and sent to a speaker.  The result:  we hear a 600 Hz tone.
+
+*The record groove is a physical manefestation of the waveform of the recorded sound.*  If you looked at that 600 Hz sound on an oscilloscope, you'd see a sinusoidal waveform that's identical to the record groove shown above.
+
+I like how the grooves wobble in sync in the photo above.  It means that the circumference of the record at this groove must be an exact multiple of the wavelength of the sine wave.  Here's a nearby track with a slightly different frequency:
+
 <img src="/assets/track_05b.png">
+
+The grooves no longer wobble in sync; the waves are out of phase with each other.
 
 This track plays A-440, the A above Middle C on the piano.  This 440 Hz note is commonly used by musicians to tune their instruments:
 
 <img src="/assets/track_08.png">
 
-So now we can begin to understand how phonograph records work.  The groove is a tiny waveform of the sound.  For simple sounds like these test tones, the waveform is just a sine wave, and the groove *looks* like a sine wave.  For complex sounds like those in Verdi's *Aida*, a lot of sine waves are combined together, and the resulting record groove looks more complicated.  But it's still just a physical representation of the recorded sound wave, the pattern of pressure waves that traveled from the musicians' instruments, through the air, and to the microphone that recorded this record.  And by dragging a needle over that groove, we can recreate that pattern of pressure waves, send them through the air again, and into our ears, where the music lives again.
+These waveforms are simple because the sounds they encode are simple:  pure tones with a single frequency.  But for complex sounds like those in Verdi's *Aida*, a lot of sine waves are combined together, and the resulting record groove looks more complicated.  Here's Verdi again:
+
+<img src="/assets/side2.png">
+
+But it's still just a physical representation of the recorded sound wave, the pattern of pressure waves that traveled from the musicians' instruments, through the air, and to the microphone that recorded this record.  And by dragging a needle over that groove, we can recreate that pattern of pressure waves, send them through the air again, and into our ears, where the music lives again.
 
 Let's finish with a brain teaser:  how do *stereo* records work?  Remember that stereo recordings have two channels, a Left channel and a Right channel, and they can contain different sounds; that's how you might hear a song with a singer's voice in your left ear and the band in your right ear.  In fact, a stereo record actually contains *two totally separate recordings*, but there's only one groove on the record, and one needle!  How does that work?!?
 
@@ -47,7 +60,7 @@ For completeness, here's another track with the Left and Right channels swapped 
 
 <img src="/assets/track_09.png">
 
-In a stereo record, the needle isn't just bouncing back and forth; it's actually moving in two dimensions, sketching out a path that's basically a plot of the Left channel waveform vs. the Right channel waveform.  And if you consider the needle's motion along the groove travel in a third dimension, then our song is just the dance of a needle in space and time, a slow dance for the low notes, a fast dance for the high notes, a subdued dance for the quiet notes, a frenetic dance for the loud notes, a shimmy one way for our left ears, and a shake the other way for our right.
+In a stereo record, the needle isn't just bouncing back and forth; it's actually moving in two dimensions, sketching out a path that's basically a plot of the Left channel waveform vs. the Right channel waveform.  And if you consider the needle's motion along the groove travel in a third dimension, then Verdi's opera is just the dance of a needle through space and time, a slow dance for the low notes, a fast dance for the high notes, a subdued dance for the quiet notes, a frenetic dance for the loud notes, a shimmy one way for our left ears, and a shake the other way for our right.
 
 
 
