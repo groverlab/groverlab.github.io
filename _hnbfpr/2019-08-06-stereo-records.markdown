@@ -36,7 +36,7 @@ This track plays A-440, the A above Middle C on the piano.  This 440 Hz note is 
 
 <img src="/assets/track_08.png">
 
-These waveforms are simple because the sounds they encode are simple:  pure tones with a single frequencies.  But for complex sounds like those in Verdi's *Aida*, a lot of sine waves are combined together, and the resulting record groove looks a lot more complicated.  Here's Verdi again: 
+These waveforms are simple because the sounds they encode are simple:  pure tones with single frequencies.  But for complex sounds like those in Verdi's *Aida*, a lot of sine waves are combined together, and the resulting record groove looks a lot more complicated.  Here's Verdi again: 
 
 <img src="/assets/side2.png">
 
