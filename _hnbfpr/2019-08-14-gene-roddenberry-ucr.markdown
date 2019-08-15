@@ -5,13 +5,13 @@ date:   2019-08-14 01:00:00 -0800
 ---
 
 testing first video:
-<video autoplay loop playsinline>
-<source src="/assets/01 engr to pierce.mp4" width="100%" height="auto" >
+<video autoplay loop playsinline muted width="100%" height="auto">
+<source src="/assets/01 engr to pierce.mp4">
 </video>
 
 testing second video:
-<video autoplay loop playsinline>
-<source src="/assets/01 engr to pierce 2019.mp4" width="100%" height="auto">
+<video autoplay loop playsinline muted width="100%" height="auto">
+<source src="/assets/01 engr to pierce 2019.mp4" >
 </video>
 
 
