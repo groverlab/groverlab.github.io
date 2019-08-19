@@ -53,19 +53,40 @@ Here's a comparison of the end of the scene in 1972 and 2019:
 
 Some of the most beautiful scenes in *Genesis II* take advantage of the picturesque forest of arches beneath Olmsted Hall.  Here are Hunt and Lyra-a passing beneath Olmsted on horseback in 1972:
 
-<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/02 olmsted.mp4" ></video>
+<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/02 olmsted.mp4" ></video><br>
 
 And here's the beginning of the scene in 1972 and 2019:
 
 <img src="/assets/genesis-ii/02 olmsted.png">
 <img src="/assets/genesis-ii/02 olmsted 2019.jpeg">
 
-Very little has changed in the last 50 years.  The tree is older but is still instantly recognizable.  But look at the ceiling---most of the waffle-like vaults are now covered up, and the arches 
+The tree is older but is still instantly recognizable, but most of the waffle-like vaults in the ceiling are now covered up, and the arches look thicker at their bases, changes courtesy of seismic retrofitting.
 
-<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/03 olmsted.mp4" ></video>
+Up one floor in Olmsted, the camera takes in a beautiful panning shot of the Rivera arches and the Bell Tower in 1972:
+
+<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/03 olmsted.mp4" ></video><br>
+
+Here's a comparison of the shot in 1972 and 2019:
+
+<img src="/assets/genesis-ii/03 olmsted.png">
+<img src="/assets/genesis-ii/03 olmsted 2019.jpeg">
+
+Behind the Bell Tower you can see the old Bookstore that predated the current Hub.
+
+Speaking of the Bell Tower, here's Hunt walking around its base:
+
+<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/07 bell tower.mp4" ></video><br>
+
+And another comparison with a 2019 shot:
+
+<img src="/assets/genesis-ii/07 bell tower.png">
+<img src="/assets/genesis-ii/07 bell tower 2019.jpeg">
+
+
+
+
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/04 rivera.mp4" ></video>
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/06 bell tower.mp4" ></video>
-<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/07 bell tower.mp4" ></video>
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/07 rivera.mp4" ></video>
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/08 bell tower.mp4" ></video>
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/09 bell tower.mp4" ></video>
