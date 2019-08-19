@@ -6,9 +6,9 @@ date:   2020-08-19 01:00:00 -0800
 
 
 
-In 1972, Gene Roddenberry, the creator of Star Trek, set out to make his next big science fiction TV show.  Roddenberry's [*Genesis II*](https://en.wikipedia.org/wiki/Genesis_II_(film)) was to follow NASA scientist Dylan Hunt, who wakes up in the year 2133 to find a post-apocalyptic world fractured into various competing civilizations.
+In 1972, [Gene Roddenberry](https://en.wikipedia.org/wiki/Gene_Roddenberry), already famous for creating *Star Trek*, set out to make his next big science fiction TV show.  Roddenberry's [*Genesis II*](https://en.wikipedia.org/wiki/Genesis_II_(film)) was to follow NASA scientist Dylan Hunt, who wakes up in the year 2133 to find a post-apocalyptic world fractured into various competing civilizations.
 
-One of these civilizations, the Tyranians, wear skimpy outfits, have double navels, and live in the futuristic city of Tyrania.  And Tyrania might look familiar to some of you:
+One of these civilizations, the Tyranians, live in the futuristic city of Tyrania.  And Tyrania might look a little familiar to some of you:
 
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/15 bell tower.mp4" ></video>
 
@@ -16,7 +16,7 @@ One of these civilizations, the Tyranians, wear skimpy outfits, have double nave
 
 That's right, Roddenberry filmed part of the *Genesis II* pilot episode at the University of California, Riverside, in 1972.
 
-The series didn't get picked up by CBS, so the pilot episode is all we have.  But it offers a fun look back in time at how UCR looked nearly 50 years ago.  To share this time capsule with the UCR community, I collected some of the best UCR scenes below. 
+The series didn't get picked up by CBS, so the pilot episode is all we have.  But it still offers a fun look back in time at UCR nearly 50 years ago.  To share this time capsule with the UCR community, I collected some of the best UCR scenes from 1972 (and revisited the filming locations in 2019).
 
 Some of the scenes show how much has changed at UC Riverside in the last 50 years.  For example, here's an early scene of Dylan Hunt (played by Alex Cord) and the Tyranian Lyra-a (Mariette Hartley) riding horses into Tyrania:
 
@@ -90,13 +90,13 @@ And another comparison with a 2019 shot:
 
 Notice the thicker walls on today's Bell Tower?  More seismic retrofitting.
 
-Here, our hero pulls out an electronic gadget that must have looked pretty cutting edge in 1972:
+Here, our hero pulls out an electronic gadget that must have looked pretty cutting edge in 1972...
 
-<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/08 bell tower.mp4" ></video><br>
+<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/08 bell tower.mp4" ></video>
 
-and narrowly misses detection by a sharply-dressed Tyranian:
+...and narrowly misses detection by a sharply-dressed Tyranian:
 
-<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/09 bell tower.mp4" ></video><br>
+<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/09 bell tower.mp4" ></video>
 
 Later on, outside of Pierce Hall, he's not so lucky:
 
@@ -104,18 +104,26 @@ Later on, outside of Pierce Hall, he's not so lucky:
 
 Here's a clip that makes great use of the circular cutouts in the arches outside of the University Theater:
 
-<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/10 humanities.mp4" ></video><br>
+<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/10 humanities.mp4" ></video>
 
 Fun fact, the tall fellow is [Ted Cassidy](https://en.wikipedia.org/wiki/Ted_Cassidy), best known for playing Lurch on *The Addams Family*.  I just had to take a photo of the wall at the University Theater where Lurch once crouched:
 
 <img src="/assets/genesis-ii/10 humanities 2.png">
 <img src="/assets/genesis-ii/10 humanities 2 2019.jpeg">
 
+Back at the bell tower, here's a comparison between the clip at the top of this post, and the same view in 2019:
 
+<img src="/assets/genesis-ii/15 bell tower.png">
+<img src="/assets/genesis-ii/15 bell tower 2019.jpeg">
 
-<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/13 pierce.mp4" ></video>
+It's stunning how verdant the UCR campus has become over the last 50 years.
+
+I'll conclude with four clips from the end of *Genesis II* showing freed Tyranian slaves running from Pierce across the green area now occupied by Bourns College of Engineering:
+
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/16 pierce.mp4" ></video>
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/17 pierce.mp4" ></video>
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/18 lawn.mp4" ></video>
-<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/19 pierce.mp4" ></video>
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/20 lawn.mp4" ></video>
+
+Just think---my research lab occupies land once trodden by freed Tyranian slaves!
+
