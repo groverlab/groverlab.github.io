@@ -6,7 +6,7 @@ date:   2019-08-19 01:00:00 -0800
 
 
 
-In 1972, [Gene Roddenberry](https://en.wikipedia.org/wiki/Gene_Roddenberry), already famous for creating *Star Trek*, set out to make his next big science fiction TV show.  Roddenberry's [*Genesis II*](https://en.wikipedia.org/wiki/Genesis_II_(film)) was to follow NASA scientist Dylan Hunt, who wakes up in the year 2133 to find a post-apocalyptic world fractured into various competing civilizations.
+In 1972, [Gene Roddenberry](https://en.wikipedia.org/wiki/Gene_Roddenberry), already famous for creating *Star Trek*, set out to make his next big science fiction TV show.  Roddenberry's [*Genesis II*](https://en.wikipedia.org/wiki/Genesis_II_(film)) follows NASA scientist Dylan Hunt, who goes to sleep in a suspended animation experiment and wakes in the year 2133 in a post-apocalyptic world fractured into various competing civilizations.
 
 One of these civilizations, the Tyranians, live in the futuristic city of Tyrania.  And Tyrania might look a little familiar to some of you:
 
