@@ -13,12 +13,28 @@ One of these civilizations, the Tyranians, wear skimpy outfits, have double nave
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/14 rivera.mp4" ></video>
 <!--more-->
 
-That's right, Roddenberry filmed *Genesis II* at the Unviversity of California, Riverside.  
+That's right, Roddenberry filmed part of the *Genesis II* pilot episode at the University of California, Riverside, in 1972.
+
+The series didn't get picked up by CBS, so the pilot episode is all we have.  But it offers a fun look back in time at how UCR looked nearly 50 years ago.  To share this time capsule with the UCR community, I collected some of the best UCR scenes below. 
+
+Some of the scenes show how much has changed at UC Riverside in the last 50 years.  For example, here's an early scene of Dylan Hunt (played by Alex Cord) and the Tyranian Lyra-a (Mariette Hartley) riding horses into Tyrania:
 
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/01 engr to pierce.mp4" ></video>
 
+The building at the end of the clip is Pierce Hall and the outside of Pierce hasn't changed much in 50 years (though the inside is currently undergoing a massive renovation).  Here's a comparison of Pierce in 1972 and 2019:
+
+<img src="/assets/genesis-ii/01 engr to pierce.png">
+<img src="/assets/genesis-ii/01 engr to pierce 2019.jpeg">
+
+But that grassy and tree-studded lawn at the beginning of the clip is long gone, now replaced by the Bourns College of Engineering.  Here's my version of the same panning shot (minus the horses) in 2019:
 
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/01 engr to pierce 2019.mp4" ></video>
+
+Still lots of trees, but now Bourns Hall and the rest of the engineering complex fills what was once a grassy lawn.
+
+
+
+
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/02 olmsted.mp4" ></video>
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/03 olmsted.mp4" ></video>
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/04 rivera.mp4" ></video>
