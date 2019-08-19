@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "UC Riverside in Gene Roddenberry's <i>Genesis II</i>"
-date:   2020-08-19 01:00:00 -0800
+date:   2019-08-19 01:00:00 -0800
 ---
 
 
