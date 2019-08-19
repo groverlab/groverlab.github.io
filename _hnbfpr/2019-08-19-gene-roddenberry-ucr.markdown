@@ -10,7 +10,8 @@ In 1972, Gene Roddenberry, the creator of Star Trek, set out to make his next bi
 
 One of these civilizations, the Tyranians, wear skimpy outfits, have double navels, and live in the futuristic city of Tyrania.  And Tyrania might look familiar to some of you:
 
-<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/14 rivera.mp4" ></video>
+<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/15 bell tower.mp4" ></video>
+
 <!--more-->
 
 That's right, Roddenberry filmed part of the *Genesis II* pilot episode at the University of California, Riverside, in 1972.
@@ -32,7 +33,7 @@ But that grassy and tree-studded lawn at the beginning of the clip is long gone,
 
 Still lots of trees, but now Bourns Hall and the rest of the engineering complex fills what was once a grassy lawn.
 
-Tomás Rivera Library appears in many scenes in Roddenberry's show, which is a bit ironic:  the building now contains the [Eaton Collection of Science Fiction and Fantasy](https://eaton.ucr.edu), one of the world's largest collections of science fiction (including many works by Roddenberry himself).  
+Tomás Rivera Library appears in many scenes in Roddenberry's show.  In a neat twist of fate, Rivera Library now contains the [Eaton Collection of Science Fiction and Fantasy](https://eaton.ucr.edu), one of the world's largest collections of science fiction (including many works by Roddenberry himself).  
 
 Here are Hunt and Lyra-a walking along the arch-lined covered walkway outside the library:
 
@@ -50,6 +51,11 @@ Here's a comparison of the end of the scene in 1972 and 2019:
 
 <img src="/assets/genesis-ii/05 rivera.png">
 <img src="/assets/genesis-ii/05 rivera 2019.jpeg">
+
+Another shot from later in the film, showing pandemonium on the grass outside the Library:
+
+<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/14 rivera.mp4" ></video><br>
+
 
 Some of the most beautiful scenes in *Genesis II* take advantage of the picturesque forest of arches beneath Olmsted Hall.  Here are Hunt and Lyra-a passing beneath Olmsted on horseback in 1972:
 
@@ -100,17 +106,14 @@ Here's a clip that makes great use of the circular cutouts in the arches outside
 
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/10 humanities.mp4" ></video><br>
 
-Fun fact, the tall fellow is [Ted Cassidy](https://en.wikipedia.org/wiki/Ted_Cassidy), best known for playing Lurch on *The Addams Family*.  I just had to take a photo of the wall at the University Theater where Lurch stood:
+Fun fact, the tall fellow is [Ted Cassidy](https://en.wikipedia.org/wiki/Ted_Cassidy), best known for playing Lurch on *The Addams Family*.  I just had to take a photo of the wall at the University Theater where Lurch once crouched:
 
 <img src="/assets/genesis-ii/10 humanities 2.png">
 <img src="/assets/genesis-ii/10 humanities 2 2019.jpeg">
 
 
 
-<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/07 rivera.mp4" ></video>
-<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/12 pierce.mp4" ></video>
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/13 pierce.mp4" ></video>
-<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/15 bell tower.mp4" ></video>
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/16 pierce.mp4" ></video>
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/17 pierce.mp4" ></video>
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/18 lawn.mp4" ></video>
