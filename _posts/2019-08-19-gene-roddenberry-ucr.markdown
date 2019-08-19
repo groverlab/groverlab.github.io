@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gene Roddenberry at UC Riverside"
-date:   2020-08-14 01:00:00 -0800
+date:   2020-08-19 01:00:00 -0800
 ---
 
 testing 123...
