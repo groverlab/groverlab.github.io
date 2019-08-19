@@ -6,7 +6,7 @@ date:   2019-08-19 01:00:00 -0800
 
 
 
-In 1972, [Gene Roddenberry](https://en.wikipedia.org/wiki/Gene_Roddenberry), already famous for creating *Star Trek*, set out to make his next big science fiction TV show.  Roddenberry's [*Genesis II*](https://en.wikipedia.org/wiki/Genesis_II_(film)) follows NASA scientist Dylan Hunt, who goes to sleep in an experiment and wakes in the year 2133 in a post-apocalyptic world fractured into various competing civilizations.
+In 1972, [Gene Roddenberry](https://en.wikipedia.org/wiki/Gene_Roddenberry), already famous for creating *Star Trek*, set out to make his next big science fiction TV show.  Roddenberry's [*Genesis II*](https://en.wikipedia.org/wiki/Genesis_II_(film)) follows NASA scientist Dylan Hunt, who goes to sleep in an experiment and awakes in the year 2133 in a post-apocalyptic world fractured into various competing civilizations.
 
 One of these civilizations, the Tyranians, live in the futuristic city of Tyrania.  And Tyrania might look a little familiar to some of you:
 
@@ -18,7 +18,7 @@ That's right, Roddenberry filmed part of the *Genesis II* pilot episode at the U
 
 The series didn't get picked up by CBS, so the pilot episode is all we have.  But it still offers a fun look back in time at UCR nearly 50 years ago.  To share this time capsule with the UCR community, I collected some of the best UCR scenes from 1972 (and revisited the filming locations in 2019).
 
-Some of the scenes show how much has changed at UC Riverside in the last 50 years.  For example, here's an early scene of Dylan Hunt (played by Alex Cord) and the Tyranian Lyra-a (Mariette Hartley) riding horses into Tyrania:
+Some of the scenes show how much has changed at UC Riverside during the past 50 years.  For example, here's an early scene of Dylan Hunt (played by Alex Cord) and the Tyranian Lyra-a (Mariette Hartley) riding horses into Tyrania:
 
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/01 engr to pierce.mp4" ></video><br>
 
