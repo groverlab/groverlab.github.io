@@ -38,17 +38,32 @@ Here are Hunt and Lyra-a walking along the arch-lined covered walkway outside th
 
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/04 rivera.mp4" ></video>
 
-And here's the same view in 2019, virtually unchanged (and a perennial selfie spot for graduation photos):
+And here's the same view in 2019, virtually unchanged (though now a popular selfie spot for graduation photos):
 
 <img src="/assets/genesis-ii/04 rivera 2019.jpeg">
 
+Rivera's arches and thin windows are unmistakable:
 
+<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/05 rivera.mp4" ></video>
 
+Here's a comparison of the end of the scene in 1972 and 2019:
+
+<img src="/assets/genesis-ii/05 rivera.png">
+<img src="/assets/genesis-ii/05 rivera 2019.jpeg">
+
+Some of the most beautiful scenes in *Genesis II* take advantage of the picturesque forest of arches beneath Olmsted Hall.  Here are Hunt and Lyra-a passing beneath Olmsted on horseback in 1972:
 
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/02 olmsted.mp4" ></video>
+
+And here's the beginning of the scene in 1972 and 2019:
+
+<img src="/assets/genesis-ii/02 olmsted.png">
+<img src="/assets/genesis-ii/02 olmsted 2019.jpeg">
+
+Very little has changed in the last 50 years.  The tree is older but is still instantly recognizable.  But look at the ceiling---most of the waffle-like vaults are now covered up, and the arches 
+
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/03 olmsted.mp4" ></video>
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/04 rivera.mp4" ></video>
-<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/05 rivera.mp4" ></video>
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/06 bell tower.mp4" ></video>
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/07 bell tower.mp4" ></video>
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/07 rivera.mp4" ></video>
