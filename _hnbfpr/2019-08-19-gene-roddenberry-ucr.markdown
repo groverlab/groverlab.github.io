@@ -60,7 +60,7 @@ And here's the beginning of the scene in 1972 and 2019:
 <img src="/assets/genesis-ii/02 olmsted.png">
 <img src="/assets/genesis-ii/02 olmsted 2019.jpeg">
 
-The tree is older but is still instantly recognizable, but most of the waffle-like vaults in the ceiling are now covered up, and the arches look thicker at their bases, changes courtesy of seismic retrofitting.
+The tree is older but is still instantly recognizable, but most of the waffle-like vaults in the ceiling are now covered up, and the arches look thicker at their bases, changes courtesy of retrofitting for earthquake safety.
 
 Up one floor in Olmsted, the camera takes in a beautiful panning shot of the Rivera arches and the Bell Tower in 1972:
 
@@ -82,16 +82,32 @@ And another comparison with a 2019 shot:
 <img src="/assets/genesis-ii/07 bell tower.png">
 <img src="/assets/genesis-ii/07 bell tower 2019.jpeg">
 
+Notice the thicker walls on today's Bell Tower?  More seismic retrofitting.
+
+Here, our hero pulls out an electronic gadget that must have looked pretty cutting edge in 1972:
+
+<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/08 bell tower.mp4" ></video><br>
+
+and narrowly misses detection by a sharply-dressed Tyranian:
+
+<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/09 bell tower.mp4" ></video><br>
+
+Later on, outside of Pierce Hall, he's not so lucky:
+
+<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/11 pierce.mp4" ></video><br>
+
+Here's a clip that makes great use of the circular cutouts in the arches outside of the University Theater:
+
+<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/10 humanities.mp4" ></video><br>
+
+Fun fact, the tall fellow is [Ted Cassidy](https://en.wikipedia.org/wiki/Ted_Cassidy), best known for playing Lurch on *The Addams Family*.  I just had to take a photo of the wall at the University Theater where Lurch stood:
+
+<img src="/assets/genesis-ii/10 humanities 2.png">
+<img src="/assets/genesis-ii/10 humanities 2 2019.jpeg">
 
 
 
-<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/04 rivera.mp4" ></video>
-<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/06 bell tower.mp4" ></video>
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/07 rivera.mp4" ></video>
-<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/08 bell tower.mp4" ></video>
-<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/09 bell tower.mp4" ></video>
-<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/10 humanities.mp4" ></video>
-<video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/11 pierce.mp4" ></video>
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/12 pierce.mp4" ></video>
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/13 pierce.mp4" ></video>
 <video autoplay loop playsinline muted width="100%" height="auto"><source src="/assets/genesis-ii/15 bell tower.mp4" ></video>
