@@ -1,0 +1,7 @@
+---
+layout: post
+name:  "Shane Hoang"
+picture: "shane.jpg"
+role: "Current"
+---
+Shane is a Ph.D. student in the Department of Bioengineering at UC Riverside. He received his B.S. in Biomedical Engineering at UC Davis in 2016. During his undergraduate studies, Shane spent two years in Dr. Scott Simon’s lab investigating the biomechanics underlying leukocyte extravasation during periods of inflammation. In the Simon lab, he focused on fabricating glass substrates, patterned with VCAM-1, as a medium to study monocyte capture during shear flow.
