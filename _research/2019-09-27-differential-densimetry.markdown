@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Differential densimetry: A method for determining ultra-low fluid flux and tissue permeability"
+doi:  "10.1063/1.5122953"
+---
+
+Christopher S. Hale, Heran C. Bhakta, Carrie R. Jonak, Jennifer M. Yonan, Devin K. Binder, William H. Grover, and Victor J.G. Rodgers, [*AIP Advances* 9, 095063 (2019)](https://aip.scitation.org/doi/full/10.1063/1.5122953).
+
+<img src="/assets/differential-densimetry.jpeg">
+
+Osmotic transport devices (OTDs) are forward osmosis membrane devices that we recently developed to remove accumulated fluid from swollen tissue, *in-vivo*, under severe conditions. As such, the relative volume of the fluid required to be removed and the volumetric flowrate may be two orders of magnitude less than the operating volume and tangential flowrate of the device. This makes it challenging to measure the rate of fluid flow from the swollen tissue. Here, we introduce a differential densimetry method for determining ultra-low volumetric flux through tissue samples. This technique uses two vibrating tube density sensors, one placed upstream of the membrane in contact with the tissue sample, and one placed downstream. Any flow of biological fluid withdrawn through the tissue will combine with the OTD operating fluid resulting in an observed density shift in the second density sensor. By measuring the difference in density between the upstream and downstream fluids, one can calculate the amount of fluid flowing across the tissue with a relatively high level of sensitivity. This method is also relatively insensitive to drift from temperature fluctuations and capable of continuously monitoring tissue permeability in real time. As a proof of concept, we used this technique to measure fluid flow across *ex-vivo* rat spinal tissue for an appropriately scaled OTD. The repeatability error had a maximum of only 12%. This implies that this method can provide highly acceptable flux measurements with reasonable reproducibility in real-time applications of fluid removal *in-vivo*.
