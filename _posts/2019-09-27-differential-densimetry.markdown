@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Differential Densimetry published in <i>AIP Advances</i>"
+title:  "Christopher Hale and Heran Bhakta's work on Differential Densimetry published in <i>AIP Advances</i>"
 date:   2019-09-27 01:00:00 -0800
 categories: news
 ---
