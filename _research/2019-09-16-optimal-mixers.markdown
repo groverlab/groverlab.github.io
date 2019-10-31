@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Finding the optimal design of a passive microfluidic mixer"
+doi:  "10.1039/C9LC00546C"
+---
+
+Junchao Wang, Naiyin Zhang, Jin Chen, Victor G.J. Rodgers, Philip Brisk, and William H. Grover, [*Lab on a Chip* 19, 3618--3627 (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/lc/c9lc00546c).  [PDF]("/assets/optimal-mixers.pdf")
+
+<img src="/assets/optimal-mixers.gif">
+
+The ability to thoroughly mix two fluids is a fundamental need in microfluidics. While a variety of different microfluidic mixers have been designed by researchers, it remains unknown which (if any) of these mixers are optimal (that is, which designs provide the most thorough mixing with the smallest possible fluidic resistance across the mixer). In this work, we automatically designed and rationally optimized a microfluidic mixer. We accomplished this by first generating a library of thousands of different randomly designed mixers, then using the non-dominated sorting genetic algorithm II (NSGA-II) to optimize the random chips in order to achieve Pareto efficiency. Pareto efficiency is a state of allocation of resources (e.g. driving force) from which it is impossible to reallocate so as to make any one individual criterion better off (e.g. pressure drop) without making at least one individual criterion (e.g. mixing performance) worse off. After 200 generations of evolution, Pareto efficiency was achieved and the Pareto-optimal front was found. We examined designs at the Pareto-optimal front and found several design criteria that enhance the mixing performance of a mixer while minimizing its fluidic resistance; these observations provide new criteria on how to design optimal microfluidic mixers. Additionally, we compared the designs from NSGA-II with some popular microfluidic mixer designs from the literature and found that designs from NSGA-II have lower fluidic resistance with similar mixing performance. As a proof of concept, we fabricated three mixer designs from 200 generations of evolution and one conventional popular mixer design and tested the performance of these four mixers. Using this approach, an optimal design of a passive microfluidic mixer is found and the criteria of designing a passive microfluidic mixer are established.
