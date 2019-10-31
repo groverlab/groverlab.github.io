@@ -4,7 +4,7 @@ title:  "Finding the optimal design of a passive microfluidic mixer"
 doi:  "10.1039/C9LC00546C"
 ---
 
-Junchao Wang, Naiyin Zhang, Jin Chen, Victor G.J. Rodgers, Philip Brisk, and William H. Grover, [*Lab on a Chip* 19, 3618--3627 (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/lc/c9lc00546c).  [PDF]("/assets/optimal-mixers.pdf")
+Junchao Wang, Naiyin Zhang, Jin Chen, Victor G.J. Rodgers, Philip Brisk, and William H. Grover, [*Lab on a Chip* 19, 3618--3627 (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/lc/c9lc00546c).  [PDF](/assets/optimal-mixers.pdf)
 
 <img src="/assets/optimal-mixers.gif">
 
