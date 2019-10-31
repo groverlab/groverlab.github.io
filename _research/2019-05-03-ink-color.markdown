@@ -4,7 +4,7 @@ title:  "Using printer ink color to control the behavior of paper microfluidics"
 doi:  "10.1039/C9LC00083F"
 ---
 
-Joshua Potter, Philip Brisk, and William H. Grover, [*Lab on a Chip*, in press](https://pubs.rsc.org/en/content/articlelanding/2019/lc/c9lc00083f).
+Joshua Potter, Philip Brisk, and William H. Grover, [*Lab on a Chip* 19, 2000-2008 (2019)](https://pubs.rsc.org/en/content/articlelanding/2019/lc/c9lc00083f).
 
 <img src="/assets/ink-color.png">
 
