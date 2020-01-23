@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "ChemStor published in the <i>Journal of Chemical Information and Modeling</i>"
+date:   2020-01-22 01:00:00 -0800
+categories: news
+---
+
+![](/assets/chemstor.jpeg)
+
+*ChemStor* (a collaboration with Jason Ot, Daniel Tan, Tyson Loveless, and Philip Brisk) is the subject of a paper [published in the *Journal of Chemical Information and Modeling*](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00951).
+
+*ChemStor* is a software tool that uses principles from *formal methods*---a branch of computer science---to safely store and dispose of chemicals.  Chemical-related accidents in labs and homes are all too common.  In just one example, each year, 4500 injuries are caused by simply mixing incompatible pool chemicals.  *ChemStor* informs the user if two or more chemicals pose a threat if stored or mixed together.  If it is integrated into voice assistants like Amazon's Alexa and Apple's Siri, *ChemStor* could help keep researchers and the public safe around chemicals.
