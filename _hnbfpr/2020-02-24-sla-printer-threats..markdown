@@ -5,15 +5,15 @@ date:   2020-02-24 01:00:00 -0800
 categories: news
 ---
 
-This is currently the top **filament-based** 3D printer on Amazon, the $266 *Creality Ender 3 Pro* printer:
+This is currently the top **filament-based** 3D printer on Amazon, the [$266 *Creality Ender 3 Pro* printer](https://www.amazon.com/Comgrow-Creality-Printer-Upgrade-Certified/dp/B07GYRQVYV/ref=sr_1_3?keywords=3d+printer&qid=1582575815&sr=8-3):
 
 ![](/assets/amazon_fdm.png)
 
-And this is the top **liquid-based** 3D printer on Amazon, the $239.99 *ELEGOO Mars* printer:
+And this is the top **liquid-based** 3D printer on Amazon, the [$239.99 *ELEGOO Mars* printer](https://www.amazon.com/ELEGOO-Photocuring-Printer-Off-line-Printing/dp/B07K2ZHMRF/ref=sr_1_3?keywords=3d+printer+sla&qid=1582575863&sr=8-3):
 
 ![](/assets/amazon_sla.png)
 
-The top liquid-based 3D printer on Amazon is actually *cheaper* than the top filament-based printer.  This is unprecedented, and it has me worried.  Why?  
+**The top liquid-based 3D printer on Amazon is actually *cheaper* than the top filament-based printer**.  This is unprecedented, and it has me worried.  Why?  
 
 <!--more-->
 
