@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Temporary"
+title:  "The growing popularity (and risks) of liquid-based 3D printers"
 date:   2020-02-24 01:00:00 -0800
 categories: news
 ---
 
-This is the top **filament-based** 3D printer on Amazon:
+This is currently the top **filament-based** 3D printer on Amazon:
 
 ![](/assets/amazon_fdm.png)
 
@@ -13,7 +13,7 @@ And this is the top **liquid-based** 3D printer on Amazon:
 
 ![](/assets/amazon_sla.png)
 
-Check out their prices---the liquid-based 3D printer is actually cheaper than the filament-based printer.
+Check out their prices:  the liquid-based 3D printer is actually *cheaper* than the filament-based printer.  This is unprecedented---and it also signals the need to  
 
 This has significant repercussions for human and environmental health.  Why?
 
