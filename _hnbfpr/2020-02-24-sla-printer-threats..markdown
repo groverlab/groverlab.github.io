@@ -5,11 +5,17 @@ date:   2020-02-24 01:00:00 -0800
 categories: news
 ---
 
+This is the top **filament-based** 3D printer on Amazon:
+
 ![](/assets/amazon_fdm.png)
+
+And this is the top **liquid-based** 3D printer on Amazon:
 
 ![](/assets/amazon_sla.png)
 
-The top liquid-resin-based 3D printer on Amazon is now cheaper than the top filament-based 3D printer.  This has significant repercussions for human and environmental health.  Why?
+Check out their prices---the liquid-based 3D printer is actually cheaper than the filament-based printer.
+
+This has significant repercussions for human and environmental health.  Why?
 
 For a long time, all low-cost entry-level 3D printers were filament based.  These printers (also called "Fused Deposition Modeling" or FDM printers) melt a solid plastic filament and squirt it into the shape of the printed part.  They're kinda like a hot glue gun on steroids.  They have some health risks associated with them, but the parts and waste they make are pretty harmless and can even be biodegradable.
 
