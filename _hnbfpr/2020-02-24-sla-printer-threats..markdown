@@ -17,7 +17,10 @@ Check out their prices:  the liquid-based 3D printer is actually *cheaper* than 
 
 **For a long time, all low-cost entry-level 3D printers were filament based.**  These printers (also called "Fused Deposition Modeling" or FDM printers) melt a solid plastic filament and squirt it into the shape of the printed part.  They're kinda like a hot glue gun on steroids.  They have some health risks associated with them, but the parts and waste they make are pretty harmless and can even be biodegradable.
 
-![](/assets/fdm-schematic.png)
+<figure>
+<img class="center" src="/assets/fdm-schematic.png">
+<figcaption>In a filament-based 3D printer, a solid filament (a) is melted and deposited layer-by-layer in the shape of the desired part (c).  In this process, the filament melts and re-solidifies, but it doesn't undergo any chemical reactions or change its chemical composition. (</figcaption>
+</figure>
 
 But there's another 3D printer technology that uses a liquid resin instead of a solid filament.  These printers (also called "Stereolithography" or SLA printers) use a vat of light-sensitive liquid and a light source (usually a laser) that shines on the liquid.  Wherever the laser hits the liquid, it starts a chemical reaction (photopolymerization) that turns the liquid into a solid.
 
