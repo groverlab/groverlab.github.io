@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The growing popularity (and risks) of liquid-based 3D printers"
-date:   2020-02-24 01:00:00 -0800
+date:   2020-12-24 01:00:00 -0800
 categories: news
 ---
 
