@@ -5,22 +5,26 @@ date:   2020-02-24 01:00:00 -0800
 categories: news
 ---
 
-This is currently the top **filament-based** 3D printer on Amazon:
+This is currently the top **filament-based** 3D printer on Amazon, the $266 *Creality Ender 3 Pro* printer:
 
 ![](/assets/amazon_fdm.png)
 
-And this is the top **liquid-based** 3D printer on Amazon:
+And this is the top **liquid-based** 3D printer on Amazon, the $239.99 *ELEGOO Mars* printer:
 
 ![](/assets/amazon_sla.png)
 
-Check out their prices:  the liquid-based 3D printer is actually *cheaper* than the filament-based printer.  This is unprecedented, and it has me worried.  Why?  
+The top liquid-based 3D printer on Amazon is actually *cheaper* than the top filament-based printer.  This is unprecedented, and it has me worried.  Why?  
 
-**For a long time, all low-cost entry-level 3D printers were filament based.**  These printers (also called "Fused Deposition Modeling" or FDM printers) melt a solid plastic filament and squirt it into the shape of the printed part.  They're kinda like a hot glue gun on steroids.  They have some health risks associated with them, but the parts and waste they make are pretty harmless and can even be biodegradable.
+<!--more-->
+
+**For a long time, all low-cost entry-level 3D printers were filament based.**  These printers go by a few different names, like "fused deposition modeling" (FDM) and "fused filament fabrication" (FFF), but they all work basically the same way:  the printer melts a solid plastic filament and squirts it into the shape of the printed part, which then re-solidifies as it cools.  They're kinda like a hot glue gun on steroids:
 
 <figure>
 <img class="center" src="/assets/fdm-schematic.png">
-<figcaption>In a filament-based 3D printer, a solid filament (a) is melted and deposited layer-by-layer in the shape of the desired part (c).  In this process, the filament melts and re-solidifies, but it doesn't undergo any chemical reactions or change its chemical composition. (</figcaption>
+<figcaption>In a filament-based 3D printer, a solid filament (a) is melted and deposited layer-by-layer in the shape of the desired part (c).  In this process, the filament melts and re-solidifies, but it doesn't undergo any chemical reactions or change its chemical composition. </figcaption>
 </figure>
+
+These filament-based printers have some health risks associated with them, mostly associated with tiny plastic fibers that can be released into the air during operation, and fumes that can be released when some plastic filaments are heated.  But the parts and waste that filament-based printers make are pretty harmless and can even be biodegradable.  And filament-based printers were the first 3D printers to become inexpensive enough for use outside of industry.  Today, filament-based printers can be found in 
 
 But there's another 3D printer technology that uses a liquid resin instead of a solid filament.  These printers (also called "Stereolithography" or SLA printers) use a vat of light-sensitive liquid and a light source (usually a laser) that shines on the liquid.  Wherever the laser hits the liquid, it starts a chemical reaction (photopolymerization) that turns the liquid into a solid.
 
