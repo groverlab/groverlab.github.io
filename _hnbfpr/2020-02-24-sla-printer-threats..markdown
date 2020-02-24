@@ -13,13 +13,15 @@ And this is the top **liquid-based** 3D printer on Amazon:
 
 ![](/assets/amazon_sla.png)
 
-Check out their prices:  the liquid-based 3D printer is actually *cheaper* than the filament-based printer.  This is unprecedented---and it also signals the need to  
+Check out their prices:  the liquid-based 3D printer is actually *cheaper* than the filament-based printer.  This is unprecedented, and it has me worried.  Why?  
 
-This has significant repercussions for human and environmental health.  Why?
+**For a long time, all low-cost entry-level 3D printers were filament based.**  These printers (also called "Fused Deposition Modeling" or FDM printers) melt a solid plastic filament and squirt it into the shape of the printed part.  They're kinda like a hot glue gun on steroids.  They have some health risks associated with them, but the parts and waste they make are pretty harmless and can even be biodegradable.
 
-For a long time, all low-cost entry-level 3D printers were filament based.  These printers (also called "Fused Deposition Modeling" or FDM printers) melt a solid plastic filament and squirt it into the shape of the printed part.  They're kinda like a hot glue gun on steroids.  They have some health risks associated with them, but the parts and waste they make are pretty harmless and can even be biodegradable.
+![](/assets/fdm-schematic.png)
 
 But there's another 3D printer technology that uses a liquid resin instead of a solid filament.  These printers (also called "Stereolithography" or SLA printers) use a vat of light-sensitive liquid and a light source (usually a laser) that shines on the liquid.  Wherever the laser hits the liquid, it starts a chemical reaction (photopolymerization) that turns the liquid into a solid.
+
+![](/assets/sla-schematic.png)
 
 These resin-based SLA printers have a lot of advantages over filament-based FDM printers - they make solid, non-porous parts that can be water-tight, transparent, tougher, and higher-resolution than FDM parts.  But for a long time, SLA printers were much more expensive than FDM printers, so they were relatively rare outside of research and industry.
 
