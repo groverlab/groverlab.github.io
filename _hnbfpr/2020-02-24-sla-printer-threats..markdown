@@ -38,4 +38,8 @@ These resin-based SLA printers have a lot of advantages over filament-based FDM 
 
 But the prices for SLA printers have been steadily dropping, and  I recently noticed that Amazon's top choice for a liquid-based printer is only $240, which is cheaper than their top choice for a filament-based printer.  That means we're going to see many more liquid-based printers in homes, classrooms, libraries, and all the other places that we've usually just found filament-based printers.
 
-So why is this a problem?  The liquid resin used in SLA printers is much more toxic than the solid filament used in FDM printers.  
+So why is this a problem?
+
+The answer lies in the liquid resin used in SLA printers.  
+
+work in progress...
