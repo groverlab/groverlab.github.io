@@ -4,6 +4,8 @@ title: Quarantine links!
 permalink: /quarantine/
 ---
 
+[Typing Club](https://www.typingclub.com)
+
 [NASA at Home](https://www.nasa.gov/specials/nasaathome/index.html)
 
 [Exploratorium](https://www.exploratorium.edu/explore)
@@ -19,6 +21,9 @@ permalink: /quarantine/
 [Smithsonian Institution exhibits online](https://www.si.edu/exhibitions/online)
 
 [MIT OpenCourseWare](https://ocw.mit.edu/courses/most-visited-courses/)
+
+[San Diego Zoo](https://kids.sandiegozoo.org)
+
 
 <br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
