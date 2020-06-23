@@ -26,6 +26,9 @@ permalink: /quarantine/
 
 [Marble Run](https://www.marblerun.at)
 
+[Virtual Escape Rooms](https://www.thesuburbanmom.com/2020/05/01/virtual-escape-rooms/)
+
+[Virtual Field Trips](https://livability.com/topics/experiences-adventures/20-virtual-field-trips-for-kids-stuck-at-home)
 
 <br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
