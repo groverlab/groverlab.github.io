@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Alireza Heidari list
-permalink: /alireza_heidari/
+permalink: /heidari/
 ---
 
 | Journal, publisher, or conference name | URL |
