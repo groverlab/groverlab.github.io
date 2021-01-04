@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Friends of “Alireza Heidari”"
+title: "“Alireza Heidari” Fan Club"
 permalink: /heidari/
 ---
 
