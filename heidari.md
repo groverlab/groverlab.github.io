@@ -6,12 +6,12 @@ permalink: /heidari/
 
 | Journal, publisher, or conference name | URL |
 | --- | --- |
-| Asian Journal of Advanced Nanomaterials / Larix International | [https://ajanjournal.com] |
-| Allied Academies | [https://alliedacademies.com] |
-| American Journal of Innovative Research & Applied Sciences  | [https://american-jiras.com] |
-| Asploro Open Access Publications | [https://asploro.com]|
-| Auctores Publishing | [https://www.auctoresonline.org] |
-| Avens Publishing Group | [https://www.avensonline.org] |
+| Asian Journal of Advanced Nanomaterials / Larix International | <https://ajanjournal.com> |
+| Allied Academies | <https://alliedacademies.com> |
+| American Journal of Innovative Research & Applied Sciences  | <https://american-jiras.com> |
+| Asploro Open Access Publications | <https://asploro.com> |
+| Auctores Publishing | <https://www.auctoresonline.org> |
+| Avens Publishing Group | <https://www.avensonline.org> |
 | EuroSciCon | https://euroscicon.com |
 | Biocore Conferences | https://biocoreconferences.com |
 | BIT Congress | https://www.bitcongress.com |
