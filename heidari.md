@@ -4,7 +4,7 @@ title: "Friends of “Alireza Heidari”"
 permalink: /heidari/
 ---
 
-<img align="left" src="/assets/calsu-shirt.png">
+<img align="right" src="/assets/calsu-shirt.png">
 
 This is a list of journals, publishers, and conferences that list ["Prof. Alireza Heidari"](http://calsu.us/index.php/member/prof-dr-alireza-heidari/) of ["California South University"](http://calsu.us/) as their journal editorial board member, conference organizer, etc.
 
