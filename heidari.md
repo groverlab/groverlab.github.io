@@ -6,7 +6,9 @@ permalink: /heidari/
 
 <img align="left" src="/assets/calsu-shirt.png">
 
-This is a list of journals, publishers, and conferences that list ["Prof. Alireza Heidari"](http://calsu.us/index.php/member/prof-dr-alireza-heidari/) of ["California South University"](http://calsu.us/) as their journal editorial board member, conference organizer, etc.  Since "California South University" is [fake](https://groverlab.org/hnbfpr/2017-12-10-csu.html), any journal, publisher, or conference that associates itself with Heidari is clearly failing to screen their board members and is also likely [predatory](https://en.wikipedia.org/wiki/Predatory_publishing) (and may be complicit in the ["California South University" fraud](https://groverlab.org/hnbfpr/2017-12-10-csu.html)).
+This is a list of journals, publishers, and conferences that list ["Prof. Alireza Heidari"](http://calsu.us/index.php/member/prof-dr-alireza-heidari/) of ["California South University"](http://calsu.us/) as their journal editorial board member, conference organizer, etc.
+
+Since "California South University" is [fake](https://groverlab.org/hnbfpr/2017-12-10-csu.html), any journal, publisher, or conference that associates itself with Heidari is clearly failing to screen their board members and is also likely [predatory](https://en.wikipedia.org/wiki/Predatory_publishing) (and may be complicit in the ["California South University" fraud](https://groverlab.org/hnbfpr/2017-12-10-csu.html)).
 
 This list is maintained by [William Grover](https://groverlab.org/people/2016-01-01-wgrover.html).  Have you spotted California South University's Alireza Heidari somewhere that isn't shown here?  Share it with me (wgrover at engr dot ucr dot edu) and I'll add it to the list!
 
