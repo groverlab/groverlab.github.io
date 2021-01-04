@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Alireza Heidari" list
+title: Alireza Heidari list
 permalink: /heidari/
 ---
 
