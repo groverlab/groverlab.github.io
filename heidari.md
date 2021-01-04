@@ -4,7 +4,7 @@ title: Alireza Heidari list
 permalink: /heidari/
 ---
 
-This is a list of journals, publishers, and conferences that list "Alireza Heidari" as their journal editor, conference organizer, etc.  [Since Heidari and his university, California South University, are both fake](https://groverlab.org/hnbfpr/2017-12-10-csu.html), searching for him online is a convenient way to find journals, publishers, and conferences that are likely [predatory](https://en.wikipedia.org/wiki/Predatory_publishing) and may also be complicit in the "California South University" fraud.
+This is a list of journals, publishers, and conferences that list [Prof. Alireza Heidari](http://calsu.us/index.php/member/prof-dr-alireza-heidari/) as their journal editor, conference organizer, etc.  [Since Heidari's supposed institution, California South University, is fake](https://groverlab.org/hnbfpr/2017-12-10-csu.html), searching for him online is a convenient way to find journals, publishers, and conferences that are likely [predatory](https://en.wikipedia.org/wiki/Predatory_publishing) and may also be complicit in the "California South University" fraud.
 
 Last updated January 4, 2021.
 
