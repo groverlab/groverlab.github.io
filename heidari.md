@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Alireza Heidari list
+title: Friends of 'Alireza Heidari'
 permalink: /heidari/
 ---
 
