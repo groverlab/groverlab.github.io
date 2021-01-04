@@ -4,9 +4,9 @@ title: Alireza Heidari list
 permalink: /heidari/
 ---
 
-This is a list of journals, publishers, and conferences that list "Alireza Heidari" as their journal editor, conference organizer, etc.  [Since Heidari and his university, California South University, are both fake](https://groverlab.org/hnbfpr/2017-12-10-csu.html), one can reasonably assume that these journals, publishers, and conferences are predatory and may also be complicit in the "California South University" fraud.
+This is a list of journals, publishers, and conferences that list "Alireza Heidari" as their journal editor, conference organizer, etc.  [Since Heidari and his university, California South University, are both fake](https://groverlab.org/hnbfpr/2017-12-10-csu.html), searching for him online is a convenient way to find journals, publishers, and conferences that are likely [predatory](https://en.wikipedia.org/wiki/Predatory_publishing) and may also be complicit in the "California South University" fraud.
 
-Last updated January 4, 2021 by William Grover.
+Last updated January 4, 2021.
 
 | Journal, publisher, or conference name | URL |
 | --- | --- |
@@ -16,50 +16,49 @@ Last updated January 4, 2021 by William Grover.
 | Asploro Open Access Publications | <https://asploro.com> |
 | Auctores Publishing | <https://www.auctoresonline.org> |
 | Avens Publishing Group | <https://www.avensonline.org> |
-| EuroSciCon | https://euroscicon.com |
-| Biocore Conferences | https://biocoreconferences.com |
-| BIT Congress | https://www.bitcongress.com |
-|  | https://casereportsonline.com |
-|  | https://casereportsonline.com |
-|  | https://annualcongress.com |
-|  | https://www.caves.res.in |
-|  | https://www.chemijournal.com |
-|  | https://chemistry.scitechconferences.com |
-|  | https://clinmedjournals.org |
-|  | http://www.colossalfacet.com |
-|  | https://crimsonpublishers.com |
-|  | https://gavinconferences.com |
-|  | https://www.gavinpublishers.com |
-|  | https://gudapuris.com |
-|  | https://www.hilarispublisher.com |
-|  | https://www.ijpbs.net |
-|  | https://www.industryevents.com |
-|  | https://irjmets.com |
-|  | http://www.itspoa.com |
-|  | https://www.jaims.in |
-|  | https://www.jelsciences.com |
-|  | https://www.jmaterialscience.com |
-|  | https://www.jpharmacognosy.com |
-|  | http://jst.org.in |
-|  | https://www.longdom.org |
-|  | https://lupinepublishers.com |
-|  | http://medoa.uk |
-|  | https://medwinpublishers.com |
-|  | https://www.meetingsint.com |
-|  | http://www.oircjournals.org |
-|  | https://openaccesspub.org |
-|  | https://www.openjournalsnigeria.org.ng |
-|  | https://ospublishers.com |
-|  | https://www.pcigroup.uk |
-|  | https://www.rroij.com |
-|  | http://sciaeon.org |
-|  | https://scidoc.org |
-|  | http://scientificfuturegroup.org |
-|  | https://scientonline.org |
-|  | https://www.scireslit.com |
-|  | https://soaoj.com |
-|  | http://surgery.summitsglobal.com |
-|  | https://vividopenaccess.com |
-|  | https://wisdomconferences.com |
-|  | https://www.worldbiotechnologysummit.com |
+| EuroSciCon | <https://euroscicon.com>|
+| Biocore Conferences | <https://biocoreconferences.com>|
+| BIT Congress | <https://www.bitcongress.com>|
+| Journal of Clinical Case Reports Online | <https://casereportsonline.com>|
+| Conference Series LLC LTD | <https://annualcongress.com> <https://www.conferenceseries.com> |
+| National Cave Research and Protection Organization | <https://www.caves.res.in> |
+| International Journal of Chemical Studies | <https://www.chemijournal.com>|
+| International Conference on Chemistry & Chemical Engineering | <https://chemistry.scitechconferences.com>|
+| ClinMed International Library | <https://clinmedjournals.org> |
+| Colossal Facet Conferences | <http://www.colossalfacet.com>|
+| Crimson Publishers | <https://crimsonpublishers.com>|
+| Gavin Conferences | <https://gavinconferences.com>|
+| Gavin Publishers | <https://www.gavinpublishers.com>|
+| International Gazette Of Research and ePublishers / Gudapuris Group | <https://gudapuris.com>|
+| Hilaris Publisher | <https://www.hilarispublisher.com>|
+| International Journal of Pharma and Bio Sciences | <https://www.ijpbs.net> |
+| Industry Events | <https://www.industryevents.com>|
+| International Research Journal of Modernization in Engineering Technology and Science | <https://irjmets.com>|
+| ITS / International Technology and Science Publications | <http://www.itspoa.com>|
+| Journal of Ayurveda and Integrated Medical Sciences | <https://www.jaims.in> |
+| Journal of Biomedical Research and Environmental Sciences / SciRes Literature LLC | <https://www.jelsciences.com>|
+| Materials Science / Magnus Med Club Ltd.| <https://www.jmaterialscience.com>|
+| Pharmacognosy / Magnus Med Club Ltd. | <https://www.jpharmacognosy.com>|
+| Journal of Science & Technology / Longman Publishers | <http://jst.org.in> |
+| Longdom Publishing SL | <https://www.longdom.org> |
+| Lupine Publishers | <https://lupinepublishers.com>|
+| Med eDirect Open Access (MeDOA) | <http://medoa.uk> |
+| MedWin Publishers | <https://medwinpublishers.com>|
+| Meetings International | <https://www.meetingsint.com>|
+| Oasis International Resource Centre (OIRC Journals) | <http://www.oircjournals.org> |
+| Open Access Pub | <https://openaccesspub.org> |
+| Open Journals Nigeria (OJN) | <https://www.openjournalsnigeria.org.ng> |
+| Open Scientific Publishers (OSP) | <https://ospublishers.com>|
+| Pragmatic Conclave International (PCI) / Meticulous Conferences / Axiomatic International | <https://www.pcigroup.uk> <https://meticulousconferences.uk/> <https://axiomaticinternational.uk/> |
+| Research and Reviews International Journals | <https://www.rroij.com>|
+| SCIAEON | <http://sciaeon.org> |
+| SciDoc Publishers | <https://scidoc.org> |
+| Scientific Future Group | <http://scientificfuturegroup.org> |
+| Scient Open Access | <https://scientonline.org> |
+| SciRes Literature LLC | <https://www.scireslit.com>|
+| S Open access Open journals (SOAOJ Publishing) | <https://soaoj.com>|
+| International Congress on Surgery and Anaesthesia | <http://surgery.summitsglobal.com>|
+| Vivid Open Access | <https://vividopenaccess.com>|
+| Wisdom Conferences | <https://wisdomconferences.com>|
+| World Biotechnology Summit | <https://www.worldbiotechnologysummit.com>|
 
