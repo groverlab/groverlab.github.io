@@ -52,6 +52,7 @@ This list is maintained by [William Grover](https://groverlab.org/people/2016-01
 | Longdom Publishing SL | <https://www.longdom.org> |
 | Lupine Publishers | <https://lupinepublishers.com>|
 | Med eDirect Open Access (MeDOA) | <http://medoa.uk> |
+| MedCrave Group Kft | <https://medcraveonline.com> |
 | MedWin Publishers | <https://medwinpublishers.com>|
 | Meetings International | <https://www.meetingsint.com>|
 | Oasis International Resource Centre (OIRC Journals) | <http://www.oircjournals.org> |
