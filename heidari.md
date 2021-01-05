@@ -24,6 +24,7 @@ This list is maintained by [William Grover](https://groverlab.org/people/2016-01
 | American Journal of Innovative Research & Applied Sciences  | <https://american-jiras.com> |
 | Asploro Open Access Publications | <https://asploro.com> |
 | Auctores Publishing | <https://www.auctoresonline.org> |
+| Austin Publishing Group | <https://austinpublishinggroup.com> |
 | Avens Publishing Group | <https://www.avensonline.org> |
 | EuroSciCon | <https://euroscicon.com>|
 | Biocore Conferences | <https://biocoreconferences.com>|
