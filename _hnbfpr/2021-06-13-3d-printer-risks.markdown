@@ -43,7 +43,7 @@ Second, if you already have a resin-based 3D printer, make sure you're using it 
 Finally, anyone in the market for a 3D printer should purchase the least toxic type of 3D printer that's suitable for their needs.  For hobbyists at home, a filament-based 3D printer is far safer and more convenient than a resin-based printer.  Schools, libraries, makerspaces, and other purchasers of 3D printers should likewise avoid resin-based printers unless they are confident that they have the safety training and infrastructure needed to use these printers and dispose of their waste properly.
 
 
-
+<div align="right"><a href="http://groverlab.org">William H. Grover</a></div>
 
 
 
