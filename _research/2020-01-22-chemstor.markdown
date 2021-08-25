@@ -4,7 +4,7 @@ title:  "ChemStor: Using Formal Methods To Guarantee Safe Storage and Disposal o
 doi:  "10.1021/acs.jcim.9b00951"
 ---
 
-Jason Ott, Daniel Tan, Tyson Loveless, William H. Grover, and Philip Brisk, [*Journal of Chemical Information and Modeling*  (in press)](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00951).
+Jason Ott, Daniel Tan, Tyson Loveless, William H. Grover, and Philip Brisk, [*Journal of Chemical Information and Modeling*  **60** (7), 3416-3422 (2020)](https://pubs.acs.org/doi/10.1021/acs.jcim.9b00951).
 
 <img src="/assets/chemstor.jpeg">
 
