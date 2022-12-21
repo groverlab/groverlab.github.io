@@ -1,0 +1,10 @@
+---
+layout: post
+name:  "Zinal Patel"
+picture: "zinal.jpg"
+role: "Current"
+---
+Zinal is an undergraduate student pursuing a B.S. in Bioengineering with a minor in Computer Science at the University of California, Riverside. Her current research interests are to design microfluidic devices that control soft robots and their related systems. She hopes to continue expanding her research in microfluidics to create tools for laboratory and medical applications.
+<br>
+<br>
+<br>

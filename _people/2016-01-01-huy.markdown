@@ -1,0 +1,10 @@
+---
+layout: post
+name:  "Huy Tran"
+picture: "huy.jpg"
+role: "Current"
+---
+Huy is an undergraduate student in the Department of Bioengineering at the University of California, Riverside. His current involvement in the Grover Lab has been designing, fabricating, and testing microfluidic devices that contribute to the control and function of soft robots. Additionally, he is interested in three other areas of microfluidics: organ-on-a chip, flow chemistry, and acoustofluidics. In the very distant future, he hopes to be a Professor of Bioengineering and perform his own research in one or all of his interested areas of microfluidics.
+<br>
+<br>
+<br>
