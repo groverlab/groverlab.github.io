@@ -5,3 +5,6 @@ picture: "sam.jpg"
 role: "Current"
 ---
 Sam is a Ph.D. student in the Department of Bioengineering at UC Riverside. She received her B.S. in Biomedical Engineering at UC Riverside in XXXX.  In the Grover Lab, Sam is developing microfluidic tools for accelerating the development of new pharmaceuticals.
+<br>
+<br>
+<br>
