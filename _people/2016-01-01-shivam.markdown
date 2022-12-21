@@ -2,7 +2,7 @@
 layout: post
 name:  "Shivam Kardani"
 picture: "shivam.jpg"
-role: "Current"
+role: "Alumni"
 ---
 Shivam is an undergraduate student in the Department of Bioengineering at the University of California, Riverside. His current research interests in the Grover Lab are to create and use microfluidic devices to characterize both organic and inorganic substances.
 <br>

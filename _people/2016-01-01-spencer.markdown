@@ -2,7 +2,7 @@
 layout: post
 name:  "Spencer Pak"
 picture: "spencer.jpg"
-role: "Current"
+role: "Alumni"
 ---
 Spencer Pak is an undergraduate student pursuing a degree in Bioengineering at the University of California, Riverside. His current research interests are to create low cost sensors that perform as effectively as current technologies typically used in laboratories.
 <br>
