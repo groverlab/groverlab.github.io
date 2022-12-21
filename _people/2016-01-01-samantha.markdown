@@ -1,6 +1,6 @@
 ---
 layout: post
-name:  "Samantha Robertson"
+name:  "Samantha Robinson"
 picture: "sam.jpg"
 role: "Current"
 ---
