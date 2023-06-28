@@ -4,7 +4,7 @@ title:  "Multi-objective design automation for microfluidic capture chips"
 doi:  "10.1109/TNB.2022.3212625"
 ---
 
-Lisa Chen, William H. Grover, Manu Sridharan, and Philip Brisk, [*IEEE Transactions on NanoBioscience* (2022)](https://ieeexplore.ieee.org/document/9912457).  [PDF](assets/multi-objective-design-automation.pdf)
+Lisa Chen, William H. Grover, Manu Sridharan, and Philip Brisk, [*IEEE Transactions on NanoBioscience* (2022)](https://ieeexplore.ieee.org/document/9912457).  [PDF](/assets/multi-objective-design-automation.pdf)
 
 <img src="/assets/multi-objective-design-automation.png">
 
