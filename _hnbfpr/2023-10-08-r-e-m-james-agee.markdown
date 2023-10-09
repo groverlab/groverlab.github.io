@@ -32,7 +32,7 @@ The Metro Pulse said that the show would be November 8, 1995, in UT's Thompson-B
 
 When the day before the ticket sale came, I finished dinner and headed down to Cat's.  I brought a blanket and a pillow and *A Death in the Family* to read while I waited.  I claimed a spot on the grimy Cumberland sidewalk---third in line---and settled in for the night.  It was a terrible sleepless night, and when the sun finally rose and the Cat’s employee unlocked the door, I shuffled inside half-dead and stumbled to the cash register.  I remember that the cashier was a little surprised that I'd gone to the trouble of camping out, only to purchase a ticket in the "cheap seats" instead of the more-expensive front-row seats that the other campers were buying.
 
-My next memory was me tumbling into my bed in Hess Hall, my ticket safe in my pocket.
+My next memory was me tumbling into my bed in Hess Hall.
 
 <p style="text-align: center;">* * *</p>
 
