@@ -52,7 +52,7 @@ She looked under the counter.  "Nope, no library books here," she said.
 
 I walked up and down the block a few more times, and searched the adjoining alleys too.  No luck.  Hodges Library’s copy of "A Death in the Family" was gone.  I’d lost Agee’s book just a couple blocks from where he grew up, where the scenes in the book really occurred, where he and his mother and father had spent those evenings lying, on quilts, in the grass.
 
-# Four
+<p style="text-align: center;">* * *</p>
 
 “How much would it cost replace a book I might have lost?” I asked the librarian at the Hodges check-out desk a few days later.
 
@@ -76,7 +76,7 @@ This was so much more than my R.E.M. ticket had cost.  This was even more than t
 
 This gave me some hope.  I enjoyed going to Knoxville’s used book shops and antique stores.  Surely I could find a hardcover copy of Agee’s book in his hometown for less than $125.
 
-# Five
+<p style="text-align: center;">* * *</p>
 
 The next weekend I logged into the library’s website and viewed my account.  It showed one book still checked out.  *A Death in the Family* hadn’t been returned.
 
@@ -92,7 +92,7 @@ While I searched, I kept renewing the book loan on the library website, delaying
 
 I wasn't going to be able to find a replacement copy of Agee's book.
 
-# Six
+<p style="text-align: center;">* * *</p>
 
 Finally, November 8 came, the night of the R.E.M. show.  I went to Thompson-Boling Arena a little sad.  This concert and the lost library book were inseparably linked now; I wasn’t sure if I could enjoy the former without thinking about the latter.
 
@@ -120,7 +120,7 @@ Many songs later, after the traditional "End of the World as We Know It (And I F
 
 Agee’s book deserved to be replaced. 
 
-# Seven
+<p style="text-align: center;">* * *</p>
 
 The next morning I walked the short distance to Hodges Library and got in the check-out line.  Soon it was my turn at the desk.  I placed my ID card on the counter.
 
@@ -141,6 +141,8 @@ She leaned closer to the screen.  “It looks like it was returned to the librar
 “Nope,” she said, “no loans, nothing checked out, you’re all good.”  She glanced at the line behind me.  “Is there anything else I can do for you?”
 
 “No,” I said, “no, I’m all good,” and I walked back to my dorm room.
+
+<p style="text-align: center;">* * *</p>
 
 A decade later, while I was completing my [Ph.D. thesis](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=db7a82a1d9fe1ab04d4b7903e813f703fe9ae86d) in Berkeley, California, I wanted to include a quote in the beginning that captured the complex mix of feelings that filled my head at that moment.  Naturally, I chose a quote that Michael Stipe and I both had a bit of history with:
 
