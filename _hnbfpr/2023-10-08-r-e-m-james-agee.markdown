@@ -90,7 +90,7 @@ For several weeks I repeated my search, casting a wider net, looking up antique 
 
 Along the way, I found a few other books by (or about) James Agee, and I bought some of them---a paperback of his film scripts, another of his movie reviews, a slim book of his correspondence with a beloved teacher from his youth, a biography---none of them more than a couple dollars each.  I read these and got to know this brilliant and flawed Knoxvillian who went on to Harvard and New York and Hollywood and worked and smoked and drank himself to death at just 45, leaving behind so much beauty but even more unfulfilled potential.
 
-While I searched, I kept renewing the book loan on the library website, delaying the inevitable by a couple weeks each time.  But as time went by, I began to realize that hardcover copies of *A Death in the Family* were a lot rarer than I expected.  And this was before eBay made it possible to buy used books from people on the other side of the planet.
+While I searched, I kept renewing the book loan on the library website, each time delaying the inevitable by a couple weeks.  But as the weeks went by, I began to realize that hardcover copies of *A Death in the Family* were a lot rarer than I expected.  And this was before eBay made it routine to buy used books from people on the other side of the planet.
 
 I wasn't going to be able to find a replacement copy of Agee's book.
 
