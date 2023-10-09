@@ -38,7 +38,7 @@ My next memory was me tumbling into my bed in Hess Hall.
 
 *"Where’s the book?"*
 
-I woke up in a panic.  I looked all around my tiny dorm room, but it wasn’t there.  I retraced my steps in my mind.  I had it on Cumberland, but I didn’t remember bringing it inside Cat’s, and it wasn't here.
+I woke up midday in a panic.  I looked all around my tiny dorm room, but it wasn’t there.  I retraced my steps in my mind.  I had it on Cumberland, but I didn’t remember bringing it inside Cat’s, and it wasn't here.
 
 I must have left it on the sidewalk.
 
