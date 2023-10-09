@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Perfect Circle"
+title:  "The R.E.M. and James Agee story"
 date:   2023-10-08 01:00:00 -0800
 ---
 
 <img src="/assets/rem.jpg"> 
 
-*...or, "the James Agee and R.E.M. story," a true short story from my undergrad days at the University of Tennessee, Knoxville.*
+*A true story from my undergrad days at the University of Tennessee, Knoxville.*
 
 <p style="text-align: center;">* * *</p>
 
