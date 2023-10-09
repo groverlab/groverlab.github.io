@@ -8,8 +8,7 @@ date:   2023-10-08 01:00:00 -0800
 
 *...or, "the James Agee and R.E.M. story," a true short story from my undergrad days at the University of Tennessee, Knoxville.*
 
-<hr>
-<br>
+<p style="text-align: center;">* * *</p>
 
 Back in college I considered myself an amateur Knoxville history buff, so it wasn’t long before I learned about James Agee.  Agee was the greatest writer to come out of Knoxville until Cormac McCarthy gained fame; both are solidly in the pantheon of great American writers.  Agee's most famous work, *A Death in the Family*, was published after his death and earned him a posthumous Pulitzer Prize.  Set in Knoxville in 1915, it tells the story of a boy whose father was killed in a car crash.  The book was based on events in Agee's own childhood in Knoxville, including his own father’s death when Agee was six.
 
@@ -25,8 +24,7 @@ I saw myself in that line.  I was a sophomore in college, trying to become my ad
 
 It was such a poignant scene, so familiar and true.
 
-<hr>
-<br>
+<p style="text-align: center;">* * *</p>
 
 It was about this time that word came out in the Metro Pulse that R.E.M. was coming to Knoxville.  Does everyone have a particular musical act that just speaks to them, like the band was writing the songs and lyrics just for them?  That's R.E.M. for me.
 
@@ -36,7 +34,7 @@ When the ticket sale day came, I finished dinner and headed for Cat's.  I brough
 
 My next memory was tumbling into my bed in Hess Hall, my ticket safe in my pocket.
 
-# Three
+<p style="text-align: center;">* * *</p>
 
 *"Where’s the book?"*
 
