@@ -10,9 +10,9 @@ date:   2023-10-08 01:00:00 -0800
 
 <p style="text-align: center;">* * *</p>
 
-Back in college I considered myself an amateur Knoxville history buff, so it wasn’t long before I learned about James Agee.  Agee was the greatest writer to come out of Knoxville until Cormac McCarthy gained fame; both are solidly in the pantheon of great American writers.  Agee's most famous work, *A Death in the Family*, was published after his death and earned him a posthumous Pulitzer Prize.  Set in Knoxville in 1915, it tells the story of a boy whose father was killed in a car crash.  The book was based on events in Agee's own childhood in Knoxville, including his own father’s death when Agee was six.
+Back in college I considered myself an amateur Knoxville historian, so it wasn’t long before I learned about James Agee.  Agee was considered Knoxville's greatest writer until he was eclipsed---only barely---by Cormac McCarthy's rising star.  Agee's most famous work, *A Death in the Family*, was published after his death and earned him a posthumous Pulitzer Prize.  Set in Knoxville in 1915, it tells the story of a boy whose father was killed in a car crash.  The book was based on events in Agee's own childhood in Knoxville, including his father’s death when Agee was only six.
 
-One day in 1995 I went to Hodges Library and checked out the library's old hardcover copy of *A Death in the Family* and started reading it over dinner at Sophie’s cafeteria.  I remember reacting to the first line of the poem that opens the book:
+One day in 1995 I went to Hodges Library and checked out the library's old hardcover copy of *A Death in the Family* and started reading it over dinner at Sophie’s cafeteria.  I remember reading the first line of the poem that opens the book:
 
 > *"We are talking now of summer evenings in Knoxville, Tennessee, in the time I lived there so successfully disguised to myself as a child."*
 
