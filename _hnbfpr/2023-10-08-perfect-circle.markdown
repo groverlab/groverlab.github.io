@@ -9,6 +9,7 @@ date:   2023-10-08 01:00:00 -0800
 ...or, "the James Agee and R.E.M. story," a true short story from my undergrad days at the University of Tennessee, Knoxville.   
 
 ***
+<br />
 
 Back in college I considered myself an amateur Knoxville history buff, so it wasn’t long before I learned about James Agee.  Agee was the greatest writer to come out of Knoxville until Cormac McCarthy gained fame; both are solidly in the pantheon of great American writers.  Agee's most famous work, *A Death in the Family*, was published after his death and earned him a posthumous Pulitzer Prize.  Set in Knoxville in 1915, it tells the story of a boy whose father was killed in a car crash.  The book was based on events in Agee's own childhood in Knoxville, including his own father’s death when Agee was six.
 
@@ -18,13 +19,14 @@ One day in 1995 I went to Hodges Library and checked out the library's old hardc
 
 <!--more-->
 
-I saw myself in that line.  I was a sophomore in college, trying to become my adult self, exploring parts of me that I’d tried to disguise as a child.  In Agee's memories of his own childhood, I saw reflections of my own.  Not in the tragedy that comes later in the book, thankfully, but in the precocious and observant boy seeing and feeling so much beauty and sadness in absolutely everything, from the sound of a chorus of locusts to the shape of the water flowing from a garden hose.  Toward the end of the poem, Agee describes lying in his backyard with his family:
+I saw myself in that line.  I was a sophomore in college, trying to become my adult self, embracing things I’d tried to disguise as a child.  In Agee's memories of his own childhood, I saw reflections of my own.  Not in the tragedy that comes later in the book, thankfully, but in the precocious and observant boy seeing and feeling so much beauty and sadness in absolutely everything, from the sound of a chorus of locusts to the shape of the water flowing from a garden hose.  Toward the end of the poem, Agee describes lying in his backyard with his family:
 
 > *"One is my mother who is good to me. One is my father who is good to me. By some chance, here they are, all on this earth; and who shall ever tell the sorrow of being on this earth, lying, on quilts, on the grass, in a summer evening, among the sounds of night."*
 
 It was such a poignant scene, so familiar and true.
 
 ***
+<br />
 
 It was about this time that word came out in the Metro Pulse that R.E.M. was coming to Knoxville.  Does everyone have a particular musical act that just speaks to them, like the band was writing the songs and lyrics just for them?  That's R.E.M. for me.
 
