@@ -6,9 +6,9 @@ date:   2023-10-08 01:00:00 -0800
 
 <img src="/assets/rem.jpg"> 
 
-...or, "the James Agee and R.E.M. story," a true short story from my undergrad days at the University of Tennessee, Knoxville.   
+*...or, "the James Agee and R.E.M. story," a true short story from my undergrad days at the University of Tennessee, Knoxville.*
 
-# One
+<hr>
 
 Back in college I considered myself an amateur Knoxville history buff, so it wasn’t long before I learned about James Agee.  Agee was the greatest writer to come out of Knoxville until Cormac McCarthy gained fame; both are solidly in the pantheon of great American writers.  Agee's most famous work, *A Death in the Family*, was published after his death and earned him a posthumous Pulitzer Prize.  Set in Knoxville in 1915, it tells the story of a boy whose father was killed in a car crash.  The book was based on events in Agee's own childhood in Knoxville, including his own father’s death when Agee was six.
 
@@ -24,7 +24,7 @@ I saw myself in that line.  I was a sophomore in college, trying to become my ad
 
 It was such a poignant scene, so familiar and true.
 
-# Two
+<hr>
 
 It was about this time that word came out in the Metro Pulse that R.E.M. was coming to Knoxville.  Does everyone have a particular musical act that just speaks to them, like the band was writing the songs and lyrics just for them?  That's R.E.M. for me.
 
@@ -142,7 +142,7 @@ She leaned closer to the screen.  “It looks like it was returned to the librar
 
 “No,” I said, “no, I’m all good,” and I walked back to my dorm room.
 
-A decade later, when I was completing my Ph.D. thesis in Berkeley, California, I wanted to include a quote in the beginning that captured the complex mix of feelings that filled my head at that moment.  Naturally, I chose a quote that Michael Stipe and I both had a bit of history with:
+A decade later, while I was completing my [Ph.D. thesis](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=db7a82a1d9fe1ab04d4b7903e813f703fe9ae86d) in Berkeley, California, I wanted to include a quote in the beginning that captured the complex mix of feelings that filled my head at that moment.  Naturally, I chose a quote that Michael Stipe and I both had a bit of history with:
 
 > *"By some chance, here they are, all on this earth; and who shall ever tell the sorrow of being on this earth, lying, on quilts, on the grass, in a summer evening, among the sounds of the night."*
 
