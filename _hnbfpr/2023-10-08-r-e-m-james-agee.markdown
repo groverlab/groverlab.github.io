@@ -116,9 +116,9 @@ By the time I recovered from the shock, Stipe was concluding,
 
 > *"...and who shall ever tell the sorrow of being on this earth, lying, on quilts, on the grass, in a summer evening, among the sounds of night."*
 
-Many songs later, after the traditional "End of the World as We Know It (And I Feel Fine)" finale, I walked back to my room in Hess Hall completely elated.  And I knew that it was time to settle my debt with the library.
+Many songs later, after the traditional "End of the World as We Know It (And I Feel Fine)" finale, I walked back to my room in Hess Hall completely ecstatic.  And I knew that it was time to settle my debt with the library.
 
-Agee’s book deserved to be replaced. 
+Agee's book deserved to be replaced. 
 
 <p style="text-align: center;">* * *</p>
 
@@ -128,7 +128,7 @@ The next morning I walked the short distance to Hodges Library and got in the ch
 
 The librarian scanned my card with her laser gun and looked at her computer screen.  “What book?”
 
-“James Agee,” I said, *A Death in the Family.*  Hardcover, I said to myself.  Special library binding.  I felt for my wallet which I knew did not contain a hundred twenty-five dollars.
+“James Agee,” I said, "*A Death in the Family.*"  *Hardcover*, I said to myself.  *Special library binding*.  I felt for my wallet which I knew did not contain a hundred twenty-five dollars.
 
 “That book was returned,” said the librarian.
 
