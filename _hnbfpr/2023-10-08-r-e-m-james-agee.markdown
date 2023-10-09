@@ -144,9 +144,11 @@ She leaned closer to the screen.  “It looks like it was returned to the librar
 
 <p style="text-align: center;">* * *</p>
 
-A decade later, while I was completing my [Ph.D. thesis](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=db7a82a1d9fe1ab04d4b7903e813f703fe9ae86d) in Berkeley, I wanted to include a quotation in the beginning of my thesis that captured the complex mix of feelings that filled my head at that moment.  I chose a quote that Michael Stipe and I both had a little history with:
+A decade later, while I was completing my [Ph.D. thesis](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=db7a82a1d9fe1ab04d4b7903e813f703fe9ae86d) in Berkeley, I wanted to include a quotation in the beginning of my thesis that captured the complex mix of feelings that filled my head at that moment.  I chose a quote that Michael Stipe and I both have a little history with:
 
 > *"By some chance, here they are, all on this earth; and who shall ever tell the sorrow of being on this earth, lying, on quilts, on the grass, in a summer evening, among the sounds of the night."*
+
+<div align="right">---William H. Grover</div>
 
 
 
