@@ -141,7 +141,7 @@ She leaned closer to the screen.  “It looks like it was returned to the librar
 
 “No,” I said, “no, I’m all good,” and I walked back to my dorm room.
 
->>>
+---
 
 A decade later, when I was completing my Ph.D. thesis in Berkeley, California, I wanted to include a quote in the beginning that captured the complex mix of feelings that filled my head at that moment.  Naturally, I chose a quote that Michael Stipe and I both had a bit of history with:
 
