@@ -10,20 +10,24 @@ date:   2023-10-08 01:00:00 -0800
 ...or, "the James Agee and R.E.M. story," a true short story from my undergrad days at the University of Tennessee, Knoxville.  
 
 ---
+<br>
 
 Back in college I considered myself an amateur Knoxville history buff, so it wasn’t long before I learned about James Agee.  Agee was the greatest writer to come out of Knoxville until Cormac McCarthy gained fame; both are solidly in the pantheon of great American writers.  Agee's most famous work, *A Death in the Family*, was published after his death and earned him a posthumous Pulitzer Prize.  Set in Knoxville in 1915, it tells the story of a boy whose father was killed in a car crash.  The book was based on events in Agee's own childhood in Knoxville, including his own father’s death when Agee was six.
 
 One day in 1995 I went to Hodges Library and checked out the library's old hardcover copy of *A Death in the Family* and started reading it over dinner at Sophie’s cafeteria.  I remember reacting to the first line of the poem that opens the book:
 
-> *We are talking now of summer evenings in Knoxville, Tennessee, in the time I lived there so successfully disguised to myself as a child.*
+> *"We are talking now of summer evenings in Knoxville, Tennessee, in the time I lived there so successfully disguised to myself as a child."*
+
+<!--more-->
 
 I saw myself in that line.  I was a sophomore in college, trying to become my adult self, exploring parts of me that I’d tried to disguise as a child.  In Agee's memories of his own childhood, I saw reflections of my own.  Not in the tragedy that comes later in the book, thankfully, but in the precocious and observant boy seeing and feeling so much beauty and sadness in absolutely everything, from the sound of a chorus of locusts to the shape of the water flowing from a garden hose.  Toward the end of the poem, Agee describes lying in his backyard with his family:
 
-> *One is my mother who is good to me. One is my father who is good to me. By some chance, here they are, all on this earth; and who shall ever tell the sorrow of being on this earth, lying, on quilts, on the grass, in a summer evening, among the sounds of night.*
+> *"One is my mother who is good to me. One is my father who is good to me. By some chance, here they are, all on this earth; and who shall ever tell the sorrow of being on this earth, lying, on quilts, on the grass, in a summer evening, among the sounds of night."*
 
 It was such a poignant scene, so familiar and true.
 
 ---
+<br>
 
 It was about this time that word came out in the Metro Pulse that R.E.M. was coming to Knoxville.  Does everyone have a particular musical act that just speaks to them, like the band was writing the songs and lyrics just for them?  That's R.E.M. for me.
 
@@ -34,6 +38,7 @@ When the ticket sale day came, I finished dinner and headed for Cat's.  I brough
 My next memory was tumbling into my bed in Hess Hall, my ticket safe in my pocket.
 
 ---
+<br>
 
 *"Where’s the book?"*
 
@@ -52,6 +57,7 @@ She looked under the counter.  "Nope, no library books here," she said.
 I walked up and down the block a few more times, and searched the adjoining alleys too.  No luck.  Hodges Library’s copy of "A Death in the Family" was gone.  I’d lost Agee’s book just a couple blocks from where he grew up, where the scenes in the book really occurred, where he and his mother and father had spent those evenings lying, on quilts, in the grass.
 
 ---
+<br>
 
 “How much would it cost replace a book I might have lost?” I asked the librarian at the Hodges check-out desk a few days later.
 
@@ -76,6 +82,7 @@ This was so much more than my R.E.M. ticket had cost.  This was even more than t
 This gave me some hope.  I enjoyed going to Knoxville’s used book shops and antique stores.  Surely I could find a hardcover copy of Agee’s book in his hometown for less than $125.
 
 ---
+<br>
 
 The next weekend I logged into the library’s website and viewed my account.  It showed one book still checked out.  *A Death in the Family* hadn’t been returned.
 
@@ -92,6 +99,7 @@ While I searched, I kept renewing the book loan on the library website, delaying
 I wasn't going to be able to find a replacement copy of Agee's book.
 
 ---
+<br>
 
 Finally, November 8 came, the night of the R.E.M. show.  I went to Thompson-Boling Arena a little sad.  This concert and the lost library book were inseparably linked now; I wasn’t sure if I could enjoy the former without thinking about the latter.
 
@@ -105,7 +113,7 @@ The crowd was still loud, and no one could hear what Stipe was reading.  After a
 
 The crowd heard that.  And once they grew quiet, Stipe resumed his reading:
 
-> *We are talking now of summer evenings in Knoxville, Tennessee, in the time I lived there so successfully disguised to myself as a child...*
+> *"We are talking now of summer evenings in Knoxville, Tennessee, in the time I lived there so successfully disguised to myself as a child..."*
 
 These words that had meant so much to me when I first read them a few weeks earlier, words from the book I lost trying to get tickets to see this show, now read aloud by Michael Stipe in front of thousands of confused fans just a couple blocks from where James Agee had lived these words 80 years earlier.
 
@@ -113,13 +121,14 @@ It was, to borrow a title from R.E.M., a Perfect Circle.
 
 By the time I recovered from the shock, Stipe was concluding,
 
-> *...and who shall ever tell the sorrow of being on this earth, lying, on quilts, on the grass, in a summer evening, among the sounds of night.*
+> *"...and who shall ever tell the sorrow of being on this earth, lying, on quilts, on the grass, in a summer evening, among the sounds of night."*
 
 Many songs later, after the traditional "End of the World as We Know It (And I Feel Fine)" finale, I walked back to my room in Hess Hall completely elated.  And I knew that it was time to settle my debt with the library.
 
 Agee’s book deserved to be replaced. 
 
 ---
+<br>
 
 The next morning I walked the short distance to Hodges Library and got in the check-out line.  Soon it was my turn at the desk.  I placed my ID card on the counter.
 
@@ -142,10 +151,11 @@ She leaned closer to the screen.  “It looks like it was returned to the librar
 “No,” I said, “no, I’m all good,” and I walked back to my dorm room.
 
 ---
+<br>
 
 A decade later, when I was completing my Ph.D. thesis in Berkeley, California, I wanted to include a quote in the beginning that captured the complex mix of feelings that filled my head at that moment.  Naturally, I chose a quote that Michael Stipe and I both had a bit of history with:
 
-> *By some chance, here they are, all on this earth; and who shall ever tell the sorrow of being on this earth, lying, on quilts, on the grass, in a summer evening, among the sounds of the night.*
+> *"By some chance, here they are, all on this earth; and who shall ever tell the sorrow of being on this earth, lying, on quilts, on the grass, in a summer evening, among the sounds of the night."*
 
 
 
