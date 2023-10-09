@@ -22,7 +22,7 @@ I could see myself in that poem.  I was a sophomore in college, trying to become
 
 > *"One is my mother who is good to me. One is my father who is good to me. By some chance, here they are, all on this earth; and who shall ever tell the sorrow of being on this earth, lying, on quilts, on the grass, in a summer evening, among the sounds of night."*
 
-It was such a poignant scene, so familiar and Southern and ephemeral and *true*.
+It was such a poignant scene, so familiar, so ephemeral, so visceral that you can feel and hear and smell it, so authentically Southern, and so *true*.
 
 <p style="text-align: center;">* * *</p>
 
