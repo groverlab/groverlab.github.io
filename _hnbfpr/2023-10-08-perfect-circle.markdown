@@ -8,6 +8,7 @@ date:   2023-10-08 01:00:00 -0800
 
 ...or, "the James Agee and R.E.M. story," a true short story from my undergrad days at the University of Tennessee, Knoxville.   
 
+<br />
 ***
 <br />
 
@@ -25,6 +26,7 @@ I saw myself in that line.  I was a sophomore in college, trying to become my ad
 
 It was such a poignant scene, so familiar and true.
 
+<br />
 ***
 <br />
 
