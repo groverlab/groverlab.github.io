@@ -2,9 +2,9 @@
 layout: post
 name:  "Heran Bhakta"
 picture: "heran.jpg"
-role: "Current"
+role: "Alumni"
 ---
-Heran is a PhD student in the Department of Bioengineering at UC Riverside.
+Heran obtained his Ph.D. in Bioenginering in the Grover Lab.
 <br>
 <br>
 <br>

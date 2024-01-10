@@ -2,9 +2,12 @@
 layout: post
 name:  "Miles Uribe"
 picture: "miles.jpg"
-role: "Current"
+role: "Alumni"
 ---
-Miles is an undergraduate student pursuing a B.S. in Bioengineering at the University of California, Riverside. He is developing stored programs for valve-based pneumatic logic circuits.
+Miles was an undergraduate student pursuing a B.S. in Bioengineering at the University of California, Riverside. He developed stored programs for valve-based pneumatic logic circuits.
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
