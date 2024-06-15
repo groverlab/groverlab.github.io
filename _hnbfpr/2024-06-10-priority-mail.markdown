@@ -32,9 +32,7 @@ Probably the most dense substance that normal people can own is **tungsten**, a 
 
 So that's the answer to my question.  *Is there anything that you could put in a small Priority Mail box that would exceed the maximum weight of 70 pounds?*  **No**.  If you want to use a small Priority Mail box to send someone a Taylor-Swift-legs-worth of osmium, go right ahead, the Postal Service won't argue with you.
 
-Well, that's not strictly true.
-
-Neutron stars have a density of about 3.7 x 10^20 grams per cubic centimeter.  A small Priority Mail box filled with neutron star matter would weigh about 4.6 x 10^20 kilograms, or about the same as [Tethys](https://en.wikipedia.org/wiki/Tethys_(moon)), Saturn's 660-mile-wide moon.  And that would *most definitely* exceed the 70-pound weight limit for Priority Mail.
+Well, maybe you *can* exceed the weight limit of the small Priority Mail box, but you'll have to leave the solar system to do it.  The closest neutron star is about 400 light years away, and it has a density of about 3.7 x 10^20 grams per cubic centimeter.  A small Priority Mail box filled with neutron star matter would weigh about 4.6 x 10^20 kilograms, or about the same as [Tethys](https://en.wikipedia.org/wiki/Tethys_(moon)), Saturn's 660-mile-wide moon.  And that would *most definitely* exceed the 70-pound weight limit for Priority Mail.
 
 So if you're mailing a neutron star, use FedEx.
 
