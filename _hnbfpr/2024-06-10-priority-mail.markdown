@@ -6,7 +6,7 @@ date:   2024-06-10 01:00:00 -0800
 
 <img src="/assets/priority-mail-boxes.jpg">
 
-My oldest son's running a business selling [custom Lego sets](https://brickmoose.com), and he ships the sets using the post office's Priority Mail service.  On the off chance that you've never used it before, [Priority Mail](https://www.usps.com/ship/priority-mail.htm) uses four different standard boxes, each with a different size and shape.
+My oldest son makes [custom Lego sets](https://brickmoose.com), and he ships the sets using the Post Office's Priority Mail service.  On the off chance that you've never used it before, [Priority Mail](https://www.usps.com/ship/priority-mail.htm) uses four different standard boxes, each with a different size and shape.
 
 Not surprisingly, the four boxes have different shipping prices, with the smallest one the cheapest at $10 and the largest one the most expensive at $25.  But perhaps more interestingly, the four boxes all have the same maximum weight:  70 pounds.
 
