@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  '"Air-powered logic circuits for error detection in pneumatic systems'
+title:  'Air-powered logic circuits for error detection in pneumatic systems'
 date:   2024-08-12 01:00:00 -0800
 categories: news
 ---
