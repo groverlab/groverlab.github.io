@@ -1,0 +1,10 @@
+---
+layout: post
+title:  'Controlling biomedical devices using pneumatic logic'
+date:   2024-10-08 01:00:00 -0800
+categories: news
+---
+
+![](/assets/rocker.jpg) [PDF](/assets/rocker.pdf)
+
+Shane Hoang's work on using pneumatic logic to control biomedical devices (like the laboratory blood shaker/rocker shown here) was [published in *Annals of Biomedical Engineering*](https://link.springer.com/article/10.1007/s10439-024-03628-4)!  Special thanks to our coauthors Mabel Shehada, Konstantinos Karydis, and Philip Brisk.

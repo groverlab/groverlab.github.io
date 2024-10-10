@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Controlling biomedical devices using pneumatic logic"
+doi:  "10.1007/s10439-024-03628-4"
+---
+
+Shane Hoang, Mabel Shehada, Konstantinos Karydis, Philip Brisk, and William H. Grover, [*Annals of Biomedical Engineering* advance article (2024)](https://www.sciencedirect.com/science/article/pii/S2666998624004071).
+
+<img src="/assets/rocker.jpg">
+
+Many biomedical devices are powered and controlled by electrical components. These electronics add to the cost of a device (possibly making the device too expensive for use in resource-limited or point-of-care settings) and can also render the device unsuitable for use in some environments (for example, high-humidity areas such as incubators where condensation could cause electrical short circuits, ovens where electronic components may overheat, or explosive or flammable environments where electric sparks could cause serious accidents). In this work, we show that pneumatic logic can be used to power and control biomedical devices without the need for electricity or electric components. Originally developed for controlling microfluidic “lab-on-a-chip” devices, these circuits use microfluidic valves like transistors in air-powered logic “circuits.” We show that a modification to the basic valve design—adding additional air channels in parallel through the valve—creates a “high-flow” valve that is suitable for controlling a broad range of bioinstruments, not just microfluidics. As a proof-of-concept, we developed a high-flow pneumatic oscillator that uses five high-flow Boolean NOT gates arranged in a loop. Powered by a single constant vacuum source, the oscillator provides five out-of-phase pneumatic outputs that switch between vacuum and atmospheric pressure every 1.3 s. Additionally, a user can adjust the frequency of the oscillator by squeezing a bellows attached to one of the pneumatic outputs. We then used the pneumatic oscillator to power a low-cost 3D-printed laboratory rocker/shaker commonly used to keep blood products, cell cultures, and other heterogeneous samples in suspension. Our air-powered rocker costs around $12 USD to build and performs as well as conventional electronic rockers that cost $1000 USD or more. This is the first of many biomedical devices that can be made cheaper and safer using pneumatic logic.
+
