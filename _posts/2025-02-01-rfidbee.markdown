@@ -7,7 +7,7 @@ categories: news
 
 ![](/assets/rfidbee.jpg) 
 
-It was a pleasure working with Dr. Erica Sarro Gustilo and Dr. Hollis Woodard on *"RFIDbee,"* a low-cost open-source RFID insect tracker that was used by Erica and Hollis to study queen bumble bees in [this study in the journal *Ecology and Evolution*](https://onlinelibrary.wiley.com/doi/10.1002/ece3.71016).
+It was a pleasure working with [Dr. Erica Sarro Gustilo](https://brosilab.org/people/erica-gustilo/) and [Dr. Hollis Woodard](http://www.woodardlab.com) on *"RFIDbee,"* a low-cost open-source RFID insect tracker that was used by Erica and Hollis to study queen bumble bees in [this study in the journal *Ecology and Evolution*](https://onlinelibrary.wiley.com/doi/10.1002/ece3.71016).
 
 Want to build your own *RFIDbee*?  The hardware and software is available for download on [open.groverlab.org](https://open.groverlab.org)!
 
