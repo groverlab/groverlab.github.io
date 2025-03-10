@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Wild foundress queen bumble bees make numerous, short foraging trips and exhibit frequent nest failure: Insights from trap-nesting and RFID tracking"
+doi:  "10.1002/ece3.71016"
+---
+
+Erica Sarro Gustilo, William H. Grover, and S. Hollis Woodard, [*Ecology and Evolution* 15: e71016 (2025)](https://onlinelibrary.wiley.com/doi/10.1002/ece3.71016).
+
+<img src="/assets/rfidbee.jpg"> 
+
+The overwhelming majority of research on wild bumble bees has focused on the social colony stage. Nest-founding queens in the early season are difficult to study because incipient nests are challenging to find in the wild and the foundress queen flight period is very short relative to the entire nesting period. As a result, natural history information on foundress queens is exceedingly rare. New methodological approaches are needed to adequately study this elusive life stage. We trap-nested wild queen bumble bees in artificial nest boxes in Gothic, Colorado and used a custom-built radio frequency identification (RFID) system to continuously record queen foraging activity (inferred from entering and exiting the nest) for the majority of their spring flight periods. Foundress queens made frequent, short foraging trips, which tended to increase in duration over the course of the flight period. All queens who produced adult workers ceased foraging within approximately 1 week after workers emerged in the nest. We observed frequent nest failure among foundress queens: Fewer than one quarter of queens who laid eggs in nest boxes went on to produce reproductive gynes at the end of the season. We also report nest characteristics and curious phenomena we observed, including conspecific nest invasion and queens remaining outside the nest overnight. We present this trap-nesting and subsequent RFID tracking method as a valuable, albeit resource-intensive, path forward for uncovering new information about the elusive, incipient life stage of wild bumble bees.
+
