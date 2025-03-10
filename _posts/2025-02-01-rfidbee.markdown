@@ -1,0 +1,14 @@
+---
+layout: post
+title:  'A low-cost open-source RFID tracker for insects'
+date:   2025-02-01 01:00:00 -0800
+categories: news
+---
+
+![](/assets/rfidbee.jpg) 
+
+It was a pleasure working with Dr. Erica Sarro Gustilo and Dr. Hollis Woodard on *"RFIDbee,"* a low-cost open-source RFID insect tracker that was used by Erica and Hollis to study queen bumble bees in [this study in the journal *Ecology and Evolution*](https://onlinelibrary.wiley.com/doi/10.1002/ece3.71016).
+
+Want to build your own *RFIDbee*?  The hardware and software is available for download on [open.groverlab.org](https://open.groverlab.org)!
+
+Massive thanks to the National Science Foundation and the Frank G. and Janice B. Delfino Agricultural Technology Research Initiative at the University of California Riverside for funding the development of *RFIDbee*!
