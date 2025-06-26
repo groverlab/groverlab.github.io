@@ -5,25 +5,35 @@ published: false
 
 <div class="home">
 
+  {% for tag in site.tags %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+  {% endfor %}
+
   <h1>Research</h1>
 
   <ul class="post-list">
     {% for paper in site.research reversed %}
-      <li>
+    <li>
       <br>
-        <h2>
-          <a class="post-link" href="{{ paper.url | prepend: site.baseurl }}">{{ paper.title }}</a>
-        </h2>
-        {{ paper.content }}
+      <h2>
+        <a class="post-link" href="{{ paper.url | prepend: site.baseurl }}">{{ paper.title }}</a>
+      </h2>
+      {{ paper.content }}
 
-        <div data-badge-popover="right" data-badge-type="2" data-doi="{{ paper.doi }}" class="altmetric-embed"></div>
+      <div data-badge-popover="right" data-badge-type="2" data-doi="{{ paper.doi }}" class="altmetric-embed"></div>
 
- <span class="__dimensions_badge_embed__" data-doi="{{ paper.doi }}" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+      <span class="__dimensions_badge_embed__" data-doi="{{ paper.doi }}" data-style="small_rectangle"></span>
+      <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-      </li>
+    </li>
     {% endfor %}
   </ul>
 
- TEST
+  TEST
 
 </div>
