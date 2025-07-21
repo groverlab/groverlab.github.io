@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dr. Grover on the Partnership for Safe Medicines' podcast"
+title:  "Dr. Grover on the Partnership for Safe Medicines podcast"
 date:   2025-07-18 01:00:00 -0800
 categories: news
 ---
