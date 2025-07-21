@@ -9,4 +9,4 @@ categories: news
 
 It was a pleasure talking with Shabbir Safdar, Executive Director for the [Partnership for Safe Medicines](https://www.safemedicines.org), about our work combatting fake medicines.
 
-You can [listen to our conversation on PSM's podcast here!](https://www.podbean.com/media/share/pb-8pevy-19078fc)
+You can [listen to our conversation on the Partnership for Safe Medicines podcast here!](https://www.podbean.com/media/share/pb-8pevy-19078fc)
