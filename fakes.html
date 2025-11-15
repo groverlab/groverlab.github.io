@@ -16,6 +16,7 @@ permalink: /fakes/
 
   <ul class="post-list">
     {% for paper in site.research reversed %}
+    <p>{{paper.doi}} {{ paper.fakes}}</p>
       {% if paper.fakes == "true" %}
       <li>
       <br>
