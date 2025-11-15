@@ -1,0 +1,37 @@
+---
+layout: default
+permalink: /fakes/
+---
+
+<div class="home">
+
+<div class="shadow">
+  <img src="/assets/header-sweat.jpg">
+</div>
+<br><br>
+
+  <h1>Fighting substandard and falsified pharmaceuticals</h1>
+
+
+
+  <ul class="post-list">
+    {% for paper in site.research reversed %}
+      <li>
+      <br>
+
+        <h2>
+          <a class="post-link" href="{{ paper.url | prepend: site.baseurl }}">{{ paper.title }}</a>
+        </h2>
+        {{ paper.content }}
+
+           <div class='altmetric-embed' data-template='dimensions' data-badge-popover='right' data-hide-no-mentions='true' data-doi="{{ paper.doi }}"></div>  <span class="__dimensions_badge_embed__" data-doi="{{ paper.doi }}" data-hide-zero-citations="true" data-style="small_rectangle"></span>
+
+
+      </li>
+    {% endfor %}
+  </ul>
+
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
