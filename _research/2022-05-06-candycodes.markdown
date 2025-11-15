@@ -2,7 +2,7 @@
 layout: post
 title:  "CandyCodes: simple universally unique edible identifiers for confirming the authenticity of pharmaceuticals"
 doi:  "10.1038/s41598-022-11234-4"
-fakes: true
+fakes: "true"
 ---
 
 William H. Grover, [*Scientific Reports* 12: 7452 (2022)](https://www.nature.com/articles/s41598-022-11234-4)
