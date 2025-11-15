@@ -16,6 +16,7 @@ permalink: /fakes/
 
   <ul class="post-list">
     {% for paper in site.research reversed %}
+      {% if paper.fakes %}
       <li>
       <br>
 
@@ -28,6 +29,7 @@ permalink: /fakes/
 
 
       </li>
+      {% end if %}
     {% endfor %}
   </ul>
 
