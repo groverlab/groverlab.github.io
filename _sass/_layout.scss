@@ -269,3 +269,27 @@ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
         }
     }
 }
+
+.prettywrapper {
+    display: grid;
+  grid-template-columns: 33% 33% 33%;
+  grid-gap: 10px;
+  /** background-color: #fff; */
+  /** color: #444; */
+}
+
+.prettyleftsmall {
+    grid-column: 1;
+}
+
+.prettyrightsmall {
+    grid-column: 3;
+}
+
+.prettyleftbig {
+    grid-column: 1 / span 2;
+}
+
+.prettyrightbig {
+    grid-column: 2 / span 2;
+}
