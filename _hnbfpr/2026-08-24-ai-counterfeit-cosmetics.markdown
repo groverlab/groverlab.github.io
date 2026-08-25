@@ -22,6 +22,28 @@ I then recorded the model's response, then I prodded it to work a little harder 
 
 I repeated this process for all three tubes of the product.
 
+# Tube A
+
+## Photo A1:
+![](/assets/rhode_A1.png) 
+
+## Photo A2:
+![](/assets/rhode_A2.png) 
+
+## Photo A3:
+![](/assets/rhode_A3.png) 
+
+## Photo A4:
+![](/assets/rhode_A4.png) 
+
+## Photo A5:
+![](/assets/rhode_A5.png) 
+
+## Photo A6:
+![](/assets/rhode_A6.png) 
+
+
+
 
 # Tube A
 
