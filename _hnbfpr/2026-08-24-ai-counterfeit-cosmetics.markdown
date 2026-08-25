@@ -321,7 +321,7 @@ So what does Gemini think of the authentic Package C?
 
 Whaaaaaaat???  
 
-After going two-for-two successfully identifying counterfeit Rhode Peptide Lip Tint, Gemini says that the package I bought at Sephora is also fake?!?  And Gemini doesn't mince words---it said Packages A and B merely "appeared to be counterfeit" but my Package C from Sephora has "definitive signs of being a counterfeit product"?!?
+After going two-for-two successfully identifying counterfeit Rhode Peptide Lip Tint, Gemini says that the package I bought at Sephora is also fake?!?  And Gemini doesn't mince words---it said Packages A and B merely "appeared to be counterfeit" but Package C from Sephora has "definitive signs of being a counterfeit product"?!?
 
 I read on to find out Gemini's claimed reasons for suspecting Package C:
 
