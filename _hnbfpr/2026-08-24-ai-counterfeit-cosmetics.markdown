@@ -106,13 +106,13 @@ Gemini's verdict is that Tube A is fake.  Here are the reasons it gives:
 
 ❌ The first part of this response is incorrect, and looking at the photo, we can see why:
 
-Gemini mistook lighting glare for a printing typo.  A human wouldn't fall for this.  
+Gemini mistook lighting glare for a printing typo.  A human wouldn't make this mistake.  
 
-✅ The second part of Gemini's response, the missing space in **LIMITED,STANLAW**, is correct.  A reputable product shouldn't have typos like that.  
+✅ The second part of Gemini's response, the missing space in **LIMITED,STANLAW**, is valid.  A reputable product shouldn't have typos like that.  
 
 > Mismatched Distributor Information: The outer box lists **BIORIUS (Belgium and UK)** as the Responsible Person (RP), whereas the tube itself lists **PWC Services (Ireland and UK)**. Authentic products maintain identical regulatory contact details on both the outer packaging and the inner container.
 
-✅ This response impressed me.  Gemini's not just looking for inconsistencies within photos; it's also looking for inconsistencies *across* photos.  I'll admit that I missed this one.  
+✅ This response impressed me.  Gemini's not just looking for inconsistencies within photos; it's also looking for inconsistencies *across* photos.  I'll admit that I missed this one.  By the way, the current authentic tubes of the product I've obtained mention only BIORIUS (on both the tube and the box) and not PWC, so it would appear that if you find a box or tube that mentions PWC, it's likely counterfeit. 
 
 > Batch Code Stamp: The deeply stamped batch number (112505) on the tube's crimp is a known marking frequently seen on counterfeit Rhode lip products circulating from unauthorized sellers.
 
