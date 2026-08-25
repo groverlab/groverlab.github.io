@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  'Identifying fake cosmetics using artificial intelligence'
-date:   2025-06-08 01:00:00 -0800
+date:   2026-08-25 01:00:00 -0800
 ---
 
 ![](/assets/freezer1.jpg) 
 
 My lab develops [low-cost and easy-to-use tools for identifying fake medicines](/fakes), but we're always on the lookout for other types of fakes that we can go after.  For example, the cosmetics industry has a massive problem with counterfeit products.  Studies estimate that two-thirds of branded makeup and skincare products on sites like eBay, TikTok Shop, and Vinted are fake.  Counterfeit cosmetics don't just waste consumers' money; they also may expose wearers to harmful contaminants like heavy metals and bacteria.
 
-As part of an ongoing study, I've been purchasing both authentic and counterfeit versions of various cosmetics.  I'm always struck by how much work goes into making the fakes look authentic.  At a glance, the counterfeit versions of a product are virtually indistinguishable from the genuine ones.  However, with a little research and a close inspection, you can start to find little inconsistencies that give away the fakes.  But not everyone has the time or expertise to research a particular product before they buy it.  That got me wondering: could artificial intelligence identify a counterfeit product?  If so, then consumers could snap some photos and use ChatGPT or Gemini or Claude to verify an item before they purchase it.
+As part of an ongoing study, I've been purchasing both authentic and counterfeit versions of various cosmetics.  I'm always struck by how much work goes into making the fakes look authentic.  At a glance, the counterfeit versions of a product are virtually indistinguishable from the genuine ones.  However, with a little research and a close inspection, you can start to find little inconsistencies that give away the fakes.  But not everyone has the time or expertise to research a particular product before they buy it.  That got me wondering: **could artificial intelligence identify a counterfeit product?**  If so, then consumers could snap some photos and use ChatGPT or Gemini or Claude to verify an item before they purchase it.
 
 <!--more-->
 
@@ -169,11 +169,13 @@ This one is interesting.  Gemini is correct that **"tinted lip tint"** is an err
 
 > Lowercase Country Name (Image B3): The origin line reads "Made in italy" using a lowercase "i" instead of capitalized "Italy".
 
-
-
 > Spacing Glitches (Images B3 & B6): The box includes an errant space in "SERVIC ES LIMITED", while the back of the tube omits the space in "LIMITED,STANLAW".
 
+
+
 > Missing Accents (Image B3): The French translation ends with "colorees" instead of the proper accented "colorées".
+
+✅
 
 > Further Verification Steps
 
@@ -181,7 +183,7 @@ Gemini's next two responses aren't specific to the photos; rather they're genera
 
 > Applicator Orientation: On genuine Rhode tubes, when looking at the front logo, the slanted tip of the applicator should face away from you.
 
-This is true of authentic tubes, but it's also true of every fake tube I've collected, so this is clearly not 
+This is true of authentic tubes, but it's also true of every fake tube I've collected, so this is clearly not a reliable rule-of-thumb
 
 > Texture & Fragrance: Authentic Rhode Peptide Lip Tints have a smooth, non-sticky balmy texture and a mild scent, whereas counterfeits often smell strongly of chemicals or feel overly sticky or grainy.
 
