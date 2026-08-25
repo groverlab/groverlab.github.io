@@ -94,7 +94,7 @@ I repeated this process for all three tubes of the product.
 
 Here are Google Gemini's responses to my prompt, "Is this tube of Rhode Peptide Lip Tint authentic?"
 
-> "This Rhode Peptide Lip Tint appears to be counterfeit due to several prominent typographical errors and packaging discrepancies between the box and the tube."
+> 🤖 "This Rhode Peptide Lip Tint appears to be counterfeit due to several prominent typographical errors and packaging discrepancies between the box and the tube."
 
 Gemini's verdict is that Tube A is fake.  Here are the reasons it gives:
 
@@ -104,7 +104,7 @@ Gemini's verdict is that Tube A is fake.  Here are the reasons it gives:
 
 > "On the back of the tube, the regulatory text misspells **SOLUTIONS** as **PWC SOLOTIONS LIMITED** and omits a space in **LIMITED,STANLAW**.
 
-❌ The first part of this response is incorrect, and looking at Image A6, we can see why:
+❌ The first part of this response is incorrect, and looking closely at Image A6, we can see why:
 
 ![](/assets/rhode_A6_closeup.JPG) 
 
@@ -129,13 +129,13 @@ Good advice!  I then gave Gemini my follow-up prompt, "Are there any other red f
 > Several additional packaging, text, and manufacturing red flags are present across the box and tube:
 > Redundant Product Description: The back of the box (Image A3) states, **"Apply this tinted lip tint daily..."**  Authentic Rhode packaging reads **"Apply this tinted lip treatment daily..."** Calling it a **"tinted lip tint"** is a clear text error.
 
-This one is interesting.  Gemini is correct that **"tinted lip tint"** is an error; it seems to be picking up on the awkward repetition of "tint."  But Gemini's claim that "Authentic Rhode packaging reads **'Apply this tinted lip treatment daily'**" is incorrect, or at least out-of-date.  Current authentic packages read **"Apply this nourishing formula for a hint of tint and hydrated, pillowy-soft lips."**
+This one is interesting.  Gemini is correct that **"tinted lip tint"** is suspicous; it seems to be picking up on the awkward repetition of "tint."  But Gemini's claim that "Authentic Rhode packaging reads **'Apply this tinted lip treatment daily'**" is incorrect, or at least out-of-date.  Current authentic packages read **"Apply this nourishing formula for a hint of tint and hydrated, pillowy-soft lips."**
 
 ✅ I'll call this response a success, even though it got some of the details wrong.  
 
 > Italian Recycling Misspelling: Above the recycling icon on the box back (Image A3), the text reads **RACCOLTA PLASTIC**. The correct Italian term is **RACCOLTA PLASTICA** (missing the **'A'** at the end).
 
-✅ Correct!  And I missed this one (my Italian is limited to menu items).   I'll also note that this phrase (correct or otherwise) doesn't appear at all on current authentic packages.  
+✅ Correct!  And I missed this one (my Italian is limited to menu items at restaurants).   I'll also note that this phrase (correct or otherwise) doesn't appear at all on current authentic packages.  
 
 > Postal Code Letter/Number Swap: On the regulatory text on the back of the tube (Image A6), the Dublin postal code uses the capital letter **O** instead of the number **0** (**DO1 A2T5** instead of **D01 A2T5**).
 
@@ -143,7 +143,7 @@ This one is interesting.  Gemini is correct that **"tinted lip tint"** is an err
 
 > Box-Outline Debossing: Image A1 shows a stamped rectangular border outline debossed into the cardboard around the front text (rhode PEPTIDE LIP TINT...). Official Rhode unit cartons are smooth and do not have this outer mold line stamped around the front logos.
 
-❌ This is incorrect.  Current authentic boxes of Rhode Peptide Lip Tint *do* have an embossed border around the front text, in the shape of the outline of the tube.  
+❌ This is totally wrong.  Current authentic boxes of Rhode Peptide Lip Tint *do* have an embossed border around the front text, in the shape of the outline of the tube.  
 
 > Volume Spacing Errors: On the front right side of the box (Image A1), the measurement text is crammed together as **10mL/0.3floze** without standard spaces separating the units or the **e** estimate symbol.
 
@@ -151,7 +151,7 @@ This one is interesting.  Gemini is correct that **"tinted lip tint"** is an err
 
 > Shade Name Placement: On the tube (Image A6), the shade label ribbon is printed sideways directly against the crimped seam edge, which differs from standard factory placement.
 
-❌ I'm also calling this one wrong.  In my judgement, the location of the shade name on photo A6 is indistinguishable from the location of the shade name on an authentic tube.  
+❌ I'm also calling this one wrong.  In my judgement, the location of the shade name on Image A6 is indistinguishable from the location of the shade name on an authentic tube.  
 
 > These additional text errors, formatting bugs, and box mold defects further confirm this item is a counterfeit.
 
