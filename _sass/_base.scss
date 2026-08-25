@@ -111,21 +111,17 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $gray-color-dark;
-    border-left: 4px solid $gray-color-dark;
+    color: $grey-color;
+    border-left: 4px solid $grey-color-light;
     padding-left: $spacing-unit / 2;
-    font-size: 20px;
-    // letter-spacing: -1px;
-    // font-style: italic;
+    font-size: 18px;
+    letter-spacing: -1px;
+    font-style: italic;
 
     > :last-child {
         margin-bottom: 0;
     }
 }
-blockquote p {
-    font-size: inherit;
-}
-
 
 
 
