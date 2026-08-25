@@ -94,6 +94,8 @@ I repeated this process for all three packages of the product.  The results are 
 
 Those are the photos that I fed to Gemini.  If you want to try to determine for yourself which ones are real and which are fake, don't scroll any further!
 
+When you're done, scroll on for my analysis of Gemini's assessments of these products....
+
 <br>
 <br>
 <br>
@@ -153,7 +155,7 @@ Good advice!  I then gave Gemini my follow-up prompt, "Are there any other red f
 
 > 🤖 "Several additional packaging, text, and manufacturing red flags are present across the box and tube: Redundant Product Description: The back of the box (Image A3) states, **'Apply this tinted lip tint daily...'**  Authentic Rhode packaging reads **'Apply this tinted lip treatment daily...'** Calling it a **'tinted lip tint'** is a clear text error."
 
-✅ This one is interesting.  Gemini is correct that **"tinted lip tint"** is suspicious; the AI seems to be picking up on the awkward repetition of "tint," and I noticed this one too.  But Gemini's claim that "Authentic Rhode packaging reads **'Apply this tinted lip treatment daily'**" is incorrect, or at least out-of-date.  Current authentic packages read **"Apply this nourishing formula for a hint of tint and hydrated, pillowy-soft lips."** I'll call this response a success, even though Gemini got some of the details wrong.  
+✅  Gemini is correct that **"tinted lip tint"** is suspicious; the AI seems to be picking up on the awkward repetition of "tint," and I noticed this one too.  But Gemini's claim that "Authentic Rhode packaging reads **'Apply this tinted lip treatment daily'**" is incorrect, or at least out-of-date.  Current authentic packages read **"Apply this nourishing formula for a hint of tint and hydrated, pillowy-soft lips."** I'll call this response a success, even though Gemini got some of the details wrong.  
 
 <br>
 
@@ -177,13 +179,13 @@ Good advice!  I then gave Gemini my follow-up prompt, "Are there any other red f
 
 > 🤖 "Volume Spacing Errors: On the front right side of the box (Image A1), the measurement text is crammed together as **10mL/0.3floze** without standard spaces separating the units or the **e** estimate symbol."
 
-❌ Also wrong.  The volume measurement text does look crammed together on Image A1, but it looks similarly crammed together on authentic boxes too.
+❌ Also wrong.  The volume measurement text does look crammed together in Image A1, but it looks similarly crammed together on authentic boxes too.
 
 <br>
 
 > 🤖 "Shade Name Placement: On the tube (Image A6), the shade label ribbon is printed sideways directly against the crimped seam edge, which differs from standard factory placement."
 
-❌ I'm also calling this one wrong.  In my judgement, the location of the shade name on Image A6 is indistinguishable from the location of the shade name on an authentic tube.  
+❌ I'm also calling this one wrong.  In my judgement, the location of the shade name on [Image A6](/assets/rhode_A6.JPG) is indistinguishable from the location of the shade name on an authentic tube.  
 
 <br>
 
@@ -191,7 +193,11 @@ Good advice!  I then gave Gemini my follow-up prompt, "Are there any other red f
 
 
 
-# Tube B
+
+
+
+
+# Package B
 
 **Package B is also fake.**  It was another sketchy $5 eBay purchase.  But what does Gemini say? 
 
@@ -199,39 +205,65 @@ Good advice!  I then gave Gemini my follow-up prompt, "Are there any other red f
 
 ✅ Another correct ID of a counterfeit product from Gemini.  On to the reasons:
 
-> 🤖 "Key Red Flags on Packaging & Tube:
-> Spelling Error in Usage Instructions (Image B3): The top line of the usage text reads 'Appli tinted lip treatment daily...' instead of 'Apply'."
+<br>
 
-❌ This is another case of Gemini mistaking light glare for a typo.
+> 🤖 "Key Red Flags on Packaging & Tube:  Spelling Error in Usage Instructions (Image B3): The top line of the usage text reads 'Appli tinted lip treatment daily...' instead of 'Apply'."
+
+❌ Incorrect.  This is another case of Gemini mistaking light glare for a typo.
 
 > 🤖 "Misspelled Ingredients (Image B2): The ingredients list contains chemical spelling errors, including 'Octyidodecanol' (instead of Octyldodecanol) and 'Fliuorphlogopite' (instead of Fluorphlogopite)."
 
+✅ That's right.  For a second time, Gemini notices typos in the complex chemical names in the ingredient list.  I think the second chemical is actually "Flluorphiogopite" on the box, but either way, it's a misspelling.  I noticed this one as well.
+
+<br>
+
 > 🤖 "Lowercase Country Name (Image B3): The origin line reads 'Made in italy' using a lowercase 'i' instead of capitalized 'Italy'."
+
+✅ This does look suspicious, especially since "Fabriqué en Italie" is capitalized correctly immediately afterwards.  I noticed this too.
+
+<br>
 
 > 🤖 "Spacing Glitches (Images B3 & B6): The box includes an errant space in **'SERVIC ES LIMITED'**, while the back of the tube omits the space in **'LIMITED,STANLAW'**.
 
-> 🤖 "Missing Accents (Image B3): The French translation ends with 'colorees' instead of the proper accented 'colorées'."
+✅ Correct for both.  It's interesting that the missing space in **'LIMITED,STANLAW'** affects both Package A and Package B, even though many other elements of the packaging are different.  I also noticed these typos.
 
-✅
+<br>
+
+> 🤖 "Missing Accents (Image B3): The French translation ends with **'colorees'** instead of the proper accented **'colorées'**."
+
+✅ My French is a good (bad) as my Italian, but Google Translate indicates that "colorées" (with the accent) is correct.  I missed this one.
+
+<br>
 
 > 🤖 "Further Verification Steps"
 
-Gemini's next two responses aren't specific to the photos; rather they're general advice on additional steps an individual might take to determine the authenticity of their product.
+Gemini's next two responses aren't specific to the photos; rather, they're general advice on additional steps an individual might take to determine the authenticity of their product.
 
 > 🤖 "Applicator Orientation: On genuine Rhode tubes, when looking at the front logo, the slanted tip of the applicator should face away from you."
 
-This is true of authentic tubes, but it's also true of every fake tube I've collected, so this is clearly not a reliable rule-of-thumb
+This is true of authentic tubes, but it's also true of every fake tube I've collected, so this is clearly not a reliable rule-of-thumb.  But the applicator isn't visible in my photos, so I'm not scoring this one way or another.
+
+<br>
 
 > 🤖 "Texture & Fragrance: Authentic Rhode Peptide Lip Tints have a smooth, non-sticky balmy texture and a mild scent, whereas counterfeits often smell strongly of chemicals or feel overly sticky or grainy."
 
-This seems like good advice, particularly regarding smell: some of my fake tubes have a sickly sweet smell.  The authentic product is virtually odorless to my nose.
+This seems like good advice, particularly regarding smell: some of my fake tubes have a sickly sweet smell.  The authentic product is virtually odorless to my nose.  But again, this has nothing to do with the product photos, so no score.
 
-> 🤖 "Beyond the initial typos, several additional formatting errors, font irregularities, and manufacturing defects further confirm this is counterfeit."
+<br>
+
+
+
+After receiving my follow-up prompt, Gemini continued:
+
 > 🤖 "Invalid Postal Code (Images B3 & B6): The Dublin address lists the Eircode as DO1 A2T5 using the capital letter 'O' instead of the numeric zero (D01)."
+
+✅ This is correct, and it's a repeat of the same postal code problem that Gemini detected in Package A.
 
 > 🤖 "Ingredient Spelling Error (Image B2): The compound **Phytosteryl/Isostearyl** is misspelled as **Phytosteryl/Isosteararyl** with an extra **'ar'**."
 
-❌ 
+❌ That's a mistake.  When pressed to look for more errors in the ingredient list, Gemini mistook a paper crease for a typo:
+
+![](/assets/rhode_B2_closeup.JPG) 
 
 > 🤖 "Uneven Text Spacing (Image B4): The key ingredients list on the box side contains wide, irregular spacing gaps between **BABASSU** and **CUPUAÇU**."
 
