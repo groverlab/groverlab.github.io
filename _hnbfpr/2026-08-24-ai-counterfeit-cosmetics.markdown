@@ -45,17 +45,68 @@ I repeated this process for all three tubes of the product.
 
 
 
+# Tube B
+
+## Photo B1:
+![](/assets/rhode_B1.JPG) 
+
+## Photo B2:
+![](/assets/rhode_B2.JPG) 
+
+## Photo B3:
+![](/assets/rhode_B3.JPG) 
+
+## Photo B4:
+![](/assets/rhode_B4.JPG) 
+
+## Photo B5:
+![](/assets/rhode_B5.JPG) 
+
+## Photo B6:
+![](/assets/rhode_B6.JPG) 
+
+
+
+
+# Tube C
+
+## Photo C1:
+![](/assets/rhode_C1.JPG) 
+
+## Photo C2:
+![](/assets/rhode_C2.JPG) 
+
+## Photo C3:
+![](/assets/rhode_C3.JPG) 
+
+## Photo C4:
+![](/assets/rhode_C4.JPG) 
+
+## Photo C5:
+![](/assets/rhode_C5.JPG) 
+
+## Photo C6:
+![](/assets/rhode_C6.JPG) 
+
+
+
 # Tube A
 
 > "This Rhode Peptide Lip Tint appears to be counterfeit due to several prominent typographical errors and packaging discrepancies between the box and the tube."
 
 Gemini's verdict is that Tube A is fake.  Here are the reasons it gives:
 
-> "Typographical Errors: The ingredients list on the outer box misspells *Diisostearyl Malate* as *Diisosteary! Malate* using an exclamation mark [instead of a lower-case L]."
+> "Typographical Errors: The ingredients list on the outer box misspells **Diisostearyl Malate** as **Diisosteary! Malate** using an exclamation mark."
 
-This is correct!  
+This is correct!  It looks like someone scanned or photographed the actual ingredient list and then used optical character recognition (OCR) to convert it to text, but the OCR thought that a lower-case L was an exclamation mark.  I also noticed this error, so that's one point for each of us - Gemini 1, me 1.
 
-> On the back of the tube, the regulatory text misspells "SOLUTIONS" as PWC SOLOTIONS LIMITED and omits a space in LIMITED,STANLAW.
+> "On the back of the tube, the regulatory text misspells **SOLUTIONS** as **PWC SOLOTIONS LIMITED** and omits a space in **LIMITED,STANLAW**.
+
+The first part of this response is incorrect, and looking at the photo, we can see why:
+
+Gemini mistook lighting glare for a printing typo.  A human wouldn't fall for this.
+
+The second part of Gemini's response, the missing space in **LIMITED,STANLAW**, is correct, and 
 
 > Mismatched Distributor Information: The outer box lists BIORIUS (Belgium and UK) as the Responsible Person (RP), whereas the tube itself lists PWC Services (Ireland and UK). Authentic products maintain identical regulatory contact details on both the outer packaging and the inner container.
 
