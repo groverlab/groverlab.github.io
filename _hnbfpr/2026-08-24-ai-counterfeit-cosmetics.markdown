@@ -104,9 +104,9 @@ Gemini's verdict is that Tube A is fake.  Here are the reasons it gives:
 
 > "On the back of the tube, the regulatory text misspells **SOLUTIONS** as **PWC SOLOTIONS LIMITED** and omits a space in **LIMITED,STANLAW**.
 
-❌ The first part of this response is incorrect, and looking at the photo, we can see why:
-
-Gemini mistook lighting glare for a printing typo.  A human wouldn't make this mistake.  
+❌ The first part of this response is incorrect, and looking at Image A6, we can see why:
+![](/assets/rhode_A6_closeup.JPG) 
+Gemini mistook glare on the tube from the room lighting for a printing typo.  A human wouldn't make this mistake.  
 
 ✅ The second part of Gemini's response, the missing space in **LIMITED,STANLAW**, is valid.  A reputable product shouldn't have typos like that.  
 
