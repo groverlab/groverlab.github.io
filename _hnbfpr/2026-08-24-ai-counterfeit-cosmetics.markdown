@@ -133,7 +133,7 @@ This one is interesting.  Gemini is correct that **"tinted lip tint"** is an err
 
 > Italian Recycling Misspelling: Above the recycling icon on the box back (Image A3), the text reads **RACCOLTA PLASTIC**. The correct Italian term is **RACCOLTA PLASTICA** (missing the **'A'** at the end).
 
- ✅ Correct!  And I missed this one (my Italian is limited to menu items).   I'll also note that this phrase (correct or otherwise) doesn't appear at all on current authentic packages.  
+✅ Correct!  And I missed this one (my Italian is limited to menu items).   I'll also note that this phrase (correct or otherwise) doesn't appear at all on current authentic packages.  
 
 > Postal Code Letter/Number Swap: On the regulatory text on the back of the tube (Image A6), the Dublin postal code uses the capital letter **O** instead of the number **0** (**DO1 A2T5** instead of **D01 A2T5**).
 
@@ -163,34 +163,56 @@ This one is interesting.  Gemini is correct that **"tinted lip tint"** is an err
 
 > Spelling Error in Usage Instructions (Image B3): The top line of the usage text reads "Appli tinted lip treatment daily..." instead of "Apply".
 
+❌ This is another case of Gemini mistaking light glare for a typo.
+
 > Misspelled Ingredients (Image B2): The ingredients list contains chemical spelling errors, including "Octyidodecanol" (instead of Octyldodecanol) and "Fliuorphlogopite" (instead of Fluorphlogopite).
 
 > Lowercase Country Name (Image B3): The origin line reads "Made in italy" using a lowercase "i" instead of capitalized "Italy".
+
+
 
 > Spacing Glitches (Images B3 & B6): The box includes an errant space in "SERVIC ES LIMITED", while the back of the tube omits the space in "LIMITED,STANLAW".
 
 > Missing Accents (Image B3): The French translation ends with "colorees" instead of the proper accented "colorées".
 
->Further Verification Steps
+> Further Verification Steps
+
+Gemini's next two responses aren't specific to the photos; rather they're general advice on additional steps an individual might take to determine the authenticity of their product.
+
 > Applicator Orientation: On genuine Rhode tubes, when looking at the front logo, the slanted tip of the applicator should face away from you.
 
+This is true of authentic tubes, but it's also true of every fake tube I've collected, so this is clearly not 
+
 > Texture & Fragrance: Authentic Rhode Peptide Lip Tints have a smooth, non-sticky balmy texture and a mild scent, whereas counterfeits often smell strongly of chemicals or feel overly sticky or grainy.
+
+This seems like good advice, particularly regarding smell: some of my fake tubes have a sickly sweet smell.  The authentic product is virtually odorless to my nose.
 
 > Beyond the initial typos, several additional formatting errors, font irregularities, and manufacturing defects further confirm this is counterfeit.
 > Invalid Postal Code (Images B3 & B6): The Dublin address lists the Eircode as DO1 A2T5 using the capital letter "O" instead of the numeric zero (D01).
 
-> Ingredient Spelling Error (Image B2): The compound Phytosteryl/Isostearyl is misspelled as Phytosteryl/Isosteararyl with an extra "ar".
+> Ingredient Spelling Error (Image B2): The compound **Phytosteryl/Isostearyl** is misspelled as **Phytosteryl/Isosteararyl** with an extra "ar".
 
-> Uneven Text Spacing (Image B4): The key ingredients list on the box side contains wide, irregular spacing gaps between BABASSU and CUPUAÇU.
+❌ 
+
+> Uneven Text Spacing (Image B4): The key ingredients list on the box side contains wide, irregular spacing gaps between **BABASSU** and **CUPUAÇU**.
+
+✅
 
 > Distorted Logos (Image B6): The Leaping Bunny cruelty-free symbol printed on the back of the tube next to the 12M icon is stretched and warped.
 
+❌ 
+
 > Faded Tube Printing (Image B5): The French description and volume details (10 mL / 0.3 fl oz e) on the front of the tube are printed in a low-contrast, barely legible grey font rather than crisp white.
+
+❌ 
 
 > Messy Crimp Stamping (Image B6): The stamped batch code on the tube crimp overlaps the printed white vertical stripe unevenly.
 
+❌ 
+
 > Excessive Shrink Wrap (Images B1 & B3): The outer box is encased in thick, heavily wrinkled plastic shrink wrap with warped seams, which differs from authentic retail box packaging.
 
+❌ 
 
 
 
@@ -202,29 +224,48 @@ This one is interesting.  Gemini is correct that **"tinted lip tint"** is an err
 > Specific Red Flags Found in Your Photos
 > Spelling Typos in the Ingredients (Image C2): The ingredient list contains obvious spelling errors that would not pass authentic quality control. It lists "Svnthetic Fluorphlogopite" (using a 'v' instead of a 'y') and "Ethylhexvl Palmitate"(using a 'v' instead of a 'y').
 
+
+
 > Grammar/Accent Errors (Image C2): The Italian translation line at the top prints "TINTA LABBRÂ" with an incorrect circumflex accent over the final 'A'.
+
+I think it's a Ã
 
 > Barcode Printing (Image C3): The font weight and numeric alignment on the barcode sticker differ from standard factory unit packaging.
 
+❌ 
+
 > Additional Physical Checks for the Tube
+
 > Applicator Orientation: On an authentic Rhode tube, when you hold the slanted tip against your lips while looking in a mirror, the printed rhode logo on the front faces outward toward the mirror. Counterfeits frequently have the slanted applicator attached backward or off-center.
 
 > Scent & Formula: Genuine Rhode lip tints have a smooth, cushiony, non-sticky texture. Counterfeit formulas often feel gritty, watery, or overly sticky and frequently carry a heavy plastic or chemical odor.
+
 
 > Because counterfeit cosmetics are unregulated and can cause allergic reactions or skin irritation, it is safest to avoid using this product.
 
 > Debossed Box Border (Image C1): The front of the carton features a raised, rectangular inset frame stamped around the text. Genuine Rhode boxes have a completely smooth, flat front panel with clean text printing rather than an embossed outline.
 
+❌ 
+
 > Distorted Cruelty-Free Icon (Image C3): The bunny icon next to the 12M PAO symbol on the back of the box is a generic, warped silhouette instead of Rhode's official Leaping Bunny logo.
 
-> Text Ghosting on Tube (Image C5): The French translation line ("BAUME À LÈVRES TEINTÉ AUX PEPTIDES") on the front of the plastic tube shows distinct shadow ghosting beneath the white letters, caused by misaligned double-printing.
+❌ 
+
+> Text Ghosting on Tube (Image C5): The French translation line (**"BAUME À LÈVRES TEINTÉ AUX PEPTIDES"**) on the front of the plastic tube shows distinct shadow ghosting beneath the white letters, caused by misaligned double-printing.
+
+❌ 
 
 > Overly Bold Crimp Batch Stamp (Image C6): The batch code (116099) pressed into the end seal of the tube is exceptionally deep, thick, and large. Authentic Rhode tubes use a much finer, subtle font for batch stamp indents.
 
+❌ 
+
 > Misaligned Shade Label (Image C6): The shade name "ribbon" is printed off-center directly against the crimped edge, causing the text to fade out along the border.
+
+❌ 
 
 > Coarse Crimp Texture (Images C5 & C6): The vertical seal ridges on the flat end of the tube are rough and unevenly pressed, whereas authentic packaging features a smooth, uniform crimp.
 
+❌ 
 
 
 
