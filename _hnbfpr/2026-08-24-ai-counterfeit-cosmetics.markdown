@@ -47,11 +47,11 @@ I repeated this process for all three tubes of the product.
 
 # Tube A
 
-## "This Rhode Peptide Lip Tint appears to be counterfeit due to several prominent typographical errors and packaging discrepancies between the box and the tube."
+> "This Rhode Peptide Lip Tint appears to be counterfeit due to several prominent typographical errors and packaging discrepancies between the box and the tube."
 
 Gemini's verdict is that Tube A is fake.  Here are the reasons it gives:
 
-## "Typographical Errors: The ingredients list on the outer box misspells *Diisostearyl Malate* as *Diisosteary! Malate* using an exclamation mark [instead of a lower-case L]."
+> "Typographical Errors: The ingredients list on the outer box misspells *Diisostearyl Malate* as *Diisosteary! Malate* using an exclamation mark [instead of a lower-case L]."
 
 This is correct!  
 
