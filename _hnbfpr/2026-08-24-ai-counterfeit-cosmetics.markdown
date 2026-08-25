@@ -94,13 +94,19 @@ I repeated this process for all three tubes of the product.
 
 Here are Google Gemini's responses to my prompt, "Is this tube of Rhode Peptide Lip Tint authentic?"
 
+<br>
+
 > 🤖 "This Rhode Peptide Lip Tint appears to be counterfeit due to several prominent typographical errors and packaging discrepancies between the box and the tube."
 
 Gemini's verdict is that Tube A is fake.  Here are the reasons it gives:
 
+<br>
+
 > 🤖 "Typographical Errors: The ingredients list on the outer box misspells **Diisostearyl Malate** as **Diisosteary! Malate** using an exclamation mark."
 
 ✅ This is correct!  It looks like someone scanned or photographed the actual ingredient list and then used optical character recognition (OCR) to convert it to text, but the OCR thought that a lower-case L was an exclamation mark.  I also noticed this error.  
+
+<br>
 
 > "On the back of the tube, the regulatory text misspells **SOLUTIONS** as **PWC SOLOTIONS LIMITED** and omits a space in **LIMITED,STANLAW**.
 
@@ -112,13 +118,19 @@ Gemini mistook glare on the tube from the room lighting for a printing typo.  A 
 
 ✅ The second part of Gemini's response, the missing space in **LIMITED,STANLAW**, is valid.  A reputable product shouldn't have typos like that (although---spoiler alert---we'll revisit that statement later on...)
 
+<br>
+
 > 🤖 "Mismatched Distributor Information: The outer box lists **BIORIUS (Belgium and UK)** as the Responsible Person (RP), whereas the tube itself lists **PWC Services (Ireland and UK)**. Authentic products maintain identical regulatory contact details on both the outer packaging and the inner container."
 
 ✅ This response impressed me.  Gemini's not just looking for inconsistencies within photos; it's also looking for inconsistencies *across* photos.  I'll admit that I missed this one.  By the way, the current authentic tubes of the product I've obtained mention only BIORIUS (on both the tube and the box) and not PWC, so it would appear that if you find a box or tube that mentions PWC, it's likely counterfeit. 
 
+<br>
+
 > 🤖 "Batch Code Stamp: The deeply stamped batch number (112505) on the tube's crimp is a known marking frequently seen on counterfeit Rhode lip products circulating from unauthorized sellers."
 
 ✅ correct number
+
+<br>
 
 Gemini then concludes:
 
@@ -126,30 +138,44 @@ Gemini then concludes:
 
 Good advice!  I then gave Gemini my follow-up prompt, "Are there any other red flags you can find?"  Here are the responses:
 
+<br>
+
 > 🤖 "Several additional packaging, text, and manufacturing red flags are present across the box and tube:
 > Redundant Product Description: The back of the box (Image A3) states, **'Apply this tinted lip tint daily...'**  Authentic Rhode packaging reads **'Apply this tinted lip treatment daily...'** Calling it a **'tinted lip tint'** is a clear text error."
 
 ✅ This one is interesting.  Gemini is correct that **"tinted lip tint"** is suspicous; it seems to be picking up on the awkward repetition of "tint."  But Gemini's claim that "Authentic Rhode packaging reads **'Apply this tinted lip treatment daily'**" is incorrect, or at least out-of-date.  Current authentic packages read **"Apply this nourishing formula for a hint of tint and hydrated, pillowy-soft lips."** I'll call this response a success, even though it got some of the details wrong.  
 
+<br>
+
 > 🤖 "Italian Recycling Misspelling: Above the recycling icon on the box back (Image A3), the text reads **RACCOLTA PLASTIC**. The correct Italian term is **RACCOLTA PLASTICA** (missing the **'A'** at the end)."
 
 ✅ Correct!  And I missed this one (my Italian is limited to menu items at restaurants).   I'll also note that this phrase (correct or otherwise) doesn't appear at all on current authentic packages.  
+
+<br>
 
 > 🤖  "Postal Code Letter/Number Swap: On the regulatory text on the back of the tube (Image A6), the Dublin postal code uses the capital letter **O** instead of the number **0** (**DO1 A2T5** instead of **D01 A2T5**)."
 
 ✅ Now Gemini is just showing off...  The AI is correct on all fronts:  Ireland uses seven-character postal codes (called [Eircodes](https://en.wikipedia.org/wiki/Postal_addresses_in_the_Republic_of_Ireland)); the first three characters are called the *routing key* and **D01** (dee-zero-one) is the valid routing key for the [Dublin 1 postal district](https://en.wikipedia.org/wiki/Dublin_1).  But the tube says **DO1** (dee-oh-one) and that's not a valid routing key.  Hats off to Gemini on this one; I don't have enough familiarity with postal codes to notice something like this.   
 
+<br>
+
 > 🤖 "Box-Outline Debossing: Image A1 shows a stamped rectangular border outline debossed into the cardboard around the front text (rhode PEPTIDE LIP TINT...). Official Rhode unit cartons are smooth and do not have this outer mold line stamped around the front logos."
 
 ❌ This is totally wrong.  Current authentic boxes of Rhode Peptide Lip Tint *do* have an embossed border around the front text, in the shape of the outline of the tube.  
+
+<br>
 
 > 🤖 "Volume Spacing Errors: On the front right side of the box (Image A1), the measurement text is crammed together as **10mL/0.3floze** without standard spaces separating the units or the **e** estimate symbol."
 
 ❌ Also wrong.  The volume measurement text does look crammed together on Box 1, but it looks similarly crammed together on authentic boxes too. 
 
+<br>
+
 > 🤖 "Shade Name Placement: On the tube (Image A6), the shade label ribbon is printed sideways directly against the crimped seam edge, which differs from standard factory placement."
 
 ❌ I'm also calling this one wrong.  In my judgement, the location of the shade name on Image A6 is indistinguishable from the location of the shade name on an authentic tube.  
+
+<br>
 
 > 🤖 "These additional text errors, formatting bugs, and box mold defects further confirm this item is a counterfeit."
 
