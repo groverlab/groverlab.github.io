@@ -49,7 +49,9 @@ I repeated this process for all three tubes of the product.
 
 > This Rhode Peptide Lip Tint appears to be counterfeit due to several prominent typographical errors and packaging discrepancies between the box and the tube.
 
-> Typographical Errors: The ingredients list on the outer box misspells Diisostearyl as Diisosteary! Malate using an exclamation mark.
+Gemini's verdict is that Tube A is fake.
+
+> "Typographical Errors: The ingredients list on the outer box misspells *Diisostearyl Malate* as *Diisosteary! Malate* using an exclamation mark [instead of a lower-case L]."
 
 > On the back of the tube, the regulatory text misspells "SOLUTIONS" as PWC SOLOTIONS LIMITED and omits a space in LIMITED,STANLAW.
 
