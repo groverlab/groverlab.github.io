@@ -20,73 +20,81 @@ I then recorded the model's response, then I prodded it to work a little harder 
 
 ![](/assets/rhode_prompt_2.png) 
 
-I repeated this process for all three tubes of the product.
+I repeated this process for all three packages of the product.  The results are below, but if you'd like to try your hand at determining whether the tubes are authentic or counterfeit, here are the photos.  There are three tubes (A, B, and C), with six photos of each package (A1, A2, A3, etc.): 
 
-# Tube A
+<br>
 
-## Photo A1:
+# Package A
+
+## Image A1:
 ![](/assets/rhode_A1.JPG) 
 
-## Photo A2:
+## Image A2:
 ![](/assets/rhode_A2.JPG) 
 
-## Photo A3:
+## Image A3:
 ![](/assets/rhode_A3.JPG) 
 
-## Photo A4:
+## Image A4:
 ![](/assets/rhode_A4.JPG) 
 
-## Photo A5:
+## Image A5:
 ![](/assets/rhode_A5.JPG) 
 
-## Photo A6:
+## Image A6:
 ![](/assets/rhode_A6.JPG) 
 
 
+<br>
 
+# Package B
 
-# Tube B
-
-## Photo B1:
+## Image B1:
 ![](/assets/rhode_B1.JPG) 
 
-## Photo B2:
+## Image B2:
 ![](/assets/rhode_B2.JPG) 
 
-## Photo B3:
+## Image B3:
 ![](/assets/rhode_B3.JPG) 
 
-## Photo B4:
+## Image B4:
 ![](/assets/rhode_B4.JPG) 
 
-## Photo B5:
+## Image B5:
 ![](/assets/rhode_B5.JPG) 
 
-## Photo B6:
+## Image B6:
 ![](/assets/rhode_B6.JPG) 
 
 
+<br>
 
+# Package C
 
-# Tube C
-
-## Photo C1:
+## Image C1:
 ![](/assets/rhode_C1.JPG) 
 
-## Photo C2:
+## Image C2:
 ![](/assets/rhode_C2.JPG) 
 
-## Photo C3:
+## Image C3:
 ![](/assets/rhode_C3.JPG) 
 
-## Photo C4:
+## Image C4:
 ![](/assets/rhode_C4.JPG) 
 
-## Photo C5:
+## Image C5:
 ![](/assets/rhode_C5.JPG) 
 
-## Photo C6:
+## Image C6:
 ![](/assets/rhode_C6.JPG) 
+
+<br>
+
+Those are the photos that I fed to Gemini.  If you want to try to determine for yourself which ones are real and which are fake, don't scroll any further!
+
+<br>
 
 
 
@@ -108,7 +116,7 @@ Gemini's verdict is that Tube A is fake.  Here are the reasons it gives:
 
 <br>
 
-> "On the back of the tube, the regulatory text misspells **SOLUTIONS** as **PWC SOLOTIONS LIMITED** and omits a space in **LIMITED,STANLAW**.
+> 🤖 "On the back of the tube, the regulatory text misspells **SOLUTIONS** as **PWC SOLOTIONS LIMITED** and omits a space in **LIMITED,STANLAW**.
 
 ❌ The first part of this response is incorrect, and looking closely at Image A6, we can see why:
 
