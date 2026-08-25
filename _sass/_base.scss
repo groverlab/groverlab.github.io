@@ -114,7 +114,7 @@ blockquote {
     color: $gray-color-dark;
     border-left: 4px solid $gray-color-dark;
     padding-left: $spacing-unit / 2;
-    font-size: 24px;
+    font-size: 20px;
     // letter-spacing: -1px;
     // font-style: italic;
 
@@ -122,6 +122,10 @@ blockquote {
         margin-bottom: 0;
     }
 }
+blockquote p {
+    font-size: inherit;
+}
+
 
 
 
