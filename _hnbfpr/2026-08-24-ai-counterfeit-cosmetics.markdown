@@ -334,49 +334,98 @@ I read on to find out Gemini's claimed reasons for suspecting Package C:
 
 ![](/assets/rhode_C2_closeup_1.JPG) ![](/assets/rhode_C2_closeup_2.JPG)
 
-Two chemical terms that had a "v" instead of a "y".  
+Two chemical terms with a "v" instead of a "y".  These mistakes were eerily similar to the typos that Gemini found in the ingredient lists of the counterfeit Packages A and B.
 
-> 🤖 "Grammar/Accent Errors (Image C2): The Italian translation line at the top prints **'TINTA LABBRÂ'** with an incorrect circumflex accent over the final 'A'."
+Is it possible that the product from Sephora is also fake?
 
-I think it's a Ã
+To find out, I went to the source and purchased a tube of Rhode Peptide Lip Tint (ribbon) directly from [Rhode's website](https://www.rhodeskin.com/products/peptide-lip-tint-ribbon):
+
+![]()
+
+If this package isn't authentic, then nothing is.  And I checked the ingredients list:
+
+![]()
+
+There they are, "S**v**nthetic" and "Ethylhex**v**l," just like my Package C from Sephora.  Authentic Rhode packages do have typos in their ingredient lists.
+
+I reached out to Rhode for a final confirmation, and I haven't yet heard back from them.  But I think the take-home message is clear: *errors in chemical names in ingredient lists, while strongly associated with counterfeit products, can also appear in authentic products.*  A typo on a package unfortunately isn't proof that the product is fake.
+
+<br>
+
+I then looked at the other problems that Gemini had found with Package C:
+
+> 🤖 "Grammar/Accent Errors (Image C2): The Italian translation line at the top prints **'TINTA LABBRÂ'** with an incorrect circumflex accent over the final **'A'**."
+
+✅ This appears to be correct too.  I think it's actually a tilde (Ã) above the A on the box and not a circumflex, but either way, Google Translate indicates that no accent is necessary in "TINTA LABBRA" ("lip stain").
+
+<br>
 
 > 🤖 "Barcode Printing (Image C3): The font weight and numeric alignment on the barcode sticker differ from standard factory unit packaging."
 
-❌ 
+❌ I don't see it.  The barcode in Image C3 appears to be identical to the barcode on my package shipped directly from Rhode.
 
-> 🤖 "Additional Physical Checks for the Tube:"
+<br>
 
-again providing extra advice
+Now, as in Gemini's response for Package B, the AI suggests the same two additional tests that a consumer can use to check for authenticity:
 
-> 🤖 "Applicator Orientation: On an authentic Rhode tube, when you hold the slanted tip against your lips while looking in a mirror, the printed rhode logo on the front faces outward toward the mirror. Counterfeits frequently have the slanted applicator attached backward or off-center."
+> 🤖 "Additional Physical Checks for the Tube:  Applicator Orientation: On an authentic Rhode tube, when you hold the slanted tip against your lips while looking in a mirror, the printed rhode logo on the front faces outward toward the mirror. Counterfeits frequently have the slanted applicator attached backward or off-center."
+
+Same as before, this is true for all of the packages I've collected, both authentic and counterfeit.
+
+<br>
 
 > 🤖 "Scent & Formula: Genuine Rhode lip tints have a smooth, cushiony, non-sticky texture. Counterfeit formulas often feel gritty, watery, or overly sticky and frequently carry a heavy plastic or chemical odor."
 
+Also same as before.
+
+<br>
+
 > 🤖 "Because counterfeit cosmetics are unregulated and can cause allergic reactions or skin irritation, it is safest to avoid using this product."
+
+Gee, Gemini, that's unfortunate because I paid $20 for it and it's actually authentic!
+
+<br>
+
+I then prompted the AI for more red flags, and these were the results:
 
 > 🤖 "Debossed Box Border (Image C1): The front of the carton features a raised, rectangular inset frame stamped around the text. Genuine Rhode boxes have a completely smooth, flat front panel with clean text printing rather than an embossed outline."
 
 ❌ 
 
+<br>
+
 > 🤖 "Distorted Cruelty-Free Icon (Image C3): The bunny icon next to the 12M PAO symbol on the back of the box is a generic, warped silhouette instead of Rhode's official Leaping Bunny logo."
 
-❌ 
+❌ Same as in Package B, this is incorrect.
+
+<br>
 
 > 🤖 "Text Ghosting on Tube (Image C5): The French translation line (**"BAUME À LÈVRES TEINTÉ AUX PEPTIDES"**) on the front of the plastic tube shows distinct shadow ghosting beneath the white letters, caused by misaligned double-printing."
 
-❌ 
+❌ Wrong; this appears to be yet another case of Gemini mistaking glare for a printing error.
+
+<br>
 
 > 🤖 "Overly Bold Crimp Batch Stamp (Image C6): The batch code (116099) pressed into the end seal of the tube is exceptionally deep, thick, and large. Authentic Rhode tubes use a much finer, subtle font for batch stamp indents."
 
-❌ 
+❌ Also incorrect.  Maybe the lighting made the batch stamp look unusually deep?  Regardless, it's very similar to the tube direct from Rhode (but with a different batch number, as you might expect).
+
+<br>
 
 > 🤖 "Misaligned Shade Label (Image C6): The shade name "ribbon" is printed off-center directly against the crimped edge, causing the text to fade out along the border."
 
-❌ 
+❌ Gemini also observed this in the fake packages, but to my eye the shade name is printed in roughly the same location on all of my tubes, both authentic and counterfeit.
+
+<br>
 
 > 🤖 "Coarse Crimp Texture (Images C5 & C6): The vertical seal ridges on the flat end of the tube are rough and unevenly pressed, whereas authentic packaging features a smooth, uniform crimp."
 
-❌ 
+❌ Similar to the batch code above, I think the lighting is playing tricks on Gemini.
+
+<br>
+
+asdf
+
 
 
 
