@@ -301,7 +301,7 @@ The logos look pretty similar to me.
 
 ❌ This is totally wrong; the *box* is not encased in shrink wrap.  I think that Images B1 and B3 both have spots with high glare on the packages, and Gemini mistook this shiny surface for plastic wrap.  The AI is right that authentic boxes don't come with shrinkwrap, though.
 
-
+<br>
 
 
 
@@ -309,19 +309,32 @@ The logos look pretty similar to me.
 
 # Package C
 
-**Package C is authentic.**  I purchased it from a Sephora store in Moreno Valley, California for about $20.  Sephora is one of [Rhode's official resellers](https://www.rhodeskin.com/pages/faq) so its reasonable to assume that the product will be authentic.
+**Package C is authentic.**  I purchased it from a Sephora store in Moreno Valley, California for about $20.  Sephora is one of [Rhode's authorized resellers](https://www.rhodeskin.com/pages/faq) so it's reasonable to assume that the product will be authentic.
 
 So what does Gemini think of the authentic Package C?
 
-> 🤖 "Based on the details visible in your images, this tube and box of Rhode Peptide Lip Tint (in the shade Ribbon) show definitive signs of being a counterfeit product."
+<br>
+
+> 🤖 "Based on the details visible in your images, this tube and box of Rhode Peptide Lip Tint (in the shade Ribbon) show **definitive signs of being a counterfeit product**."
 
 ![](/assets/monkey.gif)
 
 Whaaaaaaat???  
 
+After going two-for-two successfully identifying counterfeit Rhode Peptide Lip Tint, Gemini says that the package I bought at Sephora is also fake?!?  And Gemini doesn't mince words---it said Packages A and B merely "appeared to be counterfeit" but my Package C from Sephora has "definitive signs of being a counterfeit product"?!?
 
-> 🤖 "Specific Red Flags Found in Your Photos:"
-> "Spelling Typos in the Ingredients (Image C2): The ingredient list contains obvious spelling errors that would not pass authentic quality control. It lists "Svnthetic Fluorphlogopite" (using a 'v' instead of a 'y') and "Ethylhexvl Palmitate"(using a 'v' instead of a 'y')."
+I read on to find out Gemini's claimed reasons for suspecting Package C:
+
+<br>
+
+
+> 🤖 "Spelling Typos in the Ingredients ([Image C2](/assets/rhode_C2.JPG)): The ingredient list contains obvious spelling errors that would not pass authentic quality control. It lists **"Svnthetic Fluorphlogopite"** (using a **'v'** instead of a **'y'**) and **"Ethylhexvl Palmitate"** (using a **'v'** instead of a **'y'**)."
+
+✅ I pulled out the box to take a look, and by golly, Gemini was right:
+
+![](/assets/rhode_C2_closeup_1.JPG) ![](/assets/rhode_C2_closeup_2.JPG)
+
+Two chemical terms that had a "v" instead of a "y".  
 
 > 🤖 "Grammar/Accent Errors (Image C2): The Italian translation line at the top prints **'TINTA LABBRÂ'** with an incorrect circumflex accent over the final 'A'."
 
