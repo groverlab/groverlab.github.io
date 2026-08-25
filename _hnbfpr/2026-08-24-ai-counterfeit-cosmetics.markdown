@@ -193,7 +193,11 @@ Good advice!  I then gave Gemini my follow-up prompt, "Are there any other red f
 
 # Tube B
 
+**Package B is also fake.**  It was another sketchy $5 eBay purchase.  But what does Gemini say? 
+
 > 🤖 "Based on multiple spelling errors, spacing glitches, and formatting issues across the packaging and tube, this item appears to be counterfeit. Authentic products from established cosmetics brands go through strict quality checks, whereas fakes frequently contain text errors."
+
+✅ Another correct ID of a counterfeit product from Gemini.  On to the reasons:
 
 > 🤖 "Key Red Flags on Packaging & Tube:
 > Spelling Error in Usage Instructions (Image B3): The top line of the usage text reads 'Appli tinted lip treatment daily...' instead of 'Apply'."
