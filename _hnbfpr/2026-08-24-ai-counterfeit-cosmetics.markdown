@@ -315,7 +315,7 @@ So what does Gemini think of the authentic Package C?
 
 > 🤖 "Based on the details visible in your images, this tube and box of Rhode Peptide Lip Tint (in the shade Ribbon) show definitive signs of being a counterfeit product."
 
-~[](/assets/monkey.gif)
+![](/assets/monkey.gif)
 
 Whaaaaaaat???  
 
