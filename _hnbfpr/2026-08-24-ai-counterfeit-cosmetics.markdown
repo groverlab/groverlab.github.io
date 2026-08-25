@@ -12,8 +12,15 @@ As part of an ongoing study, I've been purchasing both authentic and counterfeit
 
 <!--more-->
 
-To explore this idea, I took photos of three different tubes of Rhode Peptide Lip Tint.  I chose this product because it's a known target for counterfeiters according to [a recent New York Times article on fake beauty products](https://www.nytimes.com/wirecutter/reviews/counterfeit-beauty-products/). 
+To explore this idea, I took photos of three different tubes of Rhode Peptide Lip Tint.  I chose this product because it's a known target for counterfeiters according to [a recent New York Times article on fake beauty products](https://www.nytimes.com/wirecutter/reviews/counterfeit-beauty-products/).  For each tube, I took four photos of the cardboard box (one for each side) and two photos of the tube itself (front and back).  I then uploaded each tube's six photos to Google Gemini and used the Gemini 3.6 Flash model with Thinking enabled and fed it this prompt:
 
+![](/assets/rhode_prompt_1.png) 
+
+I then recorded the model's response, then I prodded it to work a little harder using this prompt:
+
+![](/assets/rhode_prompt_2.png) 
+
+I repeated this process for all three tubes of the product.
 
 
 # Tube A
