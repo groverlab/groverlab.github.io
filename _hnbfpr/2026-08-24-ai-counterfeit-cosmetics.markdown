@@ -25,22 +25,22 @@ I repeated this process for all three tubes of the product.
 # Tube A
 
 ## Photo A1:
-![](/assets/rhode_A1.png) 
+![](/assets/rhode_A1.JPG) 
 
 ## Photo A2:
-![](/assets/rhode_A2.png) 
+![](/assets/rhode_A2.JPG) 
 
 ## Photo A3:
-![](/assets/rhode_A3.png) 
+![](/assets/rhode_A3.JPG) 
 
 ## Photo A4:
-![](/assets/rhode_A4.png) 
+![](/assets/rhode_A4.JPG) 
 
 ## Photo A5:
-![](/assets/rhode_A5.png) 
+![](/assets/rhode_A5.JPG) 
 
 ## Photo A6:
-![](/assets/rhode_A6.png) 
+![](/assets/rhode_A6.JPG) 
 
 
 
