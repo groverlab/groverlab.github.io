@@ -271,12 +271,17 @@ After receiving my follow-up prompt, Gemini continued:
 
 > 🤖 "Uneven Text Spacing ([Image B4](/assets/rhode_B4.JPG)): The key ingredients list on the box side contains wide, irregular spacing gaps between **BABASSU** and **CUPUAÇU**."
 
-✅ TTT
+✅ Honestly, that side of this box is the most sketchy thing I've noticed on all the counterfeit packaging I've collected.  "Oh, we still need something for the side of the box with the barcode?  Let's put THREE DIFFERENT OILS plus 'PEPTIDE' in ALL CAPS with weird spacing.  Good work everyone!"  Current authentic packages have one side of the box that's completely blank.
 
 <br>
+
 > 🤖 "Distorted Logos (Image B6): The Leaping Bunny cruelty-free symbol printed on the back of the tube next to the 12M icon is stretched and warped."
 
-❌ 
+❌ I'm calling this incorrect.  Here's a closeup of the suspect Leaping Bunny logo on Image B6, compared to 
+
+![](/assets/rhode_B6_closeup.JPG)
+
+
 
 <br>
 
