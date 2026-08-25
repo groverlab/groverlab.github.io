@@ -279,7 +279,7 @@ After receiving my follow-up prompt, Gemini continued:
 
 ❌ I'm calling this incorrect.  Here's a closeup of the suspect Leaping Bunny logo on Image B6, compared to 
 
-![](/assets/rhode_B6_closeup.JPG)
+![](/assets/rhode_B6_closeup.JPG) ![](/assets/leaping_bunny.png)
 
 
 
