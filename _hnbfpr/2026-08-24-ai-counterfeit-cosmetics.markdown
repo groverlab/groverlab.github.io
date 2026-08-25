@@ -277,29 +277,29 @@ After receiving my follow-up prompt, Gemini continued:
 
 > 🤖 "Distorted Logos (Image B6): The Leaping Bunny cruelty-free symbol printed on the back of the tube next to the 12M icon is stretched and warped."
 
-❌ I'm calling this incorrect.  Here's a closeup of the suspect Leaping Bunny logo on Image B6, compared to 
+❌ I'm calling this incorrect.  Here's a closeup of the suspect Leaping Bunny logo from Image B6 on the left, compared to the Leaping Bunny logo from the [website of the Leaping Bunny Program](https://www.leapingbunny.org) on the right:
 
 ![](/assets/rhode_B6_closeup.JPG) ![](/assets/leaping_bunny.png)
 
-
-
-<br>
-
-> 🤖 "Faded Tube Printing (Image B5): The French description and volume details (10 mL / 0.3 fl oz e) on the front of the tube are printed in a low-contrast, barely legible grey font rather than crisp white."
-
-❌ 
+The logos look pretty similar to me.  
 
 <br>
 
-> 🤖 "Messy Crimp Stamping (Image B6): The stamped batch code on the tube crimp overlaps the printed white vertical stripe unevenly."
+> 🤖 "Faded Tube Printing ([Image B5](/assets/rhode_B5.JPG)): The French description and volume details (10 mL / 0.3 fl oz e) on the front of the tube are printed in a low-contrast, barely legible grey font rather than crisp white."
 
-❌ 
+❌ Another borderline claim.  I think that the text is illegible in [Image B5](/assets/rhode_B5.JPG) because it is located along the curved side of the tube and is poorly illuminated, not because of a printing defect, so I'll count this one as a failure.
+
+<br>
+
+> 🤖 "Messy Crimp Stamping ([Image B6](/assets/rhode_B6.JPG)): The stamped batch code on the tube crimp overlaps the printed white vertical stripe unevenly."
+
+❌ To my eye, the orientation of the white strip relative to the batch code is similar to that found on authentic tubes, so this is incorrect.
 
 <br>
 
 > 🤖 "Excessive Shrink Wrap (Images B1 & B3): The outer box is encased in thick, heavily wrinkled plastic shrink wrap with warped seams, which differs from authentic retail box packaging."
 
-❌ 
+❌ This is totally wrong; the *box* is not encased in shrink wrap.  I think that Images B1 and B3 both have spots with high glare on the packages, and Gemini mistook this shiny surface for plastic wrap.  The AI is right that authentic boxes don't come with shrinkwrap, though.
 
 
 
