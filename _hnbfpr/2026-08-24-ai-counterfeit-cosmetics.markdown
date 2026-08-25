@@ -305,9 +305,20 @@ The logos look pretty similar to me.
 
 
 
-# Tube C
+
+
+# Package C
+
+**Package C is authentic.**  I purchased it from a Sephora store in Moreno Valley, California for about $20.  Sephora is one of [Rhode's official resellers](https://www.rhodeskin.com/pages/faq) so its reasonable to assume that the product will be authentic.
+
+So what does Gemini think of the authentic Package C?
 
 > 🤖 "Based on the details visible in your images, this tube and box of Rhode Peptide Lip Tint (in the shade Ribbon) show definitive signs of being a counterfeit product."
+
+~[](/assets/monkey.gif)
+
+Whaaaaaaat???  
+
 
 > 🤖 "Specific Red Flags Found in Your Photos:"
 > "Spelling Typos in the Ingredients (Image C2): The ingredient list contains obvious spelling errors that would not pass authentic quality control. It lists "Svnthetic Fluorphlogopite" (using a 'v' instead of a 'y') and "Ethylhexvl Palmitate"(using a 'v' instead of a 'y')."
