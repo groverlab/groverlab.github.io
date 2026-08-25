@@ -259,27 +259,38 @@ After receiving my follow-up prompt, Gemini continued:
 
 ✅ This is correct, and it's a repeat of the same postal code problem that Gemini detected in Package A.
 
+<br>
+
 > 🤖 "Ingredient Spelling Error (Image B2): The compound **Phytosteryl/Isostearyl** is misspelled as **Phytosteryl/Isosteararyl** with an extra **'ar'**."
 
 ❌ That's a mistake.  When pressed to look for more errors in the ingredient list, Gemini mistook a paper crease for a typo:
 
 ![](/assets/rhode_B2_closeup.JPG) 
 
-> 🤖 "Uneven Text Spacing (Image B4): The key ingredients list on the box side contains wide, irregular spacing gaps between **BABASSU** and **CUPUAÇU**."
+<br>
 
-✅
+> 🤖 "Uneven Text Spacing ([Image B4](/assets/rhode_B4.JPG)): The key ingredients list on the box side contains wide, irregular spacing gaps between **BABASSU** and **CUPUAÇU**."
 
+✅ TTT
+
+<br>
 > 🤖 "Distorted Logos (Image B6): The Leaping Bunny cruelty-free symbol printed on the back of the tube next to the 12M icon is stretched and warped."
 
 ❌ 
+
+<br>
 
 > 🤖 "Faded Tube Printing (Image B5): The French description and volume details (10 mL / 0.3 fl oz e) on the front of the tube are printed in a low-contrast, barely legible grey font rather than crisp white."
 
 ❌ 
 
+<br>
+
 > 🤖 "Messy Crimp Stamping (Image B6): The stamped batch code on the tube crimp overlaps the printed white vertical stripe unevenly."
 
 ❌ 
+
+<br>
 
 > 🤖 "Excessive Shrink Wrap (Images B1 & B3): The outer box is encased in thick, heavily wrinkled plastic shrink wrap with warped seams, which differs from authentic retail box packaging."
 
