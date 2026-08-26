@@ -435,7 +435,7 @@ Two different chemical terms, each with a "v" instead of a "y".  These mistakes 
 
 **Is it possible that the product from Sephora was also fake?**
 
-To find out, I went to the source and purchased a tube of Rhode Peptide Lip Tint (ribbon) directly from [Rhode's website](https://www.rhodeskin.com/products/peptide-lip-tint-ribbon):
+To find out, I went to the source and purchased a tube of Rhode Peptide Lip Tint ("ribbon" shade) directly from [Rhode's website](https://www.rhodeskin.com/products/peptide-lip-tint-ribbon):
 
 ![](/assets/rhode_factory.jpeg)
 
@@ -465,7 +465,7 @@ I then looked at the other problems that Gemini had found with Package C:
 
 <br>
 
-Now, as in Gemini's response for Package B, the AI suggests the same two additional tests that a consumer can use to check for authenticity:
+Now, just like in Gemini's response for Package B, the AI suggests the same two additional tests that a consumer can use to check for authenticity:
 
 > 🤖 "Additional Physical Checks for the Tube:  Applicator Orientation: On an authentic Rhode tube, when you hold the slanted tip against your lips while looking in a mirror, the printed rhode logo on the front faces outward toward the mirror. Counterfeits frequently have the slanted applicator attached backward or off-center."
 
@@ -478,6 +478,8 @@ Same as before, this is true for all of the packages I've collected, both authen
 Also same as before.
 
 <br>
+
+Gemini concludes:
 
 > 🤖 "Because counterfeit cosmetics are unregulated and can cause allergic reactions or skin irritation, it is safest to avoid using this product."
 
@@ -527,14 +529,14 @@ I then prompted the AI for more red flags, and these were the results:
 
 # Conclusions
 
-Based on this little experiment, what are the prospects for using commercial AI tools like Gemini to identify counterfeit cosmetics?  
+Based on this little experiment, what are the prospects for using commercial AI tools like Gemini to identify counterfeit cosmetics?  Here are my thoughts.
 
-**AI was better than I expected at finding fakes.**  Gemini found meaningful packaging discrepancies that I didn't, like the mismatch between the distributor names on the box and the tube in Package A, and the malformed Irish postal codes on Packages B and C.  I suspect that the vast majority of humans inspecting these packages wouldn't pick up on these discrepancies.  Even if they did, they'd likely have to spend significant time poring over the packages to find these errors.  Gemini found them in a few seconds using just six photos of each package.  And this was using a general-purpose model, not one tailored for this particular task.  I'd say that for this particular skincare product and this particular AI model, AI will do a better job than the average human at detecting a fake.  But this is a popular brand with a known history of attracting counterfeiters, and there are obviously hundreds of other beauty products on the shelves; AI might not do as good a job detecting fake versions of those.
+**AI was better than I expected at finding fakes.**  Gemini found meaningful packaging discrepancies that I didn't, like the mismatch between the distributor names on the box and the tube in Package A, and the malformed Irish postal codes on Packages A and B.  I suspect that the vast majority of humans inspecting these packages wouldn't pick up on these discrepancies.  Even if they did, they'd likely have to spend significant time poring over the packages to find these errors.  Gemini found them in a few seconds using just six photos of each package.  And this was using a general-purpose model, not one tailored for this particular task.  I'd say that for this particular skincare product and this particular AI model, AI will do a better job than the average human at detecting a fake.  But this is a popular brand with a known history of attracting counterfeiters, and there are obviously hundreds of other beauty products on the shelves; AI might not do as good a job detecting fake versions of those.
 
-**AI struggled with photo artifacts.**  Most of Gemini's mistakes could be attributed to glare, shadow, parallax, and other photographic peculiarities.  This was a natural consequence of having only a few still images of each product to analyze.  In contrast, a human inspecting a package is constantly moving the box and tube to inspect it from all angles, so a human won't make these mistakes.  Having AI tools analyze short videos of suspect packages may be a more effective strategy than the one employed here.
+**AI struggled with photo artifacts.**  Most of Gemini's mistakes could be attributed to glare, shadow, parallax, and other photographic peculiarities.  This was a natural consequence of having only a few still images of each product to analyze.  In contrast, a human inspecting a package is constantly moving the box and tube to inspect it from all angles, so a human wouldn't make these mistakes.  Having AI tools analyze short videos of suspect packages may be a more effective strategy than the one employed here.
 
 **AI was very good at finding typos on packaging.**  Most people won't notice the difference between "octyldodecanol" and "octyidodecanol" in a long list of chemicals, but AI excels at finding these errors. And typos like these frequently occur on counterfeit packages of this product, so AI-assisted typo detection could be an effective tool for identifying counterfeit products.  HOWEVER...
 
-**Authentic products can have typos too.**  It's unfortunate that authentic packages of Rhode Peptide Lip Tint have two typos in their ingredient lists.  It doesn't just reflect poorly on Rhode's quality control---it also puts their products at greater risk of being incorrectly flagged as counterfeit by AI tools like Gemini which justifiably associate typos with counterfeit products.  Reputable manufacturers need to avoid mistakes on their packaging, especially if people start relying on their AI-powered phones to check the authenticity of a product before purchasing it.  And we should be looking into other anti-counterfeiting technologies too---I'm personally a fan of using random patterns to uniquely identify products, as we did with pharmaceuticals in our work on [CandyCodes](https://www.nature.com/articles/s41598-022-11234-4).
+**Authentic products can have typos too.**  It's unfortunate that authentic packages of Rhode Peptide Lip Tint have two typos in their ingredient lists.  It doesn't just reflect poorly on Rhode's quality control---it also puts their products at greater risk of being incorrectly flagged as counterfeit by AI tools like Gemini which justifiably associate typos with counterfeit products.  Reputable manufacturers need to avoid mistakes on their packaging, especially if people start relying on their AI-powered phones to check the authenticity of a product before purchasing it.  And we should be developing other anti-counterfeiting technologies too---I'm personally a fan of using random patterns to uniquely identify products, as we did with pharmaceuticals a few years ago in our work on [CandyCodes](https://www.nature.com/articles/s41598-022-11234-4).
 
-In conclusion, I'm pretty tepid about AI in general, but this experience made me cautiously optimistic about the role the technology could play in protecting consumers from counterfeit products.
+In conclusion, **I'm pretty negative about AI in general, but this experience made me cautiously optimistic about the role the technology could play in protecting consumers from counterfeit products.**
