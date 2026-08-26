@@ -334,6 +334,8 @@ But Gemini's claim that "Authentic Rhode packaging reads **'Apply this tinted li
 
 Gemini's next two responses aren't specific to the photos; rather, they're general advice on additional steps an individual might take to determine the authenticity of their product.
 
+<br>
+
 > 🤖 "Applicator Orientation: On genuine Rhode tubes, when looking at the front logo, the slanted tip of the applicator should face away from you."
 
 This is true of authentic tubes, but it's also true of every fake tube I've collected, so this is clearly not a reliable rule-of-thumb.  But the applicator isn't visible in my photos, so I'm not scoring this one way or another.
@@ -388,13 +390,13 @@ The logos look pretty similar to me.
 
 > 🤖 "Messy Crimp Stamping ([Image B6](/assets/rhode_B6.JPG)): The stamped batch code on the tube crimp overlaps the printed white vertical stripe unevenly."
 
-❌ To my eye, the orientation of the white strip relative to the batch code is similar to that found on authentic tubes, so this is incorrect.
+❌ To my eye, the orientation of the white stripe relative to the batch code is similar to that found on authentic tubes, so this is incorrect.
 
 <br>
 
 > 🤖 "Excessive Shrink Wrap ([Images B1](/assets/rhode_B1.JPG) & [B3](/assets/rhode_B3.JPG)): The outer box is encased in thick, heavily wrinkled plastic shrink wrap with warped seams, which differs from authentic retail box packaging."
 
-❌ This is totally wrong; the *box* is not encased in shrink wrap.  I think that [Images B1](/assets/rhode_B1.JPG) and [B3](/assets/rhode_B3.JPG) both have spots with high glare on the packages, and Gemini mistook this shiny surface for plastic wrap.  The AI is right that authentic boxes don't come with shrinkwrap, though.
+❌ This is totally wrong; the box is **not** encased in any shrink wrap.  I think that [Images B1](/assets/rhode_B1.JPG) and [B3](/assets/rhode_B3.JPG) both have spots with high glare on the packages, and Gemini mistook this shiny surface for plastic wrap.  The AI is right that authentic boxes don't come with shrink wrap, though.
 
 <br>
 
@@ -427,7 +429,7 @@ I read on to find out Gemini's claimed reasons for suspecting Package C:
 
 ✅ I pulled out the box to take a look, and by golly, Gemini was right:
 
-![](/assets/rhode_C2_closeup_1.JPG) ![](/assets/rhode_C2_closeup_2.JPG)
+![](/assets/rhode_C2_closeup_2.JPG)  ![](/assets/rhode_C2_closeup_1.JPG) 
 
 Two different chemical terms, each with a "v" instead of a "y".  These mistakes were eerily similar to the typos that Gemini found in the ingredient lists of the counterfeit Packages A and B.
 
