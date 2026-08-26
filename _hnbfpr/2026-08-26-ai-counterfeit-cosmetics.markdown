@@ -23,7 +23,7 @@ I recorded the model's response, then I prodded it to work a little harder using
 ![](/assets/rhode_prompt_2.png) 
 
 
-I repeated this process for all three packages of the product.  The results are further down, but if you'd like to first try your hand at determining whether these packages are authentic or counterfeit, here are the photos.  There are three packages (A, B, and C), each with six images of the package (Image A1, A2, A3, etc.): 
+I repeated this process for all three packages of the product.  The results are further down, but if you'd like to first try your hand at determining whether these packages are authentic or counterfeit, here are the photos.  You can click or tap on each photo to view it full size.  There are three packages (A, B, and C), each with six images of the package (Image A1, A2, A3, etc.): 
 
 <br>
 <br>
