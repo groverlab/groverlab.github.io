@@ -28,7 +28,7 @@ I then recorded the model's response, then I prodded it to work a little harder 
 
 <br>
 
-I repeated this process for all three packages of the product.  The results are below, but if you'd like to try your hand at determining whether the tubes are authentic or counterfeit, here are the photos.  There are three tubes (A, B, and C), with six photos of each package (A1, A2, A3, etc.): 
+I repeated this process for all three packages of the product.  The results are below, but if you'd like to try your hand at determining whether the tubes are authentic or counterfeit, here are the photos.  There are three tubes (A, B, and C), with six images of each package (Image A1, A2, A3, etc.): 
 
 <br>
 
@@ -100,7 +100,7 @@ I repeated this process for all three packages of the product.  The results are 
 
 <br>
 
-Those are the photos that I fed to Gemini.  If you want to try to determine for yourself which ones are real and which are fake, don't scroll any further!
+Those are the photos that I fed to Gemini.  If you want to try to determine for yourself which of the three packages are real and which are fake, don't scroll any further!
 
 When you're done, scroll on for my analysis of Gemini's assessments of these products....
 
@@ -134,7 +134,7 @@ For each package below, I start by saying where I got it from and whether it is 
 
 > 🤖 "On the back of the tube, the regulatory text misspells **SOLUTIONS** as **PWC SOLOTIONS LIMITED** and omits a space in **LIMITED,STANLAW**.
 
-❌ The first part of this response is incorrect, and looking closely at Image A6, we can see why:
+❌ The first part of this response is incorrect, and looking closely at [Image A6](/assets/rhode_A6.JPG), we can see why:
 
 ![](/assets/rhode_A6_closeup.JPG) 
 
@@ -164,37 +164,37 @@ Good advice!  I then gave Gemini my follow-up prompt, "Are there any other red f
 
 <br>
 
-> 🤖 "Several additional packaging, text, and manufacturing red flags are present across the box and tube: Redundant Product Description: The back of the box (Image A3) states, **'Apply this tinted lip tint daily...'**  Authentic Rhode packaging reads **'Apply this tinted lip treatment daily...'** Calling it a **'tinted lip tint'** is a clear text error."
+> 🤖 "Several additional packaging, text, and manufacturing red flags are present across the box and tube: Redundant Product Description: The back of the box ([Image A3](/assets/rhode_A3.JPG)) states, **'Apply this tinted lip tint daily...'**  Authentic Rhode packaging reads **'Apply this tinted lip treatment daily...'** Calling it a **'tinted lip tint'** is a clear text error."
 
 ✅  Gemini is correct that **"tinted lip tint"** is suspicious; the AI seems to be picking up on the awkward repetition of "tint," and I noticed this one too.  But Gemini's claim that "Authentic Rhode packaging reads **'Apply this tinted lip treatment daily'**" is incorrect, or at least out-of-date.  Current authentic packages read **"Apply this nourishing formula for a hint of tint and hydrated, pillowy-soft lips."** I'll call this response a success, even though Gemini got some of the details wrong.  
 
 <br>
 
-> 🤖 "Italian Recycling Misspelling: Above the recycling icon on the box back (Image A3), the text reads **RACCOLTA PLASTIC**. The correct Italian term is **RACCOLTA PLASTICA** (missing the **'A'** at the end)."
+> 🤖 "Italian Recycling Misspelling: Above the recycling icon on the box back ([Image A3](/assets/rhode_A3.JPG)), the text reads **RACCOLTA PLASTIC**. The correct Italian term is **RACCOLTA PLASTICA** (missing the **'A'** at the end)."
 
-✅ Correct!  And I missed this one (my Italian is limited to menu items at restaurants).   I'll also note that this phrase (correct or otherwise) doesn't appear at all on current authentic packages.  
+✅ Correct!  And I missed this one (my Italian is limited to menu items at restaurants) but Google Translate informs me that "raccolta plastica" means "plastic collection."   I'll also note that this phrase (correct or otherwise) doesn't appear at all on current authentic packages, at least not on the ones I've gotten here in the US.  
 
 <br>
 
-> 🤖  "Postal Code Letter/Number Swap: On the regulatory text on the back of the tube (Image A6), the Dublin postal code uses the capital letter **O** instead of the number **0** (**DO1 A2T5** instead of **D01 A2T5**)."
+> 🤖  "Postal Code Letter/Number Swap: On the regulatory text on the back of the tube ([Image A6](/assets/rhode_A6.JPG)), the Dublin postal code uses the capital letter **O** instead of the number **0** (**DO1 A2T5** instead of **D01 A2T5**)."
 
 ✅ Now Gemini is just showing off...  The AI is correct on all fronts:  Ireland uses seven-character postal codes (called [Eircodes](https://en.wikipedia.org/wiki/Postal_addresses_in_the_Republic_of_Ireland)); the first three characters are called the *routing key* and **D01** (dee-zero-one) is the valid routing key for the [Dublin 1 postal district](https://en.wikipedia.org/wiki/Dublin_1).  But the tube says **DO1** (dee-oh-one) and that's not a valid routing key.  Hats off to Gemini on this one; I don't have enough familiarity with postal codes to notice something like this.   
 
 <br>
 
-> 🤖 "Box-Outline Debossing: Image A1 shows a stamped rectangular border outline debossed into the cardboard around the front text (rhode PEPTIDE LIP TINT...). Official Rhode unit cartons are smooth and do not have this outer mold line stamped around the front logos."
+> 🤖 "Box-Outline Debossing: [Image A1](/assets/rhode_A1.JPG) shows a stamped rectangular border outline debossed into the cardboard around the front text (rhode PEPTIDE LIP TINT...). Official Rhode unit cartons are smooth and do not have this outer mold line stamped around the front logos."
 
 ❌ This is totally wrong.  Current authentic boxes of Rhode Peptide Lip Tint *do* have an embossed border around the front text, in the shape of the outline of the tube.  
 
 <br>
 
-> 🤖 "Volume Spacing Errors: On the front right side of the box (Image A1), the measurement text is crammed together as **10mL/0.3floze** without standard spaces separating the units or the **e** estimate symbol."
+> 🤖 "Volume Spacing Errors: On the front right side of the box ([Image A1](/assets/rhode_A1.JPG)), the measurement text is crammed together as **10mL/0.3floze** without standard spaces separating the units or the **e** estimate symbol."
 
-❌ Also wrong.  The volume measurement text does look crammed together in Image A1, but it looks similarly crammed together on authentic boxes too.
+❌ Also wrong.  The volume measurement text does look crammed together in [Image A1](/assets/rhode_A1.JPG), but it looks similarly crammed together on authentic boxes too.
 
 <br>
 
-> 🤖 "Shade Name Placement: On the tube (Image A6), the shade label ribbon is printed sideways directly against the crimped seam edge, which differs from standard factory placement."
+> 🤖 "Shade Name Placement: On the tube ([Image A6](/assets/rhode_A6.JPG)), the shade label ribbon is printed sideways directly against the crimped seam edge, which differs from standard factory placement."
 
 ❌ I'm also calling this one wrong.  In my judgement, the location of the shade name on [Image A6](/assets/rhode_A6.JPG) is indistinguishable from the location of the shade name on an authentic tube.  
 
@@ -218,29 +218,29 @@ Good advice!  I then gave Gemini my follow-up prompt, "Are there any other red f
 
 <br>
 
-> 🤖 "Key Red Flags on Packaging & Tube:  Spelling Error in Usage Instructions (Image B3): The top line of the usage text reads 'Appli tinted lip treatment daily...' instead of 'Apply'."
+> 🤖 "Key Red Flags on Packaging & Tube:  Spelling Error in Usage Instructions ([Image B3](/assets/rhode_B3.JPG)): The top line of the usage text reads 'Appli tinted lip treatment daily...' instead of 'Apply'."
 
 ❌ Incorrect.  This is another case of Gemini mistaking light glare for a typo.
 
-> 🤖 "Misspelled Ingredients (Image B2): The ingredients list contains chemical spelling errors, including 'Octyidodecanol' (instead of Octyldodecanol) and 'Fliuorphlogopite' (instead of Fluorphlogopite)."
+> 🤖 "Misspelled Ingredients ([Image B2](/assets/rhode_B2.JPG)): The ingredients list contains chemical spelling errors, including 'Octyidodecanol' (instead of Octyldodecanol) and 'Fliuorphlogopite' (instead of Fluorphlogopite)."
 
 ✅ That's right.  For a second time, Gemini notices typos in the complex chemical names in the ingredient list.  I think the second chemical is actually "Flluorphiogopite" on the box, but either way, it's a misspelling.  I noticed this one as well.
 
 <br>
 
-> 🤖 "Lowercase Country Name (Image B3): The origin line reads 'Made in italy' using a lowercase 'i' instead of capitalized 'Italy'."
+> 🤖 "Lowercase Country Name ([Image B3](/assets/rhode_B3.JPG)): The origin line reads 'Made in italy' using a lowercase 'i' instead of capitalized 'Italy'."
 
 ✅ This does look suspicious, especially since "Fabriqué en Italie" is capitalized correctly immediately afterwards.  I noticed this too.
 
 <br>
 
-> 🤖 "Spacing Glitches (Images B3 & B6): The box includes an errant space in **'SERVIC ES LIMITED'**, while the back of the tube omits the space in **'LIMITED,STANLAW'**.
+> 🤖 "Spacing Glitches ([Images B3](/assets/rhode_B3.JPG) & [B6](/assets/rhode_B6.JPG)): The box includes an errant space in **'SERVIC ES LIMITED'**, while the back of the tube omits the space in **'LIMITED,STANLAW'**.
 
 ✅ Correct for both.  It's interesting that the missing space in **'LIMITED,STANLAW'** affects both Package A and Package B, even though many other elements of the packaging are different.  I also noticed these typos.
 
 <br>
 
-> 🤖 "Missing Accents (Image B3): The French translation ends with **'colorees'** instead of the proper accented **'colorées'**."
+> 🤖 "Missing Accents ([Image B3](/assets/rhode_B3.JPG)): The French translation ends with **'colorees'** instead of the proper accented **'colorées'**."
 
 ✅ My French is a good (bad) as my Italian, but Google Translate indicates that "colorées" (with the accent) is correct.  I missed this one.
 
@@ -266,13 +266,13 @@ This seems like good advice, particularly regarding smell: some of my fake tubes
 
 After receiving my follow-up prompt, Gemini continued:
 
-> 🤖 "Invalid Postal Code (Images B3 & B6): The Dublin address lists the Eircode as DO1 A2T5 using the capital letter 'O' instead of the numeric zero (D01)."
+> 🤖 "Invalid Postal Code ([Images B3](/assets/rhode_B3.JPG) & [B6](/assets/rhode_B6.JPG)): The Dublin address lists the Eircode as DO1 A2T5 using the capital letter 'O' instead of the numeric zero (D01)."
 
 ✅ This is correct, and it's a repeat of the same postal code problem that Gemini detected in Package A.
 
 <br>
 
-> 🤖 "Ingredient Spelling Error (Image B2): The compound **Phytosteryl/Isostearyl** is misspelled as **Phytosteryl/Isosteararyl** with an extra **'ar'**."
+> 🤖 "Ingredient Spelling Error ([Image B2](/assets/rhode_B2.JPG)): The compound **Phytosteryl/Isostearyl** is misspelled as **Phytosteryl/Isosteararyl** with an extra **'ar'**."
 
 ❌ That's a mistake.  When pressed to look for more errors in the ingredient list, Gemini mistook a paper crease for a typo:
 
@@ -286,9 +286,9 @@ After receiving my follow-up prompt, Gemini continued:
 
 <br>
 
-> 🤖 "Distorted Logos (Image B6): The Leaping Bunny cruelty-free symbol printed on the back of the tube next to the 12M icon is stretched and warped."
+> 🤖 "Distorted Logos ([Image B6](/assets/rhode_B6.JPG)): The Leaping Bunny cruelty-free symbol printed on the back of the tube next to the 12M icon is stretched and warped."
 
-❌ I'm calling this incorrect.  Here's a closeup of the suspect Leaping Bunny logo from Image B6 on the left, compared to the Leaping Bunny logo from the [website of the Leaping Bunny Program](https://www.leapingbunny.org) on the right:
+❌ I'm calling this incorrect.  Here's a closeup of the suspect Leaping Bunny logo from [Image B6](/assets/rhode_B6.JPG), compared to the Leaping Bunny logo from the [website of the Leaping Bunny Program](https://www.leapingbunny.org) on the right:
 
 ![](/assets/rhode_B6_closeup.JPG) ![](/assets/leaping_bunny.png)
 
@@ -308,9 +308,9 @@ The logos look pretty similar to me.
 
 <br>
 
-> 🤖 "Excessive Shrink Wrap (Images B1 & B3): The outer box is encased in thick, heavily wrinkled plastic shrink wrap with warped seams, which differs from authentic retail box packaging."
+> 🤖 "Excessive Shrink Wrap ([Images B1](/assets/rhode_B1.JPG) & [B3](/assets/rhode_B3.JPG)): The outer box is encased in thick, heavily wrinkled plastic shrink wrap with warped seams, which differs from authentic retail box packaging."
 
-❌ This is totally wrong; the *box* is not encased in shrink wrap.  I think that Images B1 and B3 both have spots with high glare on the packages, and Gemini mistook this shiny surface for plastic wrap.  The AI is right that authentic boxes don't come with shrinkwrap, though.
+❌ This is totally wrong; the *box* is not encased in shrink wrap.  I think that [Images B1](/assets/rhode_B1.JPG) and [B3](/assets/rhode_B3.JPG) both have spots with high glare on the packages, and Gemini mistook this shiny surface for plastic wrap.  The AI is right that authentic boxes don't come with shrinkwrap, though.
 
 <br>
 
@@ -328,9 +328,9 @@ So what does Gemini think of the authentic Package C?
 
 > 🤖 "Based on the details visible in your images, this tube and box of Rhode Peptide Lip Tint (in the shade Ribbon) show **definitive signs of being a counterfeit product**."
 
-![](/assets/monkey.gif)
-
 Whaaaaaaat???  
+
+![](/assets/monkey.gif)
 
 After going two-for-two successfully identifying counterfeit Rhode Peptide Lip Tint, Gemini says that the package I bought at Sephora is also fake?!?  And Gemini doesn't mince words---it said Packages A and B merely "appeared to be counterfeit" but Package C from Sephora has "definitive signs of being a counterfeit product"?!?
 
@@ -367,15 +367,15 @@ I reached out to Rhode for a final confirmation, and I haven't yet heard back fr
 
 I then looked at the other problems that Gemini had found with Package C:
 
-> 🤖 "Grammar/Accent Errors (Image C2): The Italian translation line at the top prints **'TINTA LABBRÂ'** with an incorrect circumflex accent over the final **'A'**."
+> 🤖 "Grammar/Accent Errors ([Image C2](/assets/rhode_C2.JPG)): The Italian translation line at the top prints **'TINTA LABBRÂ'** with an incorrect circumflex accent over the final **'A'**."
 
 ✅ This appears to be correct too.  I think it's actually a tilde (Ã) above the A on the box and not a circumflex, but either way, Google Translate indicates that no accent is necessary in "TINTA LABBRA" ("lip stain").
 
 <br>
 
-> 🤖 "Barcode Printing (Image C3): The font weight and numeric alignment on the barcode sticker differ from standard factory unit packaging."
+> 🤖 "Barcode Printing ([Image C3](/assets/rhode_C3.JPG)): The font weight and numeric alignment on the barcode sticker differ from standard factory unit packaging."
 
-❌ I don't see it.  The barcode in Image C3 appears to be identical to the barcode on my package shipped directly from Rhode.
+❌ I don't see it.  The barcode in [Image C3](/assets/rhode_C3.JPG) appears to be identical to the barcode on my package shipped directly from Rhode.
 
 <br>
 
