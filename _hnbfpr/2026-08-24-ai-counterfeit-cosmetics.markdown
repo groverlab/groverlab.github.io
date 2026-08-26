@@ -12,13 +12,21 @@ As part of an ongoing study, I've been purchasing both authentic and counterfeit
 
 <!--more-->
 
-To explore this idea, I took photos of three different tubes of Rhode Peptide Lip Tint.  I chose this product because it's a known target for counterfeiters according to [a recent New York Times article on fake beauty products](https://www.nytimes.com/wirecutter/reviews/counterfeit-beauty-products/).  For each tube, I took four photos of the cardboard box (one for each side) and two photos of the tube itself (front and back).  I then uploaded each tube's six photos to Google Gemini and used the Gemini 3.6 Flash model with Thinking enabled and fed it this prompt:
+To explore this idea, I took photos of three different tubes of Rhode Peptide Lip Tint.  I chose this product because it's a known target for counterfeiters according to [a recent New York Times article on fake beauty products](https://www.nytimes.com/wirecutter/reviews/counterfeit-beauty-products/).  For each tube, I took four photos of the cardboard box (one for each side) and two photos of the tube itself (front and back).  I then uploaded each tube's six photos to Google Gemini and used the Gemini 3.6 Flash model with Thinking enabled and fed it the prompt, "Is this tube of Rhode Peptide Lip Tint authentic?"
+
+<br>
 
 ![](/assets/rhode_prompt_1.png) 
 
-I then recorded the model's response, then I prodded it to work a little harder using this prompt:
+<br>
+
+I then recorded the model's response, then I prodded it to work a little harder using the prompt, "Are there any other red flags you can find?"
+
+<br>
 
 ![](/assets/rhode_prompt_2.png) 
+
+<br>
 
 I repeated this process for all three packages of the product.  The results are below, but if you'd like to try your hand at determining whether the tubes are authentic or counterfeit, here are the photos.  There are three tubes (A, B, and C), with six photos of each package (A1, A2, A3, etc.): 
 
@@ -97,11 +105,14 @@ Those are the photos that I fed to Gemini.  If you want to try to determine for 
 When you're done, scroll on for my analysis of Gemini's assessments of these products....
 
 <br>
-<br>
-<br>
+
+![](/assets/intermission.jpg)
+
 <br>
 
-OK, now let's analyze the results.  For each package below, I start by saying where I got it from and whether it is authentic or counterfeit based on my assessment.  Then I go through Google Gemini's responses one-by-one, rating each response as either correct (✅) if the response is technically valid, or incorrect (❌) if Gemini got something factually wrong, along with some comments about the observation and whether it was also something that I noticed.
+Welcome back!  Let's find out if these packages are real or fake...
+
+For each package below, I start by saying where I got it from and whether it is authentic or counterfeit based on my professional assessment.  Then I go through Google Gemini's responses one-by-one, rating each response as either correct (✅) if the response is technically valid, or incorrect (❌) if Gemini got something factually wrong.
 
 # Package A
 
