@@ -28,53 +28,86 @@ I then recorded the model's response, then I prodded it to work a little harder 
 
 <br>
 
-I repeated this process for all three packages of the product.  The results are below, but if you'd like to try your hand at determining whether the tubes are authentic or counterfeit, here are the photos.  There are three tubes (A, B, and C), with six images of each package (Image A1, A2, A3, etc.): 
+I repeated this process for all three packages of the product.  The results are further down, but if you'd like to first try your hand at determining whether the tubes are authentic or counterfeit, here are the photos.  There are three tubes (A, B, and C), with six images of each package (Image A1, A2, A3, etc.): 
 
 <br>
+<br>
+
 
 # Package A
+
 
 ## Image A1:
 ![](/assets/rhode_A1.JPG) 
 
+<br>
+
+
 ## Image A2:
 ![](/assets/rhode_A2.JPG) 
+
+<br>
+
 
 ## Image A3:
 ![](/assets/rhode_A3.JPG) 
 
+<br>
+
+
 ## Image A4:
 ![](/assets/rhode_A4.JPG) 
+
+<br>
 
 ## Image A5:
 ![](/assets/rhode_A5.JPG) 
 
+<br>
+
+
 ## Image A6:
 ![](/assets/rhode_A6.JPG) 
 
+<br>
 
 <br>
 
 # Package B
 
+
+
+
 ## Image B1:
 ![](/assets/rhode_B1.JPG) 
+
+<br>
+
 
 ## Image B2:
 ![](/assets/rhode_B2.JPG) 
 
+<br>
+
 ## Image B3:
 ![](/assets/rhode_B3.JPG) 
+
+<br>
 
 ## Image B4:
 ![](/assets/rhode_B4.JPG) 
 
+<br>
+
 ## Image B5:
 ![](/assets/rhode_B5.JPG) 
+
+<br>
 
 ## Image B6:
 ![](/assets/rhode_B6.JPG) 
 
+<br>
 
 <br>
 
@@ -83,20 +116,32 @@ I repeated this process for all three packages of the product.  The results are 
 ## Image C1:
 ![](/assets/rhode_C1.JPG) 
 
+<br>
+
 ## Image C2:
 ![](/assets/rhode_C2.JPG) 
+
+<br>
 
 ## Image C3:
 ![](/assets/rhode_C3.JPG) 
 
+<br>
+
 ## Image C4:
 ![](/assets/rhode_C4.JPG) 
+
+<br>
 
 ## Image C5:
 ![](/assets/rhode_C5.JPG) 
 
+<br>
+
 ## Image C6:
 ![](/assets/rhode_C6.JPG) 
+
+<br>
 
 <br>
 
