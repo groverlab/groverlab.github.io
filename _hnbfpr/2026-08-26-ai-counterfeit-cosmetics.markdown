@@ -1,18 +1,18 @@
 ---
 layout: post
 title:  'Identifying fake cosmetics using artificial intelligence'
-date:   2026-08-25 01:00:00 -0800
+date:   2026-08-26 01:00:00 -0800
 ---
 
 ![](/assets/rhode_packages.jpeg) 
 
 My lab develops [low-cost and easy-to-use tools for identifying fake medicines](/fakes), but we're always on the lookout for other types of fakes that we can go after.  For example, the cosmetics industry has a massive problem with counterfeit products.  Studies estimate that two-thirds of branded makeup and skincare products on sites like eBay, TikTok Shop, and Vinted are fake.  Counterfeit cosmetics don't just waste consumers' money; they also may expose wearers to harmful contaminants like heavy metals and bacteria.
-
-As part of an ongoing study, I've been purchasing both authentic and counterfeit versions of various cosmetics.  I'm always struck by how much work goes into making the fakes look authentic.  At a glance, the counterfeit versions of a product are virtually indistinguishable from the genuine ones.  However, with a little research and a close inspection, you can start to find little inconsistencies that give away the fakes.  But not everyone has the time or expertise to research a particular product before they buy it.  That got me wondering: **could artificial intelligence identify a counterfeit product?**  If so, then consumers could snap some photos and use ChatGPT or Gemini or Claude to verify an item before they purchase it.
+ 
+As part of an ongoing study, I've been purchasing both authentic and counterfeit versions of various cosmetics.  I'm always struck by how much work fraudsters put into making the fakes look authentic.  At a glance, the counterfeit versions of a product are virtually indistinguishable from the genuine ones.  However, with a little research and some close inspection, you can start to find little inconsistencies that give away the fakes.  But not everyone has the time or expertise to research a particular product before they buy it.  That got me wondering: **could existing artificial intelligence models be used to identify a counterfeit product?**  If so, then consumers could snap some photos and use ChatGPT or Gemini or Claude to verify the authenticity of an item before they purchase it.
 
 <!--more-->
 
-To explore this idea, I took photos of three different tubes of Rhode Peptide Lip Tint.  I chose this product because it's a known target for counterfeiters according to [a recent New York Times article on fake beauty products](https://www.nytimes.com/wirecutter/reviews/counterfeit-beauty-products/).  For each tube, I took four photos of the cardboard box (one for each side) and two photos of the tube itself (front and back).  I then uploaded each tube's six photos to Google Gemini and used the Gemini 3.6 Flash model with Thinking enabled and fed it the prompt, "Is this tube of Rhode Peptide Lip Tint authentic?"
+To explore this idea, I took photos of three different packages of a particular product, "Rhode Peptide Lip Tint."  I chose this product because it's a known target for counterfeiters according to [a recent New York Times article on fake beauty products](https://www.nytimes.com/wirecutter/reviews/counterfeit-beauty-products/).  For each package, I took four photos of the cardboard box (one for each long side) and two photos of the tube (front and back).  I then uploaded each tube's six photos to Google Gemini and used the Gemini 3.6 Flash model with Thinking enabled and fed it the prompt, **"Is this tube of Rhode Peptide Lip Tint authentic?"**
 
 <br>
 
@@ -20,7 +20,7 @@ To explore this idea, I took photos of three different tubes of Rhode Peptide Li
 
 <br>
 
-I then recorded the model's response, then I prodded it to work a little harder using the prompt, "Are there any other red flags you can find?"
+I recorded the model's response, then I prodded it to work a little harder using the prompt, **"Are there any other red flags you can find?"**
 
 <br>
 
@@ -28,7 +28,7 @@ I then recorded the model's response, then I prodded it to work a little harder 
 
 <br>
 
-I repeated this process for all three packages of the product.  The results are further down, but if you'd like to first try your hand at determining whether the tubes are authentic or counterfeit, here are the photos.  There are three tubes (A, B, and C), with six images of each package (Image A1, A2, A3, etc.): 
+I repeated this process for all three packages of the product.  The results are further down, but if you'd like to first try your hand at determining whether these packages are authentic or counterfeit, here are the photos.  There are three packages (A, B, and C), with six images of each package (Image A1, A2, A3, etc.): 
 
 <br>
 <br>
@@ -38,7 +38,7 @@ I repeated this process for all three packages of the product.  The results are 
 
 
 ## Image A1:
-![](/assets/rhode_A1.JPG) 
+[![](/assets/rhode_A1.JPG)](/assets/rhode_A1.JPG)
 
 <br>
 
