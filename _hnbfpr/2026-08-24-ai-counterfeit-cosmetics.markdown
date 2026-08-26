@@ -4,7 +4,7 @@ title:  'Identifying fake cosmetics using artificial intelligence'
 date:   2026-08-25 01:00:00 -0800
 ---
 
-![](/assets/freezer1.jpg) 
+![](/assets/rhode_packages.jpeg) 
 
 My lab develops [low-cost and easy-to-use tools for identifying fake medicines](/fakes), but we're always on the lookout for other types of fakes that we can go after.  For example, the cosmetics industry has a massive problem with counterfeit products.  Studies estimate that two-thirds of branded makeup and skincare products on sites like eBay, TikTok Shop, and Vinted are fake.  Counterfeit cosmetics don't just waste consumers' money; they also may expose wearers to harmful contaminants like heavy metals and bacteria.
 
@@ -340,11 +340,13 @@ Is it possible that the product from Sephora is also fake?
 
 To find out, I went to the source and purchased a tube of Rhode Peptide Lip Tint (ribbon) directly from [Rhode's website](https://www.rhodeskin.com/products/peptide-lip-tint-ribbon):
 
-![]()
+![](/assets/rhode_factory.jpeg)
 
 If this package isn't authentic, then nothing is.  And I checked the ingredients list:
 
-![]()
+![](/assets/rhode_factory_closeup_1.jpeg)
+
+![](/assets/rhode_factory_closeup_2.jpeg)
 
 There they are, "S**v**nthetic" and "Ethylhex**v**l," just like my Package C from Sephora.  Authentic Rhode packages do have typos in their ingredient lists.
 
@@ -428,10 +430,15 @@ I then prompted the AI for more red flags, and these were the results:
 
 # Conclusions
 
-Based on this little experiment, what can we conclude about the potential for commercial AI tools like Gemini to identify counterfeit cosmetics?  
+Based on this little experiment, what are the prospects for using commercial AI tools like Gemini to identify counterfeit cosmetics?  
 
-asdf
+**AI was better than I expected at finding fakes.**  Gemini found meaningful packaging discrepancies that I didn't, like the mismatch between the distributor names on the box and the tube in Package A, and the malformed Irish postal codes on Packages B and C.  I suspect that the vast majority of humans inspecting these packages wouldn't pick up on these discrepancies.  Even if they did, they'd likely have to spend significant time poring over the packages to find these errors.  Gemini found them in a few seconds using just six photos of each package.  And this was using a general-purpose model, not one tailored for this particular task.  I'd say that for this particular skincare product and this particular AI model, 
 
+**AI struggled with photo artifacts.**  Many of Gemini's mistakes could be attributed to glare, shadow, parallax, and other photographic peculiarities.  This was a natural consequence of having only a few still images of each product to analyze.  In contrast, a human inspecting a package is constantly moving the box and tube to inspect it from all angles, so a human won't make these mistakes.  Consequently, having AI tools analyze short videos of suspect packages may be a more effective strategy than the one employed here.
+
+**AI was very good at finding typos on packaging.**  Most people won't notice the difference between "octyldodecanol" and "octyidodecanol" in a long list of chemicals, but AI excels at finding these errors. And typos like these frequently occur on counterfeit packages of this product.  HOWEVER...
+
+**Authentic products can have typos too.**  It's unfortunate that authentic packages of Rhode Peptide Lip Tint have two typos in their ingredient lists.  It doesn't just reflect poorly on Rhode's quality control---it also puts their products at greater risk of being incorrectly flagged as counterfeit by AI tools like Gemini which justifiably associate typos with counterfeit products.  Reputable manufacturers need to avoid mistakes on their packaging, especially if people start relying on their AI-powered phones to check the authenticity of a product before purchasing it.  And we should be looking into other anti-counterfeiting technologies too---I'm personally a fan of using random patterns to uniquely identify products, as we did with pharmaceuticals in our work on [CandyCodes](https://www.nature.com/articles/s41598-022-11234-4).
 
 
 
