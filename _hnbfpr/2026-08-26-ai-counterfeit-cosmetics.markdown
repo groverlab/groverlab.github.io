@@ -12,7 +12,7 @@ As part of an ongoing study, I've been purchasing both authentic and counterfeit
 
 <!--more-->
 
-To explore this idea, I took photos of three different packages of a particular product, "Rhode Peptide Lip Tint."  I chose this product because it's a known target for counterfeiters according to [a recent New York Times article on fake beauty products](https://www.nytimes.com/wirecutter/reviews/counterfeit-beauty-products/).  For each package, I took four photos of the cardboard box (one for each long side) and two photos of the tube (front and back).  I then uploaded each tube's six photos to Google Gemini and used the Gemini 3.6 Flash model with Thinking enabled and fed it the prompt, **"Is this tube of Rhode Peptide Lip Tint authentic?"**
+To explore this idea, I took photos of three different packages of a particular product, "Rhode Peptide Lip Tint."  I chose this product because it's a known target for counterfeiters according to [a recent New York Times article on fake beauty products](https://www.nytimes.com/wirecutter/reviews/counterfeit-beauty-products/).  For each package, I took four photos of the cardboard box (one for each long side) and two photos of the tube (front and back).  I then uploaded each tube's six photos to Google Gemini and used the Gemini 3.6 Flash model with "Thinking" enabled and fed it the prompt, **"Is this tube of Rhode Peptide Lip Tint authentic?"**
 
 ![](/assets/rhode_prompt_1.png) 
 
@@ -23,7 +23,7 @@ I recorded the model's response, then I prodded it to work a little harder using
 ![](/assets/rhode_prompt_2.png) 
 
 
-I repeated this process for all three packages of the product.  The results are further down, but if you'd like to first try your hand at determining whether these packages are authentic or counterfeit, here are the photos.  There are three packages (A, B, and C), with six images of each package (Image A1, A2, A3, etc.): 
+I repeated this process for all three packages of the product.  The results are further down, but if you'd like to first try your hand at determining whether these packages are authentic or counterfeit, here are the photos.  There are three packages (A, B, and C), each with six images of the package (Image A1, A2, A3, etc.): 
 
 <br>
 <br>
@@ -142,7 +142,7 @@ I repeated this process for all three packages of the product.  The results are 
 
 Those are the photos that I fed to Gemini.  If you want to try to determine for yourself which of the three packages are real and which are fake, don't scroll any further!
 
-When you're done, scroll on for my analysis of Gemini's assessments of these products....
+When you're done, scroll on for my analysis of Gemini's assessments of these products...
 
 <br>
 
@@ -165,7 +165,7 @@ For each package below, I start by saying where I got it from and whether it is 
 
 > 🤖 "This Rhode Peptide Lip Tint appears to be counterfeit due to several prominent typographical errors and packaging discrepancies between the box and the tube."
 
-✅ Gemini got it right.  The AI goes on to share specific observations that indicate that the product is counterfeit...
+✅ Gemini got it right.  The AI goes on to share specific observations that convinced it that the product is counterfeit...
 
 <br>
 
@@ -193,7 +193,7 @@ Gemini mistook glare on the tube from the room lighting for a printing typo.  A 
 
 <br>
 
-> 🤖 "Mismatched Distributor Information: The outer box lists **BIORIUS (Belgium and UK)** as the Responsible Person (RP), whereas the tube itself lists **PWC Services (Ireland and UK)**. Authentic products maintain identical regulatory contact details on both the outer packaging and the inner container."
+> 🤖 "Mismatched Distributor Information: The outer box lists **BIORIUS** (Belgium and UK) as the Responsible Person (RP), whereas the tube itself lists **PWC Services** (Ireland and UK). Authentic products maintain identical regulatory contact details on both the outer packaging and the inner container."
 
 ✅ This response really impressed me.  Gemini's not just looking for inconsistencies *within* photos; it's also looking for inconsistencies *across* photos.  I'll admit that I missed this one.
 
@@ -201,7 +201,7 @@ Gemini mistook glare on the tube from the room lighting for a printing typo.  A 
 
 ![](/assets/rhode_A6_closeup_5.JPG)
 
-By the way, the current authentic tubes of the product I've obtained only mention BIORIUS (on both the tube and the box) and not PWC, so it would appear that if you find a box or tube that mentions PWC, that suggests that the package is counterfeit.
+By the way, the current authentic tubes of the product I've obtained only mention BIORIUS (on both the tube and the box) and not PWC, so it would appear that if you find a recent box or tube that mentions PWC, that suggests that the package is counterfeit.
 
 <br>
 
@@ -211,7 +211,9 @@ By the way, the current authentic tubes of the product I've obtained only mentio
 
 ![](/assets/rhode_A6_closeup_4.JPG)
 
-If you see someone selling a package of Rhode Peptide Lip Tint with batch number 112505, I'd encourage you to take your business elsewhere.
+ If you see someone selling a package of Rhode Peptide Lip Tint with batch number 112505, I'd encourage you to take your business elsewhere.
+
+Additionally, while Gemini didn't notice this, I observed that there are no seams visible between the digits on the batch number.  Usually, batch numbers like this are created using small interchangeable metal digits inserted into the mold used to manufacture the plastic tube; each digit is a separate piece of metal, and employees can piece together the right digits for a particular batch.  On a reputable product, you can usually see little ridges in the plastic between the digits, caused by the plastic flowing into the small gaps between the metal pieces.  But on this tube, the batch number has no visible ridges, indicating that it was made using a solid piece of metal with a fixed number---that's suspicious. 
 
 <br>
 
