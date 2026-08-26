@@ -267,9 +267,9 @@ Good advice!  I then gave Gemini my follow-up prompt, "Are there any other red f
 
 <br>
 
-> 🤖 "Key Red Flags on Packaging & Tube:  Spelling Error in Usage Instructions ([Image B3](/assets/rhode_B3.JPG)): The top line of the usage text reads 'Appli tinted lip treatment daily...' instead of 'Apply'."
+> 🤖 "Spelling Error in Usage Instructions ([Image B3](/assets/rhode_B3.JPG)): The top line of the usage text reads 'Appli tinted lip treatment daily...' instead of 'Apply'."
 
-❌ Incorrect.  This is another case of Gemini mistaking light glare for a typo:
+❌ Incorrect.  This is another case of Gemini mistaking lighting glare for a typo:
 
 ![](/assets/rhode_B3_closeup.JPG)
 
@@ -278,6 +278,10 @@ Good advice!  I then gave Gemini my follow-up prompt, "Are there any other red f
 > 🤖 "Misspelled Ingredients ([Image B2](/assets/rhode_B2.JPG)): The ingredients list contains chemical spelling errors, including 'Octyidodecanol' (instead of Octyldodecanol) and 'Fliuorphlogopite' (instead of Fluorphlogopite)."
 
 ✅ That's right.  For a second time, Gemini notices typos in the complex chemical names in the ingredient list.  I think the second chemical is actually "Flluorphiogopite" on the box, but either way, it's a misspelling.  I noticed this one as well.
+
+![](/assets/rhode_B2_closeup_2.JPG)
+
+![](/assets/rhode_B2_closeup_3.JPG)
 
 <br>
 
