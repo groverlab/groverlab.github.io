@@ -213,7 +213,7 @@ By the way, the current authentic tubes of the product I've obtained only mentio
 
  If you see someone selling a package of Rhode Peptide Lip Tint with batch number 112505, I'd encourage you to take your business elsewhere.
 
-Additionally, while Gemini didn't notice this, I observed that there are no seams visible between the digits on the batch number.  Usually, batch numbers like this are created using small interchangeable metal digits inserted into the mold used to manufacture the plastic tube; each digit is a separate piece of metal, and employees can piece together the right digits for a particular batch.  On a reputable product, you can usually see little ridges in the plastic between the digits, caused by the plastic flowing into the small gaps between the metal pieces.  But on this tube, the batch number has no visible ridges, indicating that it was made using a solid piece of metal with a fixed number---that's suspicious. 
+Additionally, while Gemini didn't notice this, I observed that there are no seams visible between the digits on the batch number.  Usually, batch numbers like this are created using small interchangeable metal digits inserted into the mold used to manufacture the plastic tube; each digit is a separate piece of metal, and employees can piece together the right digits for a particular batch.  On a reputable product, you can usually see little ridges in the plastic between the digits, caused by the plastic flowing into the small gaps between the metal pieces during molding.  But on this tube, the batch number has no visible ridges, indicating that it was made using a solid piece of metal with a fixed number---that's suspicious. 
 
 <br>
 
@@ -310,7 +310,7 @@ But Gemini's claim that "Authentic Rhode packaging reads **'Apply this tinted li
 
 <br>
 
-> 🤖 "Lowercase Country Name ([Image B3](/assets/rhode_B3.JPG)): The origin line reads 'Made in italy' using a lowercase 'i' instead of capitalized 'Italy'."
+> 🤖 "Lowercase Country Name ([Image B3](/assets/rhode_B3.JPG)): The origin line reads **'Made in italy'** using a lowercase **'i'** instead of capitalized 'Italy'."
 
 ✅ This does look suspicious, especially since "Fabriqué en Italie" is capitalized correctly immediately afterwards.  I noticed this too.
 
@@ -320,7 +320,7 @@ But Gemini's claim that "Authentic Rhode packaging reads **'Apply this tinted li
 
 > 🤖 "Spacing Glitches ([Images B3](/assets/rhode_B3.JPG) & [B6](/assets/rhode_B6.JPG)): The box includes an errant space in **'SERVIC ES LIMITED'**, while the back of the tube omits the space in **'LIMITED,STANLAW'**.
 
-✅ Correct for both.  It's interesting that the missing space in **'LIMITED,STANLAW'** affects both Package A and Package B, even though many other elements of the packaging are different.  I also noticed these typos.
+✅ Correct for both.  It's interesting that the missing space in **'LIMITED,STANLAW'** affects both Package A and Package B, even though many other elements of the packaging are different between A and B.  I also noticed these typos.
 
 <br>
 
