@@ -177,13 +177,13 @@ For each package below, I start by saying where I got it from and whether it is 
 
 <br>
 
-> 🤖 "On the back of the tube, the regulatory text misspells **SOLUTIONS** as **PWC SOLOTIONS LIMITED** and omits a space in **LIMITED,STANLAW**.
+> 🤖 "On the back of the tube, the regulatory text misspells **SOLUTIONS** as **SOLOTIONS** and omits a space in **LIMITED,STANLAW**.
 
 ❌ The first part of this response is incorrect, and looking closely at [Image A6](/assets/rhode_A6.JPG), we can see why:
 
 ![](/assets/rhode_A6_closeup.JPG) 
 
-Gemini mistook glare on the tube from the room lighting for a printing typo.  A human wouldn't make this mistake.  
+Gemini mistook glare on the tube from the room lighting for a printing typo.  A human wouldn't make this mistake.   This is the first of several mistakes that we'll see Gemini make that can be attributed to photographic artifacts.
 
 ✅ The second part of Gemini's response, the missing space in **LIMITED,STANLAW**, is valid.  A reputable product shouldn't have typos like that (although---spoiler alert---we'll revisit that statement later on...)
 
@@ -191,13 +191,13 @@ Gemini mistook glare on the tube from the room lighting for a printing typo.  A 
 
 > 🤖 "Mismatched Distributor Information: The outer box lists **BIORIUS (Belgium and UK)** as the Responsible Person (RP), whereas the tube itself lists **PWC Services (Ireland and UK)**. Authentic products maintain identical regulatory contact details on both the outer packaging and the inner container."
 
-✅ This response impressed me.  Gemini's not just looking for inconsistencies *within* photos; it's also looking for inconsistencies *across* photos.  I'll admit that I missed this one.  By the way, the current authentic tubes of the product I've obtained only mention BIORIUS (on both the tube and the box) and not PWC, so it would appear that if you find a box or tube that mentions PWC, that suggests that the package is counterfeit.
+✅ This response really impressed me.  Gemini's not just looking for inconsistencies *within* photos; it's also looking for inconsistencies *across* photos.  I'll admit that I missed this one.  By the way, the current authentic tubes of the product I've obtained only mention BIORIUS (on both the tube and the box) and not PWC, so it would appear that if you find a box or tube that mentions PWC, that suggests that the package is counterfeit.
 
 <br>
 
 > 🤖 "Batch Code Stamp: The deeply stamped batch number (**112505**) on the tube's crimp is a known marking frequently seen on counterfeit Rhode lip products circulating from unauthorized sellers."
 
-✅ This is correct!  Several of my counterfeit packages have the same batch number, 112505, even though I obtained them from different sources.  If you see someone selling a package of Rhode Peptide Lip Tint with batch number 112505, I'd encourage you to run in the other direction.
+✅ This is correct!  In fact, several of my counterfeit packages have the same batch number, 112505, even though I obtained them from different sources.  If you see someone selling a package of Rhode Peptide Lip Tint with batch number 112505, I'd encourage you to take your business elsewhere.
 
 <br>
 
@@ -209,7 +209,7 @@ Good advice!  I then gave Gemini my follow-up prompt, "Are there any other red f
 
 <br>
 
-> 🤖 "Several additional packaging, text, and manufacturing red flags are present across the box and tube: Redundant Product Description: The back of the box ([Image A3](/assets/rhode_A3.JPG)) states, **'Apply this tinted lip tint daily...'**  Authentic Rhode packaging reads **'Apply this tinted lip treatment daily...'** Calling it a **'tinted lip tint'** is a clear text error."
+> 🤖 "Redundant Product Description: The back of the box ([Image A3](/assets/rhode_A3.JPG)) states, **'Apply this tinted lip tint daily...'**  Authentic Rhode packaging reads **'Apply this tinted lip treatment daily...'** Calling it a **'tinted lip tint'** is a clear text error."
 
 ✅  Gemini is correct that **"tinted lip tint"** is suspicious; the AI seems to be picking up on the awkward repetition of "tint," and I noticed this one too.  But Gemini's claim that "Authentic Rhode packaging reads **'Apply this tinted lip treatment daily'**" is incorrect, or at least out-of-date.  Current authentic packages read **"Apply this nourishing formula for a hint of tint and hydrated, pillowy-soft lips."** I'll call this response a success, even though Gemini got some of the details wrong.  
 
@@ -223,7 +223,11 @@ Good advice!  I then gave Gemini my follow-up prompt, "Are there any other red f
 
 > 🤖  "Postal Code Letter/Number Swap: On the regulatory text on the back of the tube ([Image A6](/assets/rhode_A6.JPG)), the Dublin postal code uses the capital letter **O** instead of the number **0** (**DO1 A2T5** instead of **D01 A2T5**)."
 
-✅ Now Gemini is just showing off...  The AI is correct on all fronts:  Ireland uses seven-character postal codes (called [Eircodes](https://en.wikipedia.org/wiki/Postal_addresses_in_the_Republic_of_Ireland)); the first three characters are called the *routing key* and **D01** (dee-zero-one) is the valid routing key for the [Dublin 1 postal district](https://en.wikipedia.org/wiki/Dublin_1).  But the tube says **DO1** (dee-oh-one) and that's not a valid routing key.  Hats off to Gemini on this one; I don't have enough familiarity with postal codes to notice something like this.   
+✅ Now Gemini is just showing off...  The AI is correct on all fronts:  Ireland uses seven-character postal codes (called [Eircodes](https://en.wikipedia.org/wiki/Postal_addresses_in_the_Republic_of_Ireland)); the first three characters are called the *routing key* and **D01** (dee-zero-one) is the valid routing key for the [Dublin 1 postal district](https://en.wikipedia.org/wiki/Dublin_1).  But the tube says **DO1** (dee-oh-one) and that's not a valid routing key:
+
+![](/assets/rhode_A6_closeup_2.JPG)
+
+ Hats off to Gemini on this one; I don't have enough familiarity with postal codes to notice something like this.   
 
 <br>
 
