@@ -192,19 +192,31 @@ It looks like someone scanned or photographed the actual ingredient list and the
 
 Gemini mistook glare on the tube from the room lighting for a printing typo.  A human wouldn't make this mistake.   This is the first of several mistakes that we'll see Gemini make that can be attributed to photographic artifacts.
 
-✅ The second part of Gemini's response, the missing space in **LIMITED,STANLAW**, is valid.  A reputable product shouldn't have typos like that (although---spoiler alert---we'll revisit that statement later on...)
+✅ The second part of Gemini's response, the missing space in **LIMITED,STANLAW**, is valid.  A reputable product shouldn't have typos like that (although---spoiler alert---we'll revisit that statement later on...).
+
+![](/assets/rhode_A6_closeup_3.JPG)
 
 <br>
 
 > 🤖 "Mismatched Distributor Information: The outer box lists **BIORIUS (Belgium and UK)** as the Responsible Person (RP), whereas the tube itself lists **PWC Services (Ireland and UK)**. Authentic products maintain identical regulatory contact details on both the outer packaging and the inner container."
 
-✅ This response really impressed me.  Gemini's not just looking for inconsistencies *within* photos; it's also looking for inconsistencies *across* photos.  I'll admit that I missed this one.  By the way, the current authentic tubes of the product I've obtained only mention BIORIUS (on both the tube and the box) and not PWC, so it would appear that if you find a box or tube that mentions PWC, that suggests that the package is counterfeit.
+✅ This response really impressed me.  Gemini's not just looking for inconsistencies *within* photos; it's also looking for inconsistencies *across* photos.  I'll admit that I missed this one.
+
+![](/assets/rhode_A3_closeup.JPG)
+
+![](/assets/rhode_A6_closeup_5.JPG)
+
+By the way, the current authentic tubes of the product I've obtained only mention BIORIUS (on both the tube and the box) and not PWC, so it would appear that if you find a box or tube that mentions PWC, that suggests that the package is counterfeit.
 
 <br>
 
 > 🤖 "Batch Code Stamp: The deeply stamped batch number (**112505**) on the tube's crimp is a known marking frequently seen on counterfeit Rhode lip products circulating from unauthorized sellers."
 
-✅ This is correct!  In fact, several of my counterfeit packages have the same batch number, 112505, even though I obtained them from different sources.  If you see someone selling a package of Rhode Peptide Lip Tint with batch number 112505, I'd encourage you to take your business elsewhere.
+✅ This is correct!  In fact, several of my counterfeit packages have the same batch number, 112505, even though I obtained them from different sources.
+
+![](/assets/rhode_A6_closeup_4.JPG)
+
+If you see someone selling a package of Rhode Peptide Lip Tint with batch number 112505, I'd encourage you to take your business elsewhere.
 
 <br>
 
@@ -218,13 +230,22 @@ Good advice!  I then gave Gemini my follow-up prompt, "Are there any other red f
 
 > 🤖 "Redundant Product Description: The back of the box ([Image A3](/assets/rhode_A3.JPG)) states, **'Apply this tinted lip tint daily...'**  Authentic Rhode packaging reads **'Apply this tinted lip treatment daily...'** Calling it a **'tinted lip tint'** is a clear text error."
 
-✅  Gemini is correct that **"tinted lip tint"** is suspicious; the AI seems to be picking up on the awkward repetition of "tint," and I noticed this one too.  But Gemini's claim that "Authentic Rhode packaging reads **'Apply this tinted lip treatment daily'**" is incorrect, or at least out-of-date.  Current authentic packages read **"Apply this nourishing formula for a hint of tint and hydrated, pillowy-soft lips."** I'll call this response a success, even though Gemini got some of the details wrong.  
+✅  Gemini is correct that **"tinted lip tint"** is suspicious; the AI seems to be picking up on the awkward repetition of "tint," and I noticed this one too.
+
+![](/assets/rhode_A3_closeup_2.JPG)
+
+But Gemini's claim that "Authentic Rhode packaging reads **'Apply this tinted lip treatment daily'**" is incorrect, or at least out-of-date.  Current authentic packages read **"Apply this nourishing formula for a hint of tint and hydrated, pillowy-soft lips."** I'll call this response a success, even though Gemini got some of the details wrong.  
 
 <br>
 
 > 🤖 "Italian Recycling Misspelling: Above the recycling icon on the box back ([Image A3](/assets/rhode_A3.JPG)), the text reads **RACCOLTA PLASTIC**. The correct Italian term is **RACCOLTA PLASTICA** (missing the **'A'** at the end)."
 
-✅ Correct!  And I missed this one (my Italian is limited to menu items at restaurants) but Google Translate informs me that "raccolta plastica" means "plastic collection."   I'll also note that this phrase (correct or otherwise) doesn't appear at all on current authentic packages, at least not on the ones I've gotten here in the US.  
+✅ Correct!  And I missed this one (my Italian is limited to menu items at restaurants) but Google Translate informs me that "raccolta plastica" means "plastic collection."  
+
+![](/assets/rhode_A3_closeup_3.JPG)
+
+ I'll also note that this phrase (correct or otherwise) doesn't appear at all on current authentic packages, at least not on the ones I've gotten here in the US.  
+
 
 <br>
 
