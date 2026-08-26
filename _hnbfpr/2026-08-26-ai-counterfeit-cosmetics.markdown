@@ -44,30 +44,30 @@ I repeated this process for all three packages of the product.  The results are 
 
 
 ## Image A2:
-![](/assets/rhode_A2.JPG) 
+[![](/assets/rhode_A2.JPG)](/assets/rhode_A2.JPG)
 
 <br>
 
 
 ## Image A3:
-![](/assets/rhode_A3.JPG) 
+[![](/assets/rhode_A3.JPG)](/assets/rhode_A3.JPG)
 
 <br>
 
 
 ## Image A4:
-![](/assets/rhode_A4.JPG) 
+[![](/assets/rhode_A4.JPG)](/assets/rhode_A4.JPG)
 
 <br>
 
 ## Image A5:
-![](/assets/rhode_A5.JPG) 
+[![](/assets/rhode_A5.JPG)](/assets/rhode_A5.JPG)
 
 <br>
 
 
 ## Image A6:
-![](/assets/rhode_A6.JPG) 
+[![](/assets/rhode_A6.JPG)](/assets/rhode_A6.JPG)
 
 <br>
 
@@ -79,33 +79,33 @@ I repeated this process for all three packages of the product.  The results are 
 
 
 ## Image B1:
-![](/assets/rhode_B1.JPG) 
+[![](/assets/rhode_B1.JPG)](/assets/rhode_B1.JPG)
 
 <br>
 
 
 ## Image B2:
-![](/assets/rhode_B2.JPG) 
+[![](/assets/rhode_B2.JPG)](/assets/rhode_B2.JPG)
 
 <br>
 
 ## Image B3:
-![](/assets/rhode_B3.JPG) 
+[![](/assets/rhode_B3.JPG)](/assets/rhode_B3.JPG)
 
 <br>
 
 ## Image B4:
-![](/assets/rhode_B4.JPG) 
+[![](/assets/rhode_B4.JPG)](/assets/rhode_B4.JPG)
 
 <br>
 
 ## Image B5:
-![](/assets/rhode_B5.JPG) 
+[![](/assets/rhode_B5.JPG)](/assets/rhode_B5.JPG)
 
 <br>
 
 ## Image B6:
-![](/assets/rhode_B6.JPG) 
+[![](/assets/rhode_B6.JPG)](/assets/rhode_B6.JPG)
 
 <br>
 
@@ -114,32 +114,32 @@ I repeated this process for all three packages of the product.  The results are 
 # Package C
 
 ## Image C1:
-![](/assets/rhode_C1.JPG) 
+[![](/assets/rhode_C1.JPG)](/assets/rhode_C1.JPG)
 
 <br>
 
 ## Image C2:
-![](/assets/rhode_C2.JPG) 
+[![](/assets/rhode_C2.JPG)](/assets/rhode_C2.JPG)
 
 <br>
 
 ## Image C3:
-![](/assets/rhode_C3.JPG) 
+[![](/assets/rhode_C3.JPG)](/assets/rhode_C3.JPG)
 
 <br>
 
 ## Image C4:
-![](/assets/rhode_C4.JPG) 
+[![](/assets/rhode_C4.JPG)](/assets/rhode_C4.JPG)
 
 <br>
 
 ## Image C5:
-![](/assets/rhode_C5.JPG) 
+[![](/assets/rhode_C5.JPG)](/assets/rhode_C5.JPG)
 
 <br>
 
 ## Image C6:
-![](/assets/rhode_C6.JPG) 
+[![](/assets/rhode_C6.JPG)](/assets/rhode_C6.JPG)
 
 <br>
 
@@ -159,6 +159,9 @@ Welcome back!  Let's find out if these packages are real or fake...
 
 For each package below, I start by saying where I got it from and whether it is authentic or counterfeit based on my professional assessment.  Then I go through Google Gemini's responses one-by-one, rating each response as either correct (✅) if the response is technically valid, or incorrect (❌) if Gemini got something factually wrong.
 
+<br>
+<br>
+
 # Package A
 
 **Package A is fake.**  I got it for about $5 from a sketchy eBay seller (authentic Rhode Peptide Lip Tint costs around $20).  Let's see what Gemini thinks...
@@ -173,7 +176,11 @@ For each package below, I start by saying where I got it from and whether it is 
 
 > 🤖 "Typographical Errors: The ingredients list on the outer box misspells **Diisostearyl Malate** as **Diisosteary! Malate** using an exclamation mark."
 
-✅ This is correct!  It looks like someone scanned or photographed the actual ingredient list and then used optical character recognition (OCR) to convert it to text, but the OCR thought that a lower-case L was an exclamation mark.  I also noticed this error.  
+✅ This is correct!
+
+![](/assets/rhode_A2_closeup.JPG)
+
+It looks like someone scanned or photographed the actual ingredient list and then used optical character recognition (OCR) to convert it to text, but the OCR thought that a lower-case L was an exclamation mark.  I also noticed this error.  
 
 <br>
 
@@ -249,7 +256,7 @@ Good advice!  I then gave Gemini my follow-up prompt, "Are there any other red f
 
 <br>
 
-
+<br>
 
 
 
@@ -373,7 +380,7 @@ The logos look pretty similar to me.
 
 <br>
 
-
+<br>
 
 
 
@@ -511,6 +518,3 @@ Based on this little experiment, what are the prospects for using commercial AI 
 **Authentic products can have typos too.**  It's unfortunate that authentic packages of Rhode Peptide Lip Tint have two typos in their ingredient lists.  It doesn't just reflect poorly on Rhode's quality control---it also puts their products at greater risk of being incorrectly flagged as counterfeit by AI tools like Gemini which justifiably associate typos with counterfeit products.  Reputable manufacturers need to avoid mistakes on their packaging, especially if people start relying on their AI-powered phones to check the authenticity of a product before purchasing it.  And we should be looking into other anti-counterfeiting technologies too---I'm personally a fan of using random patterns to uniquely identify products, as we did with pharmaceuticals in our work on [CandyCodes](https://www.nature.com/articles/s41598-022-11234-4).
 
 In conclusion, I'm pretty tepid about AI in general, but this experience made me cautiously optimistic about the role the technology could play in protecting consumers from counterfeit products.
-
-
-
