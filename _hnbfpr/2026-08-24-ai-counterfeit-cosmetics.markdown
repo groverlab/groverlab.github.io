@@ -239,11 +239,11 @@ Good advice!  I then gave Gemini my follow-up prompt, "Are there any other red f
 
 > 🤖 "Volume Spacing Errors: On the front right side of the box ([Image A1](/assets/rhode_A1.JPG)), the measurement text is crammed together as **10mL/0.3floze** without standard spaces separating the units or the **e** estimate symbol."
 
-❌ Also wrong.  The volume measurement text does look crammed together in [Image A1](/assets/rhode_A1.JPG), but it looks similarly crammed together on authentic boxes too.
+❌ Also wrong.  The volume measurement text does look weirdly crammed together in [Image A1](/assets/rhode_A1.JPG), but it looks similarly crammed together on authentic boxes too.
 
 <br>
 
-> 🤖 "Shade Name Placement: On the tube ([Image A6](/assets/rhode_A6.JPG)), the shade label ribbon is printed sideways directly against the crimped seam edge, which differs from standard factory placement."
+> 🤖 "Shade Name Placement: On the tube ([Image A6](/assets/rhode_A6.JPG)), the shade label **'ribbon'** is printed sideways directly against the crimped seam edge, which differs from standard factory placement."
 
 ❌ I'm also calling this one wrong.  In my judgement, the location of the shade name on [Image A6](/assets/rhode_A6.JPG) is indistinguishable from the location of the shade name on an authentic tube.  
 
@@ -269,7 +269,11 @@ Good advice!  I then gave Gemini my follow-up prompt, "Are there any other red f
 
 > 🤖 "Key Red Flags on Packaging & Tube:  Spelling Error in Usage Instructions ([Image B3](/assets/rhode_B3.JPG)): The top line of the usage text reads 'Appli tinted lip treatment daily...' instead of 'Apply'."
 
-❌ Incorrect.  This is another case of Gemini mistaking light glare for a typo.
+❌ Incorrect.  This is another case of Gemini mistaking light glare for a typo:
+
+![](/assets/rhode_B3_closeup.JPG)
+
+<br>
 
 > 🤖 "Misspelled Ingredients ([Image B2](/assets/rhode_B2.JPG)): The ingredients list contains chemical spelling errors, including 'Octyidodecanol' (instead of Octyldodecanol) and 'Fliuorphlogopite' (instead of Fluorphlogopite)."
 
