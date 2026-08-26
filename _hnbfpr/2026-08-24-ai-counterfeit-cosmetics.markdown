@@ -388,43 +388,51 @@ Gee, Gemini, that's unfortunate because I paid $20 for it and it's actually auth
 
 I then prompted the AI for more red flags, and these were the results:
 
-> 🤖 "Debossed Box Border (Image C1): The front of the carton features a raised, rectangular inset frame stamped around the text. Genuine Rhode boxes have a completely smooth, flat front panel with clean text printing rather than an embossed outline."
+> 🤖 "Debossed Box Border ([Image C1](/assets/rhode_C1.JPG)): The front of the carton features a raised, rectangular inset frame stamped around the text. Genuine Rhode boxes have a completely smooth, flat front panel with clean text printing rather than an embossed outline."
 
-❌ 
-
-<br>
-
-> 🤖 "Distorted Cruelty-Free Icon (Image C3): The bunny icon next to the 12M PAO symbol on the back of the box is a generic, warped silhouette instead of Rhode's official Leaping Bunny logo."
-
-❌ Same as in Package B, this is incorrect.
+❌ Same as before, this is wrong; the authentic boxes have embossed features.
 
 <br>
 
-> 🤖 "Text Ghosting on Tube (Image C5): The French translation line (**"BAUME À LÈVRES TEINTÉ AUX PEPTIDES"**) on the front of the plastic tube shows distinct shadow ghosting beneath the white letters, caused by misaligned double-printing."
+> 🤖 "Distorted Cruelty-Free Icon ([Image C3](/assets/rhode_C3.JPG)): The bunny icon next to the 12M PAO symbol on the back of the box is a generic, warped silhouette instead of Rhode's official Leaping Bunny logo."
+
+❌ Gemini seems to be confused here---the Leaping Bunny isn't Rhode's official logo.
+
+<br>
+
+> 🤖 "Text Ghosting on Tube ([Image C5](/assets/rhode_C5.JPG)): The French translation line (**"BAUME À LÈVRES TEINTÉ AUX PEPTIDES"**) on the front of the plastic tube shows distinct shadow ghosting beneath the white letters, caused by misaligned double-printing."
 
 ❌ Wrong; this appears to be yet another case of Gemini mistaking glare for a printing error.
 
 <br>
 
-> 🤖 "Overly Bold Crimp Batch Stamp (Image C6): The batch code (116099) pressed into the end seal of the tube is exceptionally deep, thick, and large. Authentic Rhode tubes use a much finer, subtle font for batch stamp indents."
+> 🤖 "Overly Bold Crimp Batch Stamp ([Image C6](/assets/rhode_C6.JPG)): The batch code (116099) pressed into the end seal of the tube is exceptionally deep, thick, and large. Authentic Rhode tubes use a much finer, subtle font for batch stamp indents."
 
 ❌ Also incorrect.  Maybe the lighting made the batch stamp look unusually deep?  Regardless, it's very similar to the tube direct from Rhode (but with a different batch number, as you might expect).
 
 <br>
 
-> 🤖 "Misaligned Shade Label (Image C6): The shade name "ribbon" is printed off-center directly against the crimped edge, causing the text to fade out along the border."
+> 🤖 "Misaligned Shade Label ([Image C6](/assets/rhode_C6.JPG)): The shade name **"ribbon"** is printed off-center directly against the crimped edge, causing the text to fade out along the border."
 
 ❌ Gemini also observed this in the fake packages, but to my eye the shade name is printed in roughly the same location on all of my tubes, both authentic and counterfeit.
 
 <br>
 
-> 🤖 "Coarse Crimp Texture (Images C5 & C6): The vertical seal ridges on the flat end of the tube are rough and unevenly pressed, whereas authentic packaging features a smooth, uniform crimp."
+> 🤖 "Coarse Crimp Texture ([Images C5](/assets/rhode_C5.JPG) & [C6](/assets/rhode_C6.JPG)): The vertical seal ridges on the flat end of the tube are rough and unevenly pressed, whereas authentic packaging features a smooth, uniform crimp."
 
 ❌ Similar to the batch code above, I think the lighting is playing tricks on Gemini.
 
 <br>
 
+<br>
+
+# Conclusions
+
+Based on this little experiment, what can we conclude about the potential for commercial AI tools like Gemini to identify counterfeit cosmetics?  
+
 asdf
+
+
 
 
 
