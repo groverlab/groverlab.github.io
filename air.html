@@ -4,70 +4,160 @@ permalink: /air/
 ---
 
 <div class="home">
+  <div class="shadow">
+    <video
+      autoplay
+      loop
+      muted
+      playsinline
+      preload="auto"
+      poster="/assets/gray_60ms_inverted.jpg"
+      width="100%"
+    >
+      <source src="/assets/gray_60ms_inverted.mp4" type="video/mp4" />
+      <!-- Fallback for browsers that don't support HTML5 video -->
+      <img src="/assets/gray_60ms_inverted.jpg" alt="Latching valves" />
+    </video>
+  </div>
 
-<!-- <div class="shadow">
-  <img src="/assets/pills.png">
-</div>
--->
-
-<div class="shadow">
-<video 
-  autoplay 
-  loop 
-  muted 
-  playsinline 
-  preload="auto" 
-  poster="/assets/gray_60ms_inverted.jpg"
-  width="100%"
->
-  <source src="/assets/gray_60ms_inverted.mp4" type="video/mp4">
-  <!-- Fallback for browsers that don't support HTML5 video -->
-  <img src="/assets/gray_60ms_inverted.jpg" alt="Latching valves">
-</video>
-</div>
-
-<br><br>
+  <br /><br />
 
   <h1>Teaching air to think</h1>
 
-<p><b>Pneumatic logic</b> uses air (not electricity) to perform computations.  It's an old idea that largely died out when electronic computers became ubiquitous,
-  but we believe that pneumatic logic has compelling advantages over electronic logic in certain applications.</p>
+  <p>
+    <b>Pneumatic logic</b> uses air (not electricity) to perform computations.
+    It's an old idea that largely died out when electronic computers became
+    ubiquitous, but we believe that pneumatic logic has compelling advantages
+    over electronic logic in certain applications.
+  </p>
 
-<p>In 2006, we showed that our air-powered <a href="/research/2003-01-01-monolithic-membrane-valves.html">microfluidic monolithic membrane valves</a> can control
-  air flow (and therefore a valve can control other valves).  This means that these valves can function like transistors in complex valve-based
-  pneumatic logic circuits.  Since then, we've used monolithic membrane valve-based pneumatic logic to make:
+  <p>
+    In 2006, we showed that our air-powered
+    <a href="/research/2003-01-01-monolithic-membrane-valves.html"
+      >microfluidic monolithic membrane valves</a
+    >
+    can control air flow (and therefore a valve can control other valves). This
+    means that these valves can function like transistors in complex valve-based
+    pneumatic logic circuits. Since then, we've used monolithic membrane
+    valve-based pneumatic logic to make:
+  </p>
   <ul>
-  <li><a href="/research/2006-01-01-latching-valves.html"> Latching microfluidic valves</a> that remember their open or closed state</li>
-<li> <a href="/research/2007-01-01-pneumatic-logic.html">Air-powered Boolean logic gates</a> like AND, OR, NOT, NAND, and NOR></li>
- <li>  An <a href="/research/2007-01-01-pneumatic-logic.html"> eight-bit ripple-carry adder</a> capable of adding any numbers from 0 to 255 using only air</li>
-    <li> A <a href="/research/2021-07-16-pneumatic-ram-chip.html">pneumatic random-access memory (RAM)</a> for reducing the amount of expensive hardware needed for controlling soft robots</li>
-    <li>  A <a href="/research/2024-08-12-parity-bit.html">pneumatic parity bit calculator</a> for detecting errors and faults in air-powered systems</li> 
-    <li>  A low-cost <a href="/research/2024-10-08-rocker.html">air-powered laboratory rocker</a> suitable for use in hospitals and clinics in resource-limited settings </li>
+    <li>
+      <a href="/research/2006-01-01-latching-valves.html">
+        Latching microfluidic valves</a
+      >
+      that remember their open or closed state
+    </li>
+    <li>
+      <a href="/research/2007-01-01-pneumatic-logic.html"
+        >Air-powered Boolean logic gates</a
+      >
+      like AND, OR, NOT, NAND, and NOR
+    </li>
+    <li>
+      An
+      <a href="/research/2007-01-01-pneumatic-logic.html">
+        eight-bit ripple-carry adder</a
+      >
+      capable of adding any numbers from 0 to 255 using only air
+    </li>
+    <li>
+      A
+      <a href="/research/2021-07-16-pneumatic-ram-chip.html"
+        >pneumatic random-access memory (RAM)</a
+      >
+      for reducing the amount of expensive hardware needed for controlling soft
+      robots
+    </li>
+    <li>
+      A
+      <a href="/research/2024-08-12-parity-bit.html"
+        >pneumatic parity bit calculator</a
+      >
+      for detecting errors and faults in air-powered systems
+    </li>
+    <li>
+      A low-cost
+      <a href="/research/2024-10-08-rocker.html"
+        >air-powered laboratory rocker</a
+      >
+      suitable for use in hospitals and clinics in resource-limited settings
+    </li>
   </ul>
-  and more on the way. 
-</p>
+  <p>and more on the way.</p>
 
+  <p>
+    Pneumatic logic can have advantages of electronic logic in some scenarios.
+    For example:
+  </p>
+  <ul>
+    <li>
+      <b
+        >Air-powered logic can't get hot or create sparks like electronic logic
+        can.</b
+      >
+      This makes pneumatic logic safer for use in potentially flammable or
+      explosive environments.
+    </li>
+    <li>
+      <b>Air-powered logic isn't damaged by exposure to water.</b>
+      So pneumatic logic circuits can operate safely in places like a
+      refrigerator or an incubator where condensation or humidity might ruin
+      electronic circuits.
+    </li>
+    <li>
+      <b>Air-powered logic can't shock or electrocute you.</b> That makes it
+      safer to use in close proximity to the human body in wearables or
+      prosthetics, or in hospitals where risks of electric shocks must be
+      minimized.
+    </li>
+    <li>
+      <b>Air-powered logic isn't affected by electromagnetic fields</b>. This
+      makes pneumatic logic circuits suitable for use in places like MRI
+      machines.
+    </li>
+    <li>
+      <b>Air-powered logic isn't damaged by radiation.</b> In contract,
+      electronic circuits on satellites have been rendered inoperable by cosmic
+      rays and other hazards.
+    </li>
+    <li>
+      <b
+        >Air-powered logic can reduce the cost of pneumatic control hardware.
+      </b>
+      For example, a pneumatic multiplexer can significantly reduce the number
+      of electromechanical solenoid valves required to operate a soft robot or
+      other pneumatic system.
+    </li>
+  </ul>
+  <p></p>
 
   <ul class="post-list">
-    {% for paper in site.research reversed %}
-      {% if paper.pneumaticlogic %}
-      <li>
-      <br>
+    {% for paper in site.research reversed %} {% if paper.pneumaticlogic %}
+    <li>
+      <br />
 
-        <h2>
-          <a class="post-link" href="{{ paper.url | prepend: site.baseurl }}">{{ paper.title }}</a>
-        </h2>
-        {{ paper.content }}
+      <h2>
+        <a class="post-link" href="{{ paper.url | prepend: site.baseurl }}"
+          >{{ paper.title }}</a
+        >
+      </h2>
+      {{ paper.content }}
 
-           <div class='altmetric-embed' data-template='dimensions' data-badge-popover='right' data-hide-no-mentions='true' data-doi="{{ paper.doi }}"></div>  <span class="__dimensions_badge_embed__" data-doi="{{ paper.doi }}" data-hide-zero-citations="true" data-style="small_rectangle"></span>
-
-
-      </li>
-      {% endif %}
-    {% endfor %}
+      <div
+        class="altmetric-embed"
+        data-template="dimensions"
+        data-badge-popover="right"
+        data-hide-no-mentions="true"
+        data-doi="{{ paper.doi }}"
+      ></div>
+      <span
+        class="__dimensions_badge_embed__"
+        data-doi="{{ paper.doi }}"
+        data-hide-zero-citations="true"
+        data-style="small_rectangle"
+      ></span>
+    </li>
+    {% endif %} {% endfor %}
   </ul>
-
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>
