@@ -2,6 +2,7 @@
 layout: post
 title:  "Monolithic membrane valves and diaphragm pumps for practical large-scale integration into glass microfluidic devices"
 doi:  "10.1016/S0925-4005(02)00468-9"
+pneumaticlogic: true
 ---
 
 William H. Grover, Alison M. Skelley, Chung N. Liu, Eric T. Lagally, Richard A. Mathies, [*Sensors and Actuators B* 89 (3), 315-323 (2003)](http://www.sciencedirect.com/science/article/pii/S0925400502004689).  [PDF](/assets/monolithic-membrane-valves.pdf)

@@ -2,6 +2,7 @@
 layout: post
 title:  "A pneumatic random-access memory for controlling soft robots"
 doi:  "10.1371/journal.pone.0254524"
+pneumaticlogic: true
 ---
 
 Shane Hoang, Konstantinos Karydis, Philip Brisk, and William H. Grover, 

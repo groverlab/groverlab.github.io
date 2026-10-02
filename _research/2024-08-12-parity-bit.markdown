@@ -2,6 +2,7 @@
 layout: post
 title:  "Air-powered logic circuits for error detection in pneumatic systems"
 doi:  "10.1016/j.device.2024.100507"
+pneumaticlogic: true
 ---
 
 Shane Hoang, Mabel Shehada, Zinal Patel, Minh-Huy Tran, Konstantinos Karydis, Philip Brisk, and William H. Grover, [*Device* 2, 100507 (2024)](https://www.sciencedirect.com/science/article/pii/S2666998624004071).

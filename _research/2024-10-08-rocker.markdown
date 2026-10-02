@@ -2,6 +2,7 @@
 layout: post
 title:  "Controlling biomedical devices using pneumatic logic"
 doi:  "10.1007/s10439-024-03628-4"
+pneumaticlogic: true
 ---
 
 Shane Hoang, Mabel Shehada, Konstantinos Karydis, Philip Brisk, and William H. Grover, [*Annals of Biomedical Engineering* 53, 207-216 (2024)](https://link.springer.com/article/10.1007/s10439-024-03628-4).  [PDF](/assets/rocker.pdf)
