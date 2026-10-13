@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COMSOL installation instructions
-permalink: /comsol/
+permalink: /comsolll/
 ---
 
 1. Go to https://systems.engr.ucr.edu/welcome and click on **My Account**, then follow the steps to set up your ENGR account.  Note that this ENGR account is BCOE-specific and different from your main UCR NetID that you use for most things.  You might have already set up your ENGR account during orientation.
