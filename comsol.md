@@ -40,7 +40,7 @@ permalink: /comsolll/
 
     - **If you just followed the VPN installation steps,** then you should be already connected to the VPN.  Move on to the next step.
 
-    - **If you already had the VPN installed on your computer for some reason, you need to run the Cisco Secure Client program on your computer to connect to the VPN.  This process is described in the VPN installation links above; skip down to the "Connect" section and follow the steps there.  Be sure to use the right address for the VPN server: `vpn.ucr.edu/bcoe`.
+    - **If you already had the VPN installed on your computer**, you need to run the Cisco Secure Client program on your computer to connect to the VPN.  This process is described in the VPN installation links above; skip down to the "Connect" section and follow the steps there.  Be sure to use the right address for the VPN server: `vpn.ucr.edu/bcoe`
 
  1.  Make absolutely sure that the VPN connection is successful and the VPN status is "Connected" before going to the next step!  To check, you should be able to find a little VPN icon at the top of your screen (if you're on a Mac) or the bottom of your screen (if you're on Windows); hovering over or clickign the icon should show that you're CONNECTED to the UCR VPN.  If you're not connected to the VPN, the following steps won't work!
  
@@ -48,5 +48,31 @@ permalink: /comsolll/
 
     - If you keep having problems with the VPN, you'll need to reach out to the UCR ITS folks for help:  https://its.ucr.edu/support 
 
+1.  Navigate to the folder that you downloaded the COMSOL installer to in a previous step.  It'll probably be in your **Downloads** folder.  Double-click on the file.  In the window that comes up, find and run the COMSOL installer program.
 
+    - On Windows, it'll be called **setup.exe**.  Right-click that file and select **Run as Administrator**.
+
+    - On Mac, it'll be called **COMSOL Installer**.  Right-click that file and select **Open**.  Say **OK** to any security warnings that might appear.
+
+1.  After a while, you'll see a screen asking for the language for installation.  Pick your preferred language and click **Next**.
+
+1.  Next you'll see a screen where you can choose between a new COMSOL installation, adding/removing products, changing the license, or uninstalling COMSOL.  Click on **New COMSOL Installation**.
+
+1.  On the next screen you'll see the COMSOL license info.  Follow these steps carefully:
+
+    1. Click **I accept the terms of this license**
+
+    2. In the dropdown beside **License information**, select `<port number>@<hostname>`
+
+    3. Beside **Port number**, enter `1718` 
+
+    4. Beside **Hostname**, enter `comsol.engr.ucr.edu`  (type carefully! be sure to spell "comsol" correctly!)
+
+    5. Now click **Next**.
+
+
+
+
+
+    
 
