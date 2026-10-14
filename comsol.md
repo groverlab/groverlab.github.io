@@ -80,7 +80,7 @@ permalink: /comsol/
 
     - **Your ENGR account might not be linked to the UCR VPN yet.**  Sometimes this can take longer than an hour to happen (maybe even up to a day in some cases).  So keep trying these steps occasionally over the next 24 hours.  Remember to reconnect the Cisco Secure (AnyConnect) VPN each time you try (back at Step 5) or it'll definitely fail again!.
 
-13. If all goes well, you'll see a screen where you can select the **products** to install.  Just leave the defaults as-is and click **Next**.
+13. If all goes well, you'll see a screen where you can select the **Products** to install.  Just leave the defaults as-is and click **Next**.
 
 14. Next is an **Options** screen.  Just leave the defaults and click **Next**.
 
