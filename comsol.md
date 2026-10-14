@@ -17,7 +17,7 @@ title: COMSOL installation instructions
 
 3. Start downloading the COMSOL installer for your computer.  This is a LARGE download so do this somewhere that you have a good reliable internet connection. If possible, start the download before bedtime and let it run overnight.  Download the COMSOL installer that matches your computer.  If you're a Mac user and you don't know if you have Apple Silicon or Intel, [read this to find out](https://support.apple.com/en-us/HT211814).
 
-    - **Windows users:** []()
+    - **Windows users:** []() 
 
     - **Mac users with newer Apple Silicon processors:**  [COMSOL64_full_macarm64.dmg](https://www.dropbox.com/scl/fi/t83iqepmyg6mwuvw3x3oo/COMSOL64_full_macarm64.dmg?rlkey=6q55o9gwmsct1n6d47re686gy&st=gldsgyqp&dl=0)
 
