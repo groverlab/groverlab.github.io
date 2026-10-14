@@ -44,11 +44,11 @@ permalink: /comsolll/
 
     - **If you already had the VPN installed on your computer**, you need to run the Cisco Secure Client program on your computer to connect to the VPN.  This process is described in the VPN installation links in Step 5 above; skip down to the "Connect" section and follow the steps there.  Be sure to use the right address for the VPN server: `vpn.ucr.edu/bcoe`
 
- 7.  Make absolutely sure that the Cisco Secure Client VPN connection is active and the VPN status is "Connected" before going to the next step!  To check, you should be able to find a little VPN icon at the top of your screen (if you're on a Mac) or the bottom of your screen (if you're on Windows); hovering over or clickign the icon should show that you're CONNECTED to the UCR VPN.  If you're not connected to the VPN, the following steps won't work!
- 
+7.  Make absolutely sure that the Cisco Secure Client VPN connection is active and the VPN status is "Connected" before going to the next step!  To check, you should be able to find a little VPN icon at the top of your screen (if you're on a Mac) or the bottom of your screen (if you're on Windows); hovering over or clickign the icon should show that you're CONNECTED to the UCR VPN.  If you're not connected to the VPN, the following steps won't work!
+
     - **If you're having problems getting the VPN connected**, it might be due to a poor wireless connection; try again later or from a different location.
 
-    - **If you keep having problems with the VPN**, you'll need to reach out to the UCR ITS folks for help:  [https://its.ucr.edu/support](https://its.ucr.edu/support
+    - **If you keep having problems with the VPN**, you'll need to reach out to the UCR ITS folks for help:  https://its.ucr.edu/support
 
 8.  Navigate to the folder that you downloaded the COMSOL installer to in a previous step.  It'll probably be in your **Downloads** folder.  Double-click on the file.  In the window that comes up, find and run the COMSOL installer program.
 
