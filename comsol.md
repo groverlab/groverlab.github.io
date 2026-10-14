@@ -4,11 +4,13 @@ title: COMSOL installation instructions
 permalink: /comsolll/
 ---
 
+# Installing COMSOL Multiphysics
+
 1. Go to [https://systems.engr.ucr.edu/welcome](https://systems.engr.ucr.edu/welcome) and click on **My Account**, then follow the steps to set up your ENGR account.  Note that this ENGR account is BCOE-specific and different from your main UCR NetID that you use for most things.  You might have already set up your ENGR account during orientation.
 
     - **If you already have an ENGR account but you've forgotten your username or password**, the same site can help you reset your password.
 
-    - **If you're not a BCOE student**, you'll probably need to go to the BCOE Systems office to ask them set up an account for you - they are located down the hallway to the left of the Bytes cafe on the first floor of in Winston Chung Hall.  Tell them that you're not a BCOE student but you're enrolled in BIEN 010 and you need access to COMSOL Multiphysics for the class.  They should be able to set you up with an ENGR account.
+    - **If you're not a BCOE student**, you'll probably need to go to the BCOE Systems office to ask them set up an account for you - they are located down the hallway to the left of the Bytes cafe on the first floor of in Winston Chung Hall.  Tell them that you're not a BCOE student but you're enrolled in a Bioengineering class and you need access to COMSOL Multiphysics for the class.  They should be able to set you up with an ENGR account.
 
 1. After your ENGR account is successfully set up, **wait for at least an hour before trying to install COMSOL** to give the system time to make the necessary connections between your ENGR and UCR accounts.  While you're waiting, you can...
 
@@ -28,13 +30,13 @@ permalink: /comsolll/
 
     - **If you HAVE NOT used the UCR VPN before**, you'll need to follow these instructions to download and install it on your computer.  These instructions guide you through both installing AND CONNECTING TO the VPN.  
 
-        - **Windows users:**  [VPN installation on Windows](https://docs.google.com/document/d/1PLoDH4kyM9RgnWTfy__sDxsYdNmwk9d_yfW3JEIAVQM/edit?usp=sharing)
+        - **Windows users:**  [VPN installation and connection on Windows](https://docs.google.com/document/d/1PLoDH4kyM9RgnWTfy__sDxsYdNmwk9d_yfW3JEIAVQM/edit?usp=sharing)
 
-        - **Mac users:**  [VPN installation on Mac](https://docs.google.com/document/d/1vABPUWcDA6nsVtU_dqWA6V3w5muIl8PIGvakAxbsgYE/edit?usp=sharing)
+        - **Mac users:**  [VPN installation and connection on Mac](https://docs.google.com/document/d/1vABPUWcDA6nsVtU_dqWA6V3w5muIl8PIGvakAxbsgYE/edit?usp=sharing)
 
     - **If you ALREADY HAVE the UCR VPN installed**, continue to the next step.  Pay attention to the server name in the next step; you may need to update your server name due to recent changes to the VPN.
 
-    - **If you have trouble connecting to the UCR VPN,** you'll need to reach out to the UCR ITS folks for help:  https://its.ucr.edu/support 
+    - **If you have trouble connecting to the UCR VPN,** you'll need to reach out to the UCR ITS folks for help:  [https://its.ucr.edu/support](https://its.ucr.edu/support)
 
 1.  Once you have the UCR VPN installed, you need to connect to the VPN.
 
@@ -42,11 +44,11 @@ permalink: /comsolll/
 
     - **If you already had the VPN installed on your computer**, you need to run the Cisco Secure Client program on your computer to connect to the VPN.  This process is described in the VPN installation links above; skip down to the "Connect" section and follow the steps there.  Be sure to use the right address for the VPN server: `vpn.ucr.edu/bcoe`
 
- 1.  Make absolutely sure that the VPN connection is successful and the VPN status is "Connected" before going to the next step!  To check, you should be able to find a little VPN icon at the top of your screen (if you're on a Mac) or the bottom of your screen (if you're on Windows); hovering over or clickign the icon should show that you're CONNECTED to the UCR VPN.  If you're not connected to the VPN, the following steps won't work!
+ 1.  Make absolutely sure that the Cisco Secure Client VPN connection is active and the VPN status is "Connected" before going to the next step!  To check, you should be able to find a little VPN icon at the top of your screen (if you're on a Mac) or the bottom of your screen (if you're on Windows); hovering over or clickign the icon should show that you're CONNECTED to the UCR VPN.  If you're not connected to the VPN, the following steps won't work!
  
     - If you're having problems getting the VPN connected, it might be due to a poor wireless connection; try again later or from a different location.
 
-    - If you keep having problems with the VPN, you'll need to reach out to the UCR ITS folks for help:  https://its.ucr.edu/support 
+    - If you keep having problems with the VPN, you'll need to reach out to the UCR ITS folks for help:  [https://its.ucr.edu/support](https://its.ucr.edu/support)
 
 1.  Navigate to the folder that you downloaded the COMSOL installer to in a previous step.  It'll probably be in your **Downloads** folder.  Double-click on the file.  In the window that comes up, find and run the COMSOL installer program.
 
@@ -86,10 +88,20 @@ permalink: /comsolll/
 
 1. Finally you'll reach a screen that lists everything to be installed.  Click the **Install** button at the bottom.  Installation can take a while.  Don't close your laptop or let your computer fall asleep during this process!  Make sure it stays connected to the internet and the VPN server.
 
-1. Once the installation is finished, you can close the installer program.  You might be prompted to install COMSOL updates; you can safely ignore this for now.
+1. Once the installation is finished, you can close the installer program.  You might be prompted to install COMSOL updates; you can safely ignore this for now.  After you successfully run COMSOL Multiphysics in the next section, you can delete the COMSOL installer from your Downloads folder to save space.
 
-1. If everything went OK, you should be able to find a program called **COMSOL Multiphysics (Classkit License)** in the Programs/Applications installed on your computer.  Note that COMSOL installs several programs with similar names; you're looking for the one called **COMSOL Multiphysics (Classkit License).**
+# Running COMSOL Multiphysics
 
+1. Before running COMSOL Multiphysics, you must be connected to the Cisco Secure (AnyConnect) VPN, just like you were when you installed it.
 
-    
+    - If you're still connected to the VPN because you just installed COMSOL, you're good to go, move on to the next step.
 
+    - If you're not connected to the VPN, you need to do it now.  Here are the instructions - complete all the steps if you need to install the VPN, or complete just the steps after **Connect** if you've already installed it:
+
+        - **Windows users:**  [VPN installation and connection on Windows](https://docs.google.com/document/d/1PLoDH4kyM9RgnWTfy__sDxsYdNmwk9d_yfW3JEIAVQM/edit?usp=sharing)
+
+        - **Mac users:**  [VPN installation and connection on Mac](https://docs.google.com/document/d/1vABPUWcDA6nsVtU_dqWA6V3w5muIl8PIGvakAxbsgYE/edit?usp=sharing)
+
+1. Make absolutely sure that the Cisco Secure Client VPN connection is active and the VPN status is "Connected" before going to the next step!  To check, you should be able to find a little VPN icon at the top of your screen (if you're on a Mac) or the bottom of your screen (if you're on Windows); hovering over or clickign the icon should show that you're CONNECTED to the UCR VPN.  If you're not connected to the VPN, the following steps won't work!
+
+1. You should be able to find a program called **COMSOL Multiphysics (Classkit License)** in the Programs/Applications installed on your computer.  Note that COMSOL installs several programs with similar names; you're looking for the one called **COMSOL Multiphysics (Classkit License).**  Double-click that program to run COMSOL!
