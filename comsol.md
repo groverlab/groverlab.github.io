@@ -1,6 +1,7 @@
 ---
 layout: page
 title: COMSOL installation instructions
+permalink: /comsol/
 ---
 
 # Installing COMSOL Multiphysics
