@@ -6,7 +6,7 @@ permalink: /comsol/
 
 # Installing COMSOL Multiphysics
 
-1. Go to [https://systems.engr.ucr.edu/welcome](https://systems.engr.ucr.edu/welcome) and click on **My Account**, then follow the steps to set up your ENGR account.  Note that this ENGR account is BCOE-specific and different from your main UCR NetID that you use for most things.  You might have already set up your ENGR account during orientation.
+1. Go to [https://systems.engr.ucr.edu/welcome](https://systems.engr.ucr.edu/welcome) and click on **My Account**, log in using your UCR NetID, then follow the steps to set up your ENGR account.  Note that this ENGR account is BCOE-specific and separate from your main UCR NetID that you use for most things.  You might have already set up your ENGR account during orientation.
 
     - **If you already have a preexisting ENGR account and you can successfully log in to it on the above page**, you're good to go on to Step 3.
 
