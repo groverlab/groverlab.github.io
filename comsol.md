@@ -46,9 +46,9 @@ permalink: /comsolll/
 
  1.  Make absolutely sure that the Cisco Secure Client VPN connection is active and the VPN status is "Connected" before going to the next step!  To check, you should be able to find a little VPN icon at the top of your screen (if you're on a Mac) or the bottom of your screen (if you're on Windows); hovering over or clickign the icon should show that you're CONNECTED to the UCR VPN.  If you're not connected to the VPN, the following steps won't work!
  
-    - If you're having problems getting the VPN connected, it might be due to a poor wireless connection; try again later or from a different location.
+    - **If you're having problems getting the VPN connected**, it might be due to a poor wireless connection; try again later or from a different location.
 
-    - If you keep having problems with the VPN, you'll need to reach out to the UCR ITS folks for help:  [https://its.ucr.edu/support](https://its.ucr.edu/support)
+    - **If you keep having problems with the VPN**, you'll need to reach out to the UCR ITS folks for help:  [https://its.ucr.edu/support](https://its.ucr.edu/support
 
 1.  Navigate to the folder that you downloaded the COMSOL installer to in a previous step.  It'll probably be in your **Downloads** folder.  Double-click on the file.  In the window that comes up, find and run the COMSOL installer program.
 
@@ -62,17 +62,17 @@ permalink: /comsolll/
 
 1.  On the next screen you'll see the COMSOL license info.  Follow these steps carefully:
 
-    1. Click **I accept the terms of this license**
+    - Click **I accept the terms of this license**
 
-    2. In the dropdown beside **License information**, select `<port number>@<hostname>`
+    - In the dropdown beside **License information**, select `<port number>@<hostname>`
 
-    3. Beside **Port number**, enter `1718` 
+    - Beside **Port number**, enter `1718` 
 
-    4. Beside **Hostname**, enter `comsol.engr.ucr.edu`  (type carefully! be sure to spell "comsol" correctly!)
+    - Beside **Hostname**, enter `comsol.engr.ucr.edu`  (type carefully! be sure to spell "comsol" correctly!)
 
-    5. Now click **Next**.
+    - Now click **Next**.
 
-1. If you compete the previous step and and get an error saying "license could not be validated," it's probably one of three things:
+1. If you compete the previous step and and get an error saying **"license could not be validated"**, it's probably one of three things:
 
     - **You're probably not fully connected to the VPN.**  Confirm that your Cisco Secure (AnyConnect) VPN status is "Connected."  If it isn't, go back to step 1.
 
