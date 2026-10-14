@@ -70,8 +70,25 @@ permalink: /comsolll/
 
     5. Now click **Next**.
 
+1. If you compete the previous step and and get an error saying "license could not be validated," it's probably one of three things:
 
+    - **You're probably not fully connected to the VPN.**  Confirm that your Cisco Secure (AnyConnect) VPN status is "Connected."  If it isn't, go back to step 1.
 
+    - **You mistyped something in the license step.**  Double-check everything (make sure you spelled "comsol" right!).
+
+    - Your ENGR account might not be linked to the UCR VPN yet.  Sometimes this can take longer than an hour to happen (maybe even up to a day in some cases).  So keep trying these steps occasionally over the next 24 hours.  Remember to reconnect the Cisco Secure (AnyConnect) VPN each time you try or it'll definitely fail again!.
+
+1. If all goes well, you'll see a screen where you can select the **products** to install.  Just leave the defaults as-is and click **Next**.
+
+1. Next is an **Options** screen.  Just leave the defaults and click **Next**.
+
+1. Next is a screen about **LiveLink for MATLAB**.  Again just leave the defaults and click **Next**.
+
+1. Finally you'll reach a screen that lists everything to be installed.  Click the **Install** button at the bottom.  Installation can take a while.  Don't close your laptop or let your computer fall asleep during this process!  Make sure it stays connected to the internet and the VPN server.
+
+1. Once the installation is finished, you can close the installer program.  You might be prompted to install COMSOL updates; you can safely ignore this for now.
+
+1. If everything went OK, you should be able to find a program called **COMSOL Multiphysics (Classkit License)** in the Programs/Applications installed on your computer.  Note that COMSOL installs several programs with similar names; you're looking for the one called **COMSOL Multiphysics (Classkit License).**
 
 
     
