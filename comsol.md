@@ -18,11 +18,13 @@ permalink: /comsol/
 
 3. Start downloading the COMSOL installer for your computer.  This is a LARGE download so do this somewhere that you have a good reliable internet connection. If possible, start the download before bedtime and let it run overnight.  Download the COMSOL installer that matches your computer.  If you're a Mac user and you don't know if you have Apple Silicon or Intel, [read this to find out](https://support.apple.com/en-us/HT211814).
 
-    - **Windows users:** [COMSOL64_dvd.iso](https://www.dropbox.com/scl/fi/j8b374fhn98tjrbiddi3l/COMSOL64_dvd.iso?rlkey=59e7q794644nq0uaf2x3kbioh&st=nphbzc3f&dl=0) 
+    **NOTICE: I'M GETTING UPDATED INSTALL FILES.  THE VERSION 6.4 ONES WON'T WORK WITH OUR COLLEGE COMSOL LICENSE.  PLEASE CHECK BACK LATER TODAY AND I'LL HAVE UPDATED INSTALL FILES AVAILABLE.  THANK YOU!**
+
+    <!-- - **Windows users:** [COMSOL64_dvd.iso](https://www.dropbox.com/scl/fi/j8b374fhn98tjrbiddi3l/COMSOL64_dvd.iso?rlkey=59e7q794644nq0uaf2x3kbioh&st=nphbzc3f&dl=0) 
 
     - **Mac users with newer Apple Silicon processors:**  [COMSOL64_full_macarm64.dmg](https://www.dropbox.com/scl/fi/t83iqepmyg6mwuvw3x3oo/COMSOL64_full_macarm64.dmg?rlkey=6q55o9gwmsct1n6d47re686gy&st=gldsgyqp&dl=0)
 
-    - **Mac users with older Intel processors:**  [COMSOL64_full_maci64.dmg](https://www.dropbox.com/scl/fi/92rgy67irri3pmb8gxzox/COMSOL64_full_maci64.dmg?rlkey=ek9mzygqxeaulywromjn3z9bc&st=mqg2m119&dl=0)
+    - **Mac users with older Intel processors:**  [COMSOL64_full_maci64.dmg](https://www.dropbox.com/scl/fi/92rgy67irri3pmb8gxzox/COMSOL64_full_maci64.dmg?rlkey=ek9mzygqxeaulywromjn3z9bc&st=mqg2m119&dl=0) -->
 
 4. Once you've finished downloading the COMSOL installer and at least one hour has passed since creating your ENGR account, proceed to the next step.
 
