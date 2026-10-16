@@ -18,6 +18,8 @@ permalink: /comsol/
 
 3. Start downloading the COMSOL installer for your computer.  This is a LARGE download so do this somewhere that you have a good reliable internet connection. If possible, start the download before bedtime and let it run overnight.  Download the COMSOL installer that matches your computer.  If you're a Mac user and you don't know if you have Apple Silicon or Intel, [read this to find out](https://support.apple.com/en-us/HT211814).
 
+**NOTE:  You don't need to log in to Dropbox to download these files.  Just click "Download" and "Continue with download only."**
+
     - **Windows users:**  [COMSOL63_dvd.iso](https://www.dropbox.com/scl/fi/vymvuq79cyl5y2ulmchyp/COMSOL63_dvd.iso?rlkey=zy4jagvq0tqk26eeri6nnn7lk&st=3hjp5a8g&dl=0)
 
     - **Mac users with newer Apple Silicon processors:**  [COMSOL63_full_macarm64.dmg](https://www.dropbox.com/scl/fi/60o90ugnqjnp1cu21x4ix/COMSOL63_full_macarm64.dmg?rlkey=tac49gcpl9hkyk5yjmmha2v1z&st=khmydfi8&dl=0)
