@@ -16,7 +16,7 @@ permalink: /comsol/
 
 2. After your ENGR account is successfully set up, **wait for at least an hour before trying to install COMSOL** to give the system time to make the necessary connections between your ENGR and UCR accounts.  While you're waiting, you can...
 
-3. Start downloading the COMSOL installer for your computer.  This is a LARGE download so do this somewhere that you have a good reliable internet connection. If possible, start the download before bedtime and let it run overnight.  Download the COMSOL installer that matches your computer.  **NOTE:  You don't need to log in to Dropbox to download these files.  Just click "Download" and "Continue with download only."** If you're a Mac user and you don't know if you have Apple Silicon or Intel, [read this to find out](https://support.apple.com/en-us/HT211814).
+3. Start downloading the COMSOL installer for your computer.  This is a LARGE download so do this somewhere that you have a good reliable internet connection. If possible, start the download before bedtime and let it run overnight.  Download the COMSOL installer that matches your computer. If you're a Mac user and you don't know if you have Apple Silicon or Intel, [read this to find out](https://support.apple.com/en-us/HT211814).
 
     - **Windows users:**  [COMSOL63_dvd.iso](https://drive.google.com/file/d/1XN634RMcllbg0-JIdftGyxGXpmHtB0lY/view?usp=sharing)
 
