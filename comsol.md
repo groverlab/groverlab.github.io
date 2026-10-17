@@ -18,11 +18,11 @@ permalink: /comsol/
 
 3. Start downloading the COMSOL installer for your computer.  This is a LARGE download so do this somewhere that you have a good reliable internet connection. If possible, start the download before bedtime and let it run overnight.  Download the COMSOL installer that matches your computer.  **NOTE:  You don't need to log in to Dropbox to download these files.  Just click "Download" and "Continue with download only."** If you're a Mac user and you don't know if you have Apple Silicon or Intel, [read this to find out](https://support.apple.com/en-us/HT211814).
 
-    - **Windows users:**  [COMSOL63_dvd.iso](https://www.dropbox.com/scl/fi/vymvuq79cyl5y2ulmchyp/COMSOL63_dvd.iso?rlkey=zy4jagvq0tqk26eeri6nnn7lk&st=3hjp5a8g&dl=0)
+    - **Windows users:**  [COMSOL63_dvd.iso](https://drive.google.com/file/d/1XN634RMcllbg0-JIdftGyxGXpmHtB0lY/view?usp=sharing)
 
-    - **Mac users with newer Apple Silicon processors:**  [COMSOL63_full_macarm64.dmg](https://www.dropbox.com/scl/fi/60o90ugnqjnp1cu21x4ix/COMSOL63_full_macarm64.dmg?rlkey=tac49gcpl9hkyk5yjmmha2v1z&st=khmydfi8&dl=0)
+    - **Mac users with newer Apple Silicon processors:**  [COMSOL63_full_macarm64.dmg](https://drive.google.com/file/d/1GiOTq2jELGppaqEH4E6eriKkRVX-FUDr/view?usp=sharing)
 
-    - **Mac users with older Intel processors:** [COMSOL63_full_maci64.dmg](https://www.dropbox.com/scl/fi/nwq5bt1bztff9uxe6fxl1/COMSOL63_full_maci64.dmg?rlkey=2tezih18pcw4gnttelct9h9y8&st=c4jm2b2l&dl=0)
+    - **Mac users with older Intel processors:** [COMSOL63_full_maci64.dmg](https://drive.google.com/file/d/1woHVHefVdCKAsj75rH6wr30ByQR9qCE0/view?usp=sharing)
 
 4. Once you've finished downloading the COMSOL installer and at least one hour has passed since creating your ENGR account, proceed to the next step.
 
